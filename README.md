@@ -6,13 +6,12 @@
 </div>
 <br>
 
-Welcome to the  Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
+Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
 
 
 ## Course Overview
 
 The course is divided into X chapters, each covering a different aspect of being an open source maintainer:
-
 
 
 ### Additional Information
