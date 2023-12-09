@@ -8,11 +8,11 @@
 
 Welcome to the Becoming a Maintainer Course with OpenSauced! This course is designed to provide you with an introduction to how to become an open source maintainer and guide you through the process of creating your open source project, working with contributors, and more.
 
-
 ## Course Overview
 
 The course is divided into X chapters, each covering a different aspect of being an open source maintainer:
 
+### [Intro: Understanding the role of an open source maintainer](/intro.md)
 
 ### Additional Information
 
@@ -23,7 +23,7 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 ## Getting Started
 
-To start the course, navigate to the [`intro` file](/01-intro.md) in the repository or visit the [Intro to Open Source with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To start the course, navigate to the [`intro` file](/intro.md) in the repository or visit the [Intro to Open Source with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to an open source project or building your project from scratch!
 
