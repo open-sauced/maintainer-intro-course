@@ -1,2 +1,3 @@
 - Pages
   - [What is an Open Source Maintainer?](/intro.md)
+  - [Issues and Pull Requests](/Issues-and-Pull-Requests.md)
