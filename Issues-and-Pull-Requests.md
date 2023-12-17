@@ -56,11 +56,68 @@ But other times, you might realize this is an issue that will not be worked on. 
 
 ## How to Review Pull Requests
 
+There are many things to consider when reviewing pull requests. In this next section we are going to talk about how to provide good feedback and work with contributors on their pull requests.
+
+### How to Provide Good Code Reviews
+
+Good code reviews should be informative, constructive and helpful for both the reviewer and author. Remember that contributors have volunteered their time to help your project. So you want to make sure your review is generally a positive and informative one. You should consider using phrases like this:
+
+> "Let's using more descriptive variable names for better readability. Instead of variable d here let's go with days_until_deadline".
+
+While it is important to provide detailed reviews, you want to make sure to specify which changes are absolute fixes versus which ones are suggestions and nitpicks. If something is broken or hard to read/understand, then that should be something fixed in the pull request. You consider saying something like the following:
+
+> "This is a breaking change and was should change it to be this instead."
+
+If your suggested changes are minor suggestions/nitpicks, then make sure to indicate that in your review. That let's the author decide if they want to incorporate those changes in their pull request or not.
+
+### How to Manually Test Pull Requests
+
+If a pull request involves a small change to documentation or code, then there usually is no need to manually test the changes. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that every is working properly.
+
+If you have deploy previews setup through a service like [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/docs/deployments/preview-deployments), that is a good first step to manually testing the changes. If you don't have previews setup, then you should pull down the project locally to manually test the changes. The reason why it is important to take your time to manually test everything is because you are the last line of defense before a pull request is merged in. Without the proper testing, a new set of changes can break the application.
+
+If the pull request has broken a part of the application, then respond back to the author with detailed account of what went wrong. Sometimes, it helps to include a screenshot and/or recording of what is broken. If your automated tests did not catch the breaking change, then you should open up a separate issue to update your test suite. If you don't have a test suite setup to run on every pull request, then this is a good time to set that up.
+
+### How to Deal with Pull Requests Missing Tests
+
+Not all pull requests will need tests because they are small code changes or updates to documentation. But for larger features or refactors, there should be tests added to help ensure that everything is working as expected. If the pull request author has not setup tests, reach out to them on the PR to let them know what parts need to be tested. It would also be good to make sure this is outlined in your documentation that this is an expectation.
+
 ### How to Deal with Spam Pull Requests
 
-### How to Deal with Failing Tests
+There might be times where you will get a spam PR for your project. In these situations, it is best not to respond to the author, but instead close the PR and add a `spam` label on it.
 
-### How to Deal with Missing information in the Pull Request Body
+Here are some examples of spam PR's:
+
+- whitespace changes to README or other files
+- random changes to files without an accompanying issue or explanation
+- numerous links to unrelated websites or promotes products/services
+- plagiarized content from other sources without permission or proper attribution
+
+### How to Deal with Low Quality PR's
+
+Low quality pull requests unfortunately a lot of time and energy from the maintainer. Here are a few examples of low quality pull requests:
+
+- pull requests that are incomplete and do not address the entire issue
+- pull requests that lack proper documentation of the changes made
+- code that does not fit within the established style guide for the project
+- incomplete pull request templates that do not provide sufficient information on what changes where made
+- pull requests that address multiple issues at once and make it difficult to review
+
+If you receive a pull request that is lower in quality, reach out to the author explaining what is missing and what changes need to be made. A lot of the time contributors might not be aware of these issues and just need to extra explanation and time to improve their PR.
+
+### How to Deal with Failing Automated Tests
+
+Sometimes contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the PR is opened to give the contributor a chance to address the failing tests and resolve the issue on their own. If it looks like they are not addressing the issue, reach out to them on the PR and ask if they need help. If they help, look into why the test is failing and provide constructive feedback on how they can fix it. If the test if failing unrelated to their changes, then let them know that it is safe to ignore it and will be fixed in another PR.
+
+If the author does not address the issue and does not respond back to your initial reply then reply back with suggested fixes and reiterate that you are here to help. If several weeks or months have passed without a response from the author, then close the PR and move on.
+
+If multiple contributors are failing the same set of tests, then this possible that the tests are flaky or broken and need your attention. In those situations, you want to make it clear to contributor that the failing test is not their fault and will be resolved.
+
+### How to Deal With Stale Pull Requests
+
+Sometimes pull requests can be remain open for weeks or months at a time. If the PR has regular updates and conversations, that that is not considered a stale PR. If there has been little to no active for several weeks, then you will need to reach out to the contributor to see if they need help or are still interested in working on it.
+
+If you have tried repeatedly to reach out and get no response, then you should either close the PR or take it over. If you are taking it over, then communicate to them that you are bring this to the finish line because it is blocking other PRs.
 
 ## How to Highlight an Issue or PR with OpenSauced
 
