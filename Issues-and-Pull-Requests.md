@@ -121,6 +121,18 @@ If you have tried repeatedly to reach out and get no response, then you should e
 
 ## How to Highlight an Issue or PR with OpenSauced
 
+The [Highlights feature](https://docs.opensauced.pizza/features/highlights/) on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
+
+### Issue Highlights
+
+When writing issue highlights, you will want to talk about the issue, how the contributor solved it, and the impact that the solution had on the project. Once you post a highlight on OpenSauced, make sure to re share it on other platforms like Twitter or LinkedIn for increased visibility. Regularly acknowledging and thanking your contributors publicly will strengthen their loyalty to the project and attract new contributors.
+
+### PR Highlights
+
+When writing PR highlights, you will want to talk about the changes made in the PR, acknowledge the PR author and showcase how this is an improvement on the project. It would also be good to link to the actual PR for those interested in looking at the changes made. This is another way to gain attention for the project, because will get a first hand look at what types of contributions you are looking for and how well you work with contributors.
+
+To learn more about how the Highlights feature works, please read through the [OpenSauced documentation](https://docs.opensauced.pizza/features/highlights/).
+
 ## How to Provide Prompt Responses and Address Concerns
 
 ## How to Prioritize Tasks and Setting Realistic Timelines
