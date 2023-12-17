@@ -13,7 +13,7 @@ Here are some things to consider inside your `README.md`:
 - images of the app and/or code examples
 - tech and tools used in the project
 - link to the contributing guide
-- link to the code of conduct
+- link to the Code of Conduct
 - link to the open source license
 - link to community Discord, Slack group or GitHub discussions
 
@@ -27,15 +27,15 @@ Here are a few examples of good `README.md` files:
 
 ## How to Write an Installation Guide for Contributors
 
-When a new contributor is interested in working with your project, they will need a clear step-by-step guide on how to set up everything locally. This guide should include the following items:
+This guide should include instructions for the following:
 
 - instructions for forking the repository
 - instructions for cloning the repository
 - instructions for installing the dependencies
 - instructions for setting up the environment variables
-- instructions for setting up the database if applicable
+- instructions for setting up the database, if applicable
 - instructions for running the project locally
-- instructions for setting up Docker containers if applicable
+- instructions for setting up Docker containers, if applicable
 
 The best way to test your guide is by setting up the project locally using your guide. You will learn quickly if anything needs to be added or clarified if you encounter issues getting your project to work.
 
@@ -56,7 +56,13 @@ Some licenses are more restrictive, like the GNU GPL (General Public License), w
 - [OpenSauced Docs - MIT license](https://github.com/open-sauced/docs/blob/main/LICENSE)
 - [OpenSauced App - Apache License 2.0](https://github.com/open-sauced/app/blob/beta/LICENSE)
 
-To get a better understanding on which license would be work best for your project, please read through this helpful [article](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/). For a complete list of Open Source Initiative(OSI) approved licenses, please check out their list [here](https://opensource.org/licenses/).
+To better understand which license would work best for your project, please look at these helpful resources:
+
+- [How open source licenses work and how to add them to your projects
+  ](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/).
+- [tl;dr Legal](https://www.tldrlegal.com/)
+
+For a complete list of Open Source Initiative (OSI) approved licenses, please check out their list [here](https://opensource.org/licenses/).
 
 ## How to Write a Code Of Conduct
 
@@ -64,11 +70,13 @@ A Code of Conduct is an established set of rules and behaviors that all open sou
 
 This set of rules and expectations will go in inside a `CODE_OF_CONDUCT.md` file in the root directory of your project. Most Code of Conducts are broken up into three categories: pledge, standards, and enforcement.
 
+> Note: Most open source maintainers will not write their own Code of Conducts from scratch. Instead they will borrow or copy from other Code of Conducts and provide attribution.
+
 ### Project Pledge
 
 The opening pledge is a statement of the type of environment that the project wants to create. Here is an excerpt from the [OpenSauced Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md):
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+> In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ### Project Standards
 
@@ -76,7 +84,7 @@ The standards section explicitly lays out what is considered acceptable and non-
 
 Here is an example from the [OpenSauced Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md):
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behavior that contribute to creating a positive environment
 include:
 
 - Using welcoming and inclusive language
@@ -150,13 +158,15 @@ Similar to issue templates, pull request templates allow you to guide your contr
 Here are a few things to consider inside your pull request template:
 
 - section for contributors to detail which changes were made and why
-- section for the type of change made (Ex. bug fix, feature, style update, etc)
-- section to link corresponding issue tickets to the PR (Ex. closes #123 or fixes #456)
-- section to place screenshots and/recordings if applicable
+- section for the type of change made (e.g., bug fix, feature, style update, etc.)
+- section to link corresponding issue tickets to the PR (e.g., closes #123 or fixes #456)
+- section to place screenshots and/or screen recordings, if applicable
 
 Here is an example of a [good pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read through the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
 
 ## How to Work with GitHub Project Boards
+
+As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is a GitHub project board.
 
 GitHub project boards are a way for you and your team to structure your list of issues. You can organize your issues in a classic [Kanban](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) style by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
 
