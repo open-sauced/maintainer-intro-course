@@ -135,6 +135,12 @@ To learn more about how the Highlights feature works, please read through the [O
 
 ## How to Provide Prompt Responses and Address Concerns
 
+When you have incoming issues and pull requests it is important to schedule time for triage and reviews. Design a regular schedule that works for you so you have during the week to work with contributor issues and provide detailed pull request reviews.
+
+You should not feel pressured to immediately respond to new open issues or pull requests. It is fine if they are left unread for a few days. If a contributor is pushing you for a review or issue comment, politely respond back that you will get to it when you have time. You can also setup your own [GitHub action](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) to automate responses to new issues and PR's letting contributors know you will get to it when available.
+
+If contributors have concerns about the project, then you will want to create a safe space to make them comfortable talking about these issues. If they have concerns about the code or security aspects, feel free to discuss it on an open issue or even privately through Discord or Slack.
+
 ## How to Prioritize Tasks and Setting Realistic Timelines
 
 ## How to Handle Security Vulnerabilities Responsibly
