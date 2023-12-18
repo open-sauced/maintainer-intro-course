@@ -29,13 +29,13 @@ Here are a few examples of good `README.md` files:
 
 This guide should include instructions for the following:
 
-- instructions for forking the repository
-- instructions for cloning the repository
-- instructions for installing the dependencies
-- instructions for setting up the environment variables
-- instructions for setting up the database, if applicable
-- instructions for running the project locally
-- instructions for setting up Docker containers, if applicable
+- forking the repository
+- cloning the repository
+- installing the dependencies
+- setting up the environment variables
+- setting up the database, if applicable
+- running the project locally
+- setting up Docker containers, if applicable
 
 The best way to test your guide is by setting up the project locally using your guide. You will learn quickly if anything needs to be added or clarified if you encounter issues getting your project to work.
 
