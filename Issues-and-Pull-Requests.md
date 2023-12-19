@@ -143,4 +143,28 @@ If contributors have concerns about the project, then you will want to create a 
 
 ## How to Prioritize Tasks and Setting Realistic Timelines
 
+Sometimes it can be difficult to juggle all of the tasks required for maintaining an open source project. You will want to set aside time each week to triage issues and look through the project backlog to prioritize work to be done. You shouldn't feel pressured to label each issue and pull request a high priority. Realistically, there will always be a set of issues that are truly considered top priority while the rest can be addressed at a later time.
+
+When it comes to setting realistic timelines, make sure you add an extra few days to your estimate of work. So if you think that a new set of features will take a couple of weeks, tack on an each week. Issues come up all of the time in projects. So you don't want to timebox yourself to a very strict deadline when it probably wasn't realistic in the first place.
+
+When you are working with other volunteer contributors, allot for extra time to get the work done. If they are volunteering their time, they will probably run into other commitments which will delay their availability for you. It is important to lead with empathy and understanding and not demand that they adhere to a strict deadline like an employee would.
+
 ## How to Handle Security Vulnerabilities Responsibly
+
+In case security issues arise within your project, it's essential that your contributors are aware of the optimal methods for reporting them. You should have a `SECURITY.md` file which is a policy for reporting security vulnerabilities. This file is usually located in the root directory or `.github` directory of your project. It would also be good to link to the security file in your `README` for easier access by the community.
+
+A lot of maintainers will choose to go with this template `SECURITY.md` policy.
+
+> GitHub's [Bug Bounty program](https://bounty.github.com) rewards researchers for discovering security vulnerabilities in a number of repositories. The full list of projects that are eligible for rewards are [available on our Bug Bounty site](https://bounty.github.com/#scope).
+
+> If the repository is eligible for rewards, you can submit a report via [HackerOne](https://hackerone.com/github). You can find more useful information in our [rules](https://bounty.github.com/#rules) and [FAQ](https://bounty.github.com/#faqs).
+
+> For repositories not covered by the Bug Bounty program, please open an issue.
+
+### Adding Dependabot to Your Project
+
+Dependabot is a GitHub feature that will monitor your project's dependencies and report any possible security vulnerabilities found. You can configure dependabot to report issues or even create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
+
+### Configuring Code Scanning Tools
+
+There are plenty of third party tools that you can integrate into your project to scan your codebase and identity potential security vulnerabilities. GitHub has a automated tool called CodeQL that will run frequent security checks in your codebase. To learn more about code scanning tools, please read through the [GitHub documentation](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql).
