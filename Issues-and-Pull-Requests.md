@@ -20,7 +20,7 @@ If you are unable to reproduce the bug, then reach out to other teams member to 
 
 When triaging feature requests, you want to make sure that it is a good fit for your project. If you are interested in adding that feature, reach out to the original poster of the issue to see if they are interested in working on it. If they are interested, go ahead and assign that issue to them. Otherwise, add a `help wanted` or `accepting PRs` label on it.
 
-If the feature sounds like a good fit for the project, but is complex in nature, you might consider working on it yourself or having a core team member assigned to it. Large features that affect many files and moving parts in your application, should be handled by someone that is very experienced with the codebase and won't create more issues in the codebase.
+If the feature sounds like a good fit for the project, but is complex in nature, you might consider working on it yourself or having a core team member assigned to it. Large features that affect many files and moving parts in your application, should be handled by someone that is very experienced with the codebase and won't create more issues.
 
 Sometimes users will ask for features that are already on the roadmap or in progress by another contributor. If that is the case, then politely respond back to them to let them know it is already being worked on. Here is a template that you can use for a response:
 
@@ -28,7 +28,7 @@ Sometimes users will ask for features that are already on the roadmap or in prog
 
 If a feature request does not sound like a good fit for your project, then respond back to the original poster and close the issue. Here is a template that you can use for a response:
 
-> Thank you for your interest in our project. The feature you have proposed would not be a good fit for the current scope and direction of this project. As this time, we will not be moving forward with this feature.
+> Thank you for your interest in our project. The feature you have proposed would not be a good fit for the current scope and direction of this project. At this time, we will not be moving forward with this feature.
 
 ### How to Triage Documentation Issues
 
@@ -50,7 +50,7 @@ Some users will be quick to respond back to replies, while others might take lon
 
 ### How to Deal with Stale Issues
 
-For issues that haven't been worked on for months are considered stale. Sometimes you might be interested in resurrecting this issue and consider a higher priority item then before. If that is the case, then go through the normal triage process and add the appropriate labels to it.
+For issues that haven't been worked on for months are considered stale. Sometimes you might be interested in resurrecting this issue and making it a higher priority item. If that is the case, then go through the normal triage process and add the appropriate labels to it.
 
 But other times, you might realize this is an issue that will not be worked on. If that is the case, go ahead and close it for good. Some maintainers will choose to automate this process by using a GitHub action bot like this [one](https://github.com/actions/stale).
 
@@ -88,14 +88,14 @@ There might be times where you will get a spam PR for your project. In these sit
 
 Here are some examples of spam PR's:
 
-- whitespace changes to README or other files
+- whitespace changes to `README` or other files
 - random changes to files without an accompanying issue or explanation
 - numerous links to unrelated websites or promotes products/services
 - plagiarized content from other sources without permission or proper attribution
 
 ### How to Deal with Low Quality PR's
 
-Low quality pull requests unfortunately a lot of time and energy from the maintainer. Here are a few examples of low quality pull requests:
+Low quality pull requests unfortunately take a lot of time and energy from the maintainer. Here are a few examples of low quality pull requests:
 
 - pull requests that are incomplete and do not address the entire issue
 - pull requests that lack proper documentation of the changes made
@@ -107,7 +107,7 @@ If you receive a pull request that is lower in quality, reach out to the author 
 
 ### How to Deal with Failing Automated Tests
 
-Sometimes contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the PR is opened to give the contributor a chance to address the failing tests and resolve the issue on their own. If it looks like they are not addressing the issue, reach out to them on the PR and ask if they need help. If they help, look into why the test is failing and provide constructive feedback on how they can fix it. If the test if failing unrelated to their changes, then let them know that it is safe to ignore it and will be fixed in another PR.
+Sometimes contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the PR is opened to give the contributor a chance to address the failing tests and resolve the issue on their own. If it looks like they are not addressing the issue, reach out to them on the PR and ask if they need help. If they need help, look into why the test is failing and provide constructive feedback on how they can fix it. If the test is failing unrelated to their changes, then let them know that it is safe to ignore it and will be fixed in another PR.
 
 If the author does not address the issue and does not respond back to your initial reply then reply back with suggested fixes and reiterate that you are here to help. If several weeks or months have passed without a response from the author, then close the PR and move on.
 
@@ -115,9 +115,9 @@ If multiple contributors are failing the same set of tests, then this possible t
 
 ### How to Deal With Stale Pull Requests
 
-Sometimes pull requests can be remain open for weeks or months at a time. If the PR has regular updates and conversations, that that is not considered a stale PR. If there has been little to no active for several weeks, then you will need to reach out to the contributor to see if they need help or are still interested in working on it.
+Sometimes pull requests can be remain open for weeks or months at a time. If the PR has regular updates and conversations, that is not considered a stale PR. If there has been little to no active for several weeks, then you will need to reach out to the contributor to see if they need help or are still interested in working on it.
 
-If you have tried repeatedly to reach out and get no response, then you should either close the PR or take it over. If you are taking it over, then communicate to them that you are bring this to the finish line because it is blocking other PRs.
+If you have tried repeatedly to reach out and get no response, then you should either close the PR or take it over. If you are taking it over, then communicate to them that you are bringing this to the finish line because it is blocking other PRs.
 
 ## How to Highlight an Issue or PR with OpenSauced
 
@@ -129,7 +129,7 @@ When writing issue highlights, you will want to talk about the issue, how the co
 
 ### PR Highlights
 
-When writing PR highlights, you will want to talk about the changes made in the PR, acknowledge the PR author and showcase how this is an improvement on the project. It would also be good to link to the actual PR for those interested in looking at the changes made. This is another way to gain attention for the project, because will get a first hand look at what types of contributions you are looking for and how well you work with contributors.
+When writing PR highlights, you will want to talk about the changes made in the PR, acknowledge the PR author and showcase how this is an improvement on the project. It would also be good to link to the actual PR for those interested in looking at the changes made. This is another way to gain attention for the project, because it is a first hand look at what types of contributions you are looking for and how well you work with contributors.
 
 To learn more about how the Highlights feature works, please read through the [OpenSauced documentation](https://docs.opensauced.pizza/features/highlights/).
 
