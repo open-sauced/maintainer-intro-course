@@ -14,6 +14,8 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Intro: Understanding the role of an open source maintainer](/intro.md)
 
+### [Chapter 1: Setting Up Your Project](/how-to-setup-your-project.md)
+
 ### [Chapter 2: Issues and Pull Requests](/Issues-and-Pull-Requests.md)
 
 ### Additional Information
