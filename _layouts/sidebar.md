@@ -1,3 +1,5 @@
 - Pages
   - [What is an Open Source Maintainer?](/intro.md)
   - [Setting Up Your Project](/how-to-setup-your-project.md)
+  - [Issues and Pull Requests](/Issues-and-Pull-Requests.md)
+  - [How to Create Effective Communication and Collaboration](/how-to-create-effective-communication.md)
