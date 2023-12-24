@@ -20,4 +20,10 @@ You can read this [blog post](https://dev.to/opensauced/github-actions-a-maintai
 
 ## Saved Replies
 
+Sometimes, you must repeatedly write the same reply to issues or pull requests. When you do this manually, your message will not be consistent, and there will be a chance that your message is unclear. And it's crucial to keep clear communication between maintainers and contributors. You can create saved replies when you frequently respond to issues and pull requests with the same comments.
+
+[Saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/about-saved-replies) allow you to create a reusable response to issues, pull requests, and discussions and use it across repositories. It will save you time responding to contributors while keeping the consistency of your message. You can always modify your replies if necessary.
+
+Read the GitHub documentation for complete instructions about how to [create saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply).
+
 ## Code Owners
