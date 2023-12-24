@@ -12,7 +12,7 @@ Setting up GitHub Action to automate these tasks will save you time to reply to 
 
 If you want to use GitHub Actions in your project, you can search for them on the [GitHub Marketplace](https://github.com/marketplace?type=actions). You can [create your own actions](https://github.com/features/actions) or customize them from existing GitHub Actions if you don't see the one you need.
 
-You can read this blog post for more information about GitHub Actions.
+You can read this [blog post](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) for more information about GitHub Actions.
 
 ## CI/CD Pipelines
 
