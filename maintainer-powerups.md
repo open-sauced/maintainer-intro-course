@@ -27,3 +27,25 @@ Sometimes, you must repeatedly write the same reply to issues or pull requests. 
 Read the GitHub documentation for complete instructions about how to [create saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply).
 
 ## Code Owners
+
+Most of the time, contributors don't know the maintainers of a project, so they don't know who to add as reviewers. When they create a PR, they usually leave a comment like, "Can you please review my PR?" But usually, maintainers don't get notified about this new PR and comment, causing it to be missed from the radar. Adding the CODEOWNERS file to the repository will help you to automate and tackle this issue.
+
+From the [official GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners):
+
+> You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
+
+There are some benefits to having this file in your repository:
+
+- **Review request notification**
+
+  Once you have specified who can review and maintain a repository, these code owners are automatically notified and requested for review when someone opens a pull request that modifies code that they own. That way, you don't need to add reviewers manually.
+
+- **Prevent contributors from manually adding reviewers**
+
+  When a PR comes from external contributors, they cannot add reviewers manually. That way, they don't have to comment on the PR, and it also helps you by preventing them from adding non-maintainers —  such as regular contributors — as reviewers.
+
+- **Branch protection**
+
+  If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before the pull request can be merged into the protected branch.
+
+You can read the official GitHub documentation for complete instructions to [create the CODEOWNERS file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files).
