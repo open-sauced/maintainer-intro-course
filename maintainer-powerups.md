@@ -12,7 +12,10 @@ Setting up GitHub Action to automate these tasks will save you time in respondin
 
 If you want to use GitHub Actions in your project, you can search for them on the [GitHub Marketplace](https://github.com/marketplace?type=actions). You can [create your own actions](https://github.com/features/actions) or customize them from existing GitHub Actions if you don't see the one you need.
 
-You can read this [blog post](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) for more information about GitHub Actions.
+Here are some additional resources to give you more information about GitHub Actions and how to set one up:
+
+- [GitHub Actions: A Maintainer's Best Friend](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
+- [Setting Up Your First GitHub Action](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
 
 ## CI/CD Pipelines
 
@@ -42,7 +45,7 @@ There are some benefits to having this file in your repository:
 
 - **Prevent contributors from manually adding reviewers**
 
-  When a PR comes from external contributors, they cannot add reviewers manually. That way, they don't have to comment on the PR, and it also helps you by preventing them from adding non-maintainers —  such as regular contributors — as reviewers.
+  When a PR comes from external contributors, they cannot add reviewers manually. That way, they don't have to comment on the PR, and it also helps you by preventing them from adding non-maintainers — such as regular contributors — as reviewers.
 
 - **Branch protection**
 
