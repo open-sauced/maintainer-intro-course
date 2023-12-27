@@ -74,7 +74,7 @@ If your suggested changes are minor suggestions/nitpicks, then make sure to indi
 
 If a pull request involves a small change to documentation or code, then usually, there is no need to test the changes manually. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that everything is working properly.
 
-If you have deployed previews set up through a service like [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/docs/deployments/preview-deployments), that is a good first step to manually testing the changes. If you don't have previews set up, you should pull down the project locally to manually test the changes. It is essential to take your time to manually test everything because you are the last line of defense before a pull request is merged in.  A new set of changes can break the application without proper testing.
+If you have deployed previews set up through a service like [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/docs/deployments/preview-deployments), that is a good first step to manually testing the changes. If you don't have previews set up, you should pull down the project locally to manually test the changes. It is essential to take your time to manually test everything because you are the last line of defense before a pull request is merged in. A new set of changes can break the application without proper testing.
 
 If the pull request has broken a part of the application, then respond to the author with a detailed account of what went wrong. Sometimes, it helps to include a screenshot and/or recording of what is broken. If your automated tests did not catch the breaking change, you should open up a separate issue to update your test suite. If you don't have a test suite setup to run on every pull request, this is a perfect time to set that up.
 
@@ -97,11 +97,10 @@ Here are some examples of spam PR's:
 
 Low-quality pull requests, unfortunately, take a lot of time and energy from the maintainer. Here are a few examples of low-quality pull requests:
 
-- pull requests that are incomplete and do not address the entire issue
-- pull requests that lack proper documentation of the changes made
+- unfinished pull requests that do not address the entire issue
 - code that does not fit within the established style guide for the project
-- incomplete pull request templates that do not provide sufficient information on what changes where made
-- pull requests that address multiple issues at once and make it difficult to review
+- incomplete pull request forms that do not provide sufficient information on what changes were made
+- address multiple issues at once and make it difficult to review
 
 If you receive a pull request that is lower in quality, reach out to the author, explaining what is missing and what changes need to be made. Most of the time, contributors might not be aware of these issues and need extra explanation and time to improve their pull request.
 
