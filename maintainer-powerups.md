@@ -21,6 +21,17 @@ Here are some additional resources to give you more information about GitHub Act
 
 ## GitHub CLI
 
+[GitHub CLI](https://cli.github.com/) is an open source tool for using GitHub from your computer's command line. It allows you to:
+
+- forking and cloning repositories,
+- checking out a pull request and reviewing it locally,
+- creating issues and pull requests,
+- viewing a pull request, issue, or repository right from your terminal.
+
+Using GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
+
+Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing the GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
+
 ## Saved Replies
 
 Sometimes, you repeatedly write the same reply to issues or pull requests. It's crucial to keep clear communication between maintainers and contributors. So, when you write all comments manually, your message will no longer be consistent, and they may be unclear. You can create saved replies when you frequently respond to issues and pull requests with the same comments.
