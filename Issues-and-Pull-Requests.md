@@ -18,11 +18,11 @@ If you cannot reproduce the bug, then reach out to other team members to see if 
 
 ### How to Triage Issues Labeled as Feature Requests
 
-When triaging feature requests, you want to make sure that it is a good fit for your project. If you are interested in adding that feature, reach out to the original poster of the issue to see if they are interested in working on it. If they are interested, go ahead and assign that issue to them. Otherwise, add a `help wanted` or `accepting PRs` label on it.
+When triaging feature requests, you want to ensure it is a good fit for your project and that you are interested in adding it. Reach out to the original poster of the issue to see if they want to work on it. If they agree, go ahead and assign that issue to them. Otherwise, add a `help wanted` or `accepting PRs` label on it.
 
-If the feature sounds like a good fit for the project but is complex in nature, consider working on it yourself or having a core team member assigned to it. Large features affecting many files and moving parts in your application should be handled by someone who is experienced with the codebase and won't create more issues.
+Suppose the feature sounds like a good fit for the project but is complex in nature; consider working on it yourself or having a core team member assigned to it. Large features affecting many files and moving parts in your application should be handled by someone who is experienced with the codebase and won't create more issues.
 
-Sometimes, users will ask for features already on the roadmap or in progress by another contributor. If that is the case, you can politely respond to them to let them know it is already being worked on. Here is a template that you can use for a response:
+Sometimes, users will ask for features already on the roadmap or being worked on by another contributor. If so, you can politely respond to let them know about the status. Here is a template that you can use for a response:
 
 > Thank you for taking the time to open this issue. Another team member is currently working on this feature, and it will be added soon. As a result, we are going to close this issue.
 
@@ -46,7 +46,7 @@ There are no concrete details on the issues in that situation, and the poster is
 
 If the user does not provide concrete details about the issue, then kindly respond by asking them for more information. If it is a bug report, ask for more details on how to reproduce the bug. If it is a feature request, ask for clarification on style or functionality changes.
 
-Some users will quickly respond to replies, while others might take longer to reply. If you don't hear a response within a week, feel free to message them again for more details. If a few weeks pass and the issue is not considered critical, go ahead and close the issue.
+Some users will quickly respond to replies, while others might take longer. If you don't hear a response within a week, you can message them again for more details. If a few weeks pass and the issue is not considered critical, go ahead and close the issue.
 
 ### How to Deal with Stale Issues
 
@@ -72,21 +72,21 @@ If your suggested changes are minor suggestions/nitpicks, then make sure to indi
 
 ### How to Manually Test Pull Requests
 
-If a pull request involves a small change to documentation or code, then usually, there is no need to test the changes manually. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that everything is working properly.
+If a pull request involves a small change to documentation or code, then manually testing the changes is unnecessary. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that everything is working properly.
 
 If you have deployed previews set up through a service like [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/docs/deployments/preview-deployments), that is a good first step to manually testing the changes. If you don't have previews set up, you should pull down the project locally to manually test the changes. It is essential to take your time to manually test everything because you are the last line of defense before a pull request is merged in. A new set of changes can break the application without proper testing.
 
-If the pull request has broken a part of the application, then respond to the author with a detailed account of what went wrong. Sometimes, it helps to include a screenshot and/or recording of what is broken. If your automated tests did not catch the breaking change, you should open up a separate issue to update your test suite. If you don't have a test suite setup to run on every pull request, this is a perfect time to set that up.
+When the pull request has broken a part of the application, respond to the author with a detailed account of what went wrong. Sometimes, it helps to include a screenshot or screen recording to show what is broken. If your automated tests did not catch the breaking change, you should open up a separate issue to update your test suite. And if you don't have a test suite setup to run on every pull request, this is a perfect time to set that up.
 
 ### How to Deal with Pull Requests Missing Tests
 
-Not all pull requests will need tests because they are small code changes or updates to documentation. But for larger features or refactors, tests should be added to help ensure that everything is working as expected. If the pull request author has not set up tests, reach out to them on the PR to let them know what parts need to be tested. It would also be good to make sure this is outlined in your documentation as an expectation.
+Not all pull requests will need tests because they are small code changes or updates to documentation. But for larger features or refactors, tests should be added to help ensure that everything is working as expected. If the pull request author has not set up tests, reach out to them on the pull request to let them know what parts need to be tested. It would also help to outline adding tests in your documentation as an expectation.
 
 ### How to Deal with Spam Pull Requests
 
-There might be times when you will get a spam PR for your project. In these situations, it is best not to respond to the author. Instead, close the PR and add a `spam` label on it.
+There might be times when you will get a spam pull request for your project. In these situations, it is best not to respond to the author. Instead, close it and add a `spam` label on it.
 
-Here are some examples of spam PR's:
+Here are some examples of spam pull requests:
 
 - whitespace changes to `README` or other files
 - random changes to files without an accompanying issue or explanation
@@ -102,33 +102,33 @@ Low-quality pull requests, unfortunately, take a lot of time and energy from the
 - incomplete pull request forms that do not provide sufficient information on what changes were made
 - address multiple issues at once and make it difficult to review
 
-If you receive a pull request that is lower in quality, reach out to the author, explaining what is missing and what changes need to be made. Most of the time, contributors might not be aware of these issues and need extra explanation and time to improve their pull request.
+If you receive a pull request that is lower in quality, reach out to the author, explaining what is missing and what changes need to be made. Most of the time, contributors might not be aware of these issues and need extra explanation and time to improve their pull requests.
 
 ### How to Deal with Failing Automated Tests
 
-Sometimes, contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the pull request is opened to allow the contributor to address the failing tests and resolve the issue on their own. If they are not addressing the issue, reach out to them on the pull request and ask if they need help. If they need help, look into why the test is failing and provide constructive feedback on how they can fix it. If the failing test is unrelated to their changes, then let them know that it is safe to ignore it and will be fixed in another pull request.
+Sometimes, contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the pull request is opened to allow the contributor to address the failing tests and resolve the issue on their own. If they are not addressing the issue, reach out to them on the pull request and ask if they need help. When they do, look into why the test is failing and provide constructive feedback on how they can fix it. If the failing test is unrelated to their changes, let them know that it is safe to ignore it and that it will be fixed in another pull request.
 
-If the author does not address the issue and does not respond to your initial reply, then reply with suggested fixes and reiterate that you are here to help. If several weeks or months have passed without the author's response, close the PR and move on.
+If the author does not address the issue or respond to your initial comment, reply with suggested fixes and reiterate that you are here to help. After several weeks or months without the author's response, close the PR and move on.
 
 If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
 ### How to Deal With Stale Pull Requests
 
-Sometimes, pull requests can remain open for weeks or months at a time. If the PR has regular updates and conversations, that is not considered a stale PR. If there has been little to no activity for several weeks, you must contact the contributor to see if they need help or are still interested in working on it.
+Sometimes, pull requests can remain open for weeks or months at a time. They're not considered stale pull requests if they have regular updates and conversations. If there has been little to no activity for several weeks, you must contact the contributor to see if they need help or are still interested in working on it.
 
-If you have repeatedly tried to reach out and get no response, you should either close the PR or take it over. If you are taking it over, tell them you are bringing this to the finish line because it is blocking other PRs.
+If you have repeatedly tried to reach out and get no response, you should close the pull request or take it over. If you are taking it over, tell them you are bringing this to the finish line because it is blocking other pull requests.
 
-## How to Highlight an Issue or PR with OpenSauced
+## How to Highlight an Issue or Pull Request with OpenSauced
 
 The [Highlights feature](https://docs.opensauced.pizza/features/highlights/) on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
 
 ### Issue Highlights
 
-When writing issue highlights, you will want to talk about the issue, how the contributor solved it, and how the solution impacted the project. Once you post a highlight on OpenSauced, re-share it on other platforms like Twitter or LinkedIn for increased visibility. Regularly acknowledging and thanking your contributors publicly will strengthen their loyalty to the project and attract new contributors.
+When writing issue highlights, you will want to talk about the issue, how the contributor solved it, and how the solution impacted the project. Once you post a highlight on OpenSauced, re-share it on other platforms like Twitter or LinkedIn for increased visibility. Regularly acknowledging and thanking your contributors, especially in public, will strengthen their loyalty to the project and attract new contributors.
 
-### PR Highlights
+### Pull Request Highlights
 
-When writing PR highlights, you will want to talk about the changes made in the PR, acknowledge the PR author, and showcase how this is an improvement on the project. It would also be good to link to the actual PR for those interested in looking at the changes made. This is another way to gain attention for the project because it is a first-hand look at what types of contributions you are looking for and how well you work with contributors.
+When writing pull request highlights, you will want to talk about the changes made, acknowledge the author, and showcase how this improves the project. Link the pull request in your highlight for those interested in taking a closer look at the changes made. This is another way to gain attention for the project because it is a first-hand look at what types of contributions you are looking for and how well you work with contributors.
 
 To learn more about how the Highlights feature works, please read through the [OpenSauced documentation](https://docs.opensauced.pizza/features/highlights/).
 
@@ -142,15 +142,15 @@ If contributors have concerns about the project, then you will want to create a 
 
 ## How to Prioritize Tasks and Setting Realistic Timelines
 
-Sometimes, juggling all the tasks required for maintaining an open source project can be difficult. You should set aside time each week to triage issues and look through the project backlog to prioritize work to be done. You shouldn't feel pressured to label each issue and pull requests as a high priority. Realistically, there will always be issues that should be considered a top priority, while the rest can be addressed later.
+Sometimes, juggling all the tasks to maintain an open source project can be difficult. Set aside time each week to triage issues and look through the project backlog to prioritize work to be done. Choose wisely when to label issues and pull requests as a high priority. Realistically, there will always be issues that should be considered a top priority, while the rest can be addressed later.
 
-When it comes to setting realistic timelines, make sure you add an extra few days to your estimate of work. If you think a new set of features will take a couple of weeks, tack on each week. Issues come up all of the time in projects. So you don't want to timebox yourself to a very strict deadline when it wasn't realistic in the first place.
+When setting realistic timelines, add an extra few days to your work estimate. If you think a new set of features will take a couple of weeks, tack on each week. Issues come up all of the time in projects. So you want to avoid timeboxing yourself to a very strict deadline when it wasn't realistic in the first place.
 
-When you are working with other volunteer contributors, allot extra time to get the work done. If they volunteer their time, they may run into other commitments which will delay their availability for you. It is important to lead with empathy and understanding and not demand that they adhere to a strict deadline like an employee would.
+When working with other volunteer contributors, allow extra time to complete the work. If they volunteer their time, they may run into other commitments which will delay their availability for you. It is important to lead with empathy and understanding and not demand that they adhere to a strict deadline like an employee would.
 
 ## How to Handle Security Vulnerabilities Responsibly
 
-In case security issues arise within your project, it's essential that your contributors are aware of the optimal methods for reporting them. You should have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually located in your project's root directory or `.github` directory. It would also be good to link to the security file in your `README.md` for easier community access.
+In case security issues arise within your project, your contributors must be aware of the optimal methods for reporting them. It would be best to have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually added in the project's root or `.github` directory. It would also be good to link to the security file in your `README.md` for easier community access.
 
 A lot of maintainers will choose to go with this template `SECURITY.md` policy.
 
