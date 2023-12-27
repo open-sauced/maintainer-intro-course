@@ -30,7 +30,7 @@ Here are some additional resources to give you more information about GitHub Act
 
 Using GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
 
-Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing the GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
+Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
 
 ## Saved Replies
 
