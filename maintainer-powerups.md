@@ -12,12 +12,31 @@ Setting up GitHub Action to automate these tasks will save you time in respondin
 
 If you want to use GitHub Actions in your project, you can search for them on the [GitHub Marketplace](https://github.com/marketplace?type=actions). You can [create your own actions](https://github.com/features/actions) or customize them from existing GitHub Actions if you don't see the one you need.
 
-Here are some additional resources to give you more information about GitHub Actions and how to set one up:
+Here are some resources to give you more information about GitHub Actions and how to set one up:
 
 - [GitHub Actions: A Maintainer's Best Friend](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
 - [Setting Up Your First GitHub Action](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
 
 ## CI/CD Pipelines
+
+As maintainers, the less you do your tasks manually, the better. Automating tasks will save you so much time and make you more productive.
+
+Leveraging GitHub Actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
+
+Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you confidence in your code.
+
+### Continuous Delivery vs. Continuous Deployment
+
+A project usually starts with continuous delivery and integrates more automated testing over time.
+
+Automation pauses when developers push to production in a CI/CD pipeline that uses continuous delivery. Someone needs to do a final check before the final release, which can cause a delay. In contrast, continuous deployment automates the entire release process. Code changes are deployed as soon as they pass all the required tests.
+
+### Build a CI/CD Pipeline with GitHub Action
+
+Below are some helpful resources to help you build a CI/CD pipeline with GitHub Action:
+
+- [GitHub Docs: The complete CI/CD solution](https://github.com/solutions/ci-cd/)
+- [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
 
 ## GitHub CLI
 
