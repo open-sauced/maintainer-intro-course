@@ -286,6 +286,6 @@ git pull
 - Use code blocks to highlight code snippets or configuration examples.
 - Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
-## Translating the Intro to Open Source Course
+## Translating the Maintainer Intro Course
 
-Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
+Translating our Maintainer Intro course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
