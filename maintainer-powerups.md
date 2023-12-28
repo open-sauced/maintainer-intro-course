@@ -27,9 +27,13 @@ Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you 
 
 ### Continuous Delivery vs. Continuous Deployment
 
-A project usually starts with continuous delivery and integrates more automated testing over time.
+From the [official GitHub resources](https://resources.github.com/ci-cd/):
 
-Automation pauses when developers push to production in a CI/CD pipeline that uses continuous _delivery_. Someone needs to do a final check before the final release, which can cause a delay. In contrast, continuous _deployment_ automates the entire release process. Code changes are deployed as soon as they pass all the required tests.
+> In a CI/CD pipeline that uses continuous _delivery_, automation pauses when developers push to production. A human—your operations, security, or compliance team—still needs to manually sign off before final release, adding more delays.
+>
+> On the other hand, continuous _deployment_ automates the entire release process. Code changes are deployed to customers as soon as they pass all the required tests.
+
+A project usually starts with continuous delivery and integrates more automated testing over time.
 
 ### Build a CI/CD Pipeline with GitHub Action
 
