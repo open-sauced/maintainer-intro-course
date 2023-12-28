@@ -19,8 +19,6 @@ Here are some resources to give you more information about GitHub Actions and ho
 
 ## CI/CD Pipelines
 
-As maintainers, the less you do your tasks manually, the better. Automating tasks will save you so much time and make you more productive.
-
 Leveraging GitHub Actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
 
 Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you confidence in your code.
