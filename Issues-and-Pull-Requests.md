@@ -8,13 +8,23 @@ Issue triage involves reviewing an existing list of open issues and prioritizing
 
 ### How to Triage Issues Labeled as Bug Fixes
 
-Some open issues will be critical bug fixes and should be seen as a high priority. In these situations, it is best to label these issues with a `bug`, `critical`, or `high-priority` label so the team knows to address them first. Consider using the types of colors for the labels. Using bright red or orange label colors is a good choice because it indicates the level of seriousness and is easier to spot in a list of issues.
+When triaging bug issues, you want to make time to reproduce the bug to understand the problem. If you cannot reproduce the bug, reach out to other team members to see if they can reproduce it. If you are a solo maintainer, reply to the issue's original poster to gain more information and context.
 
-For critical bug fixes, it is best to have core team members or regular contributors work on these issues to ensure that it is done well and in a timely manner. In these situations, consider using a label like `core team work` to indicate that this issue is only open for select members.
+Then, you need to define whether the bug is considered critical, medium, or small.
 
-For small bug fixes that aren't considered critical, you can open these issues up for anyone to work on. Some of these issues might be small enough that it would be a good opportunity for a new contributor. In this situation, you should label the issue with a `good first issue` or `first timers only` label.
+#### Critical Bugs
 
-If you cannot reproduce the bug, then reach out to other team members to see if they can reproduce it on their end. If you are a solo maintainer, reply to the issue's original poster to gain more information and context.
+When an open issue contains a bug that is a major blocker and has affected the functionality of the whole application or website, you can consider it as high priority or critical. This kind of bug has to be fixed immediately.
+
+Labeling these issues with a `critical` or `high-priority` is best so the team knows they must address them first. Consider using the types of colors for the labels. Using bright red or orange label colors is a good choice because it indicates the level of seriousness and is easier to spot in a list of issues.
+
+For critical bug fixes, it is best to have core team members or regular contributors work on these issues to ensure that it is done well and promptly. You can use a label like `core team work` to indicate that this issue is only open for select members.
+
+#### Small to Medium Bugs
+
+A bug that is not affecting the functionality of your application is not considered critical. You can categorize bugs as medium-level when you can fix them after deploying an upcoming release. And those you may or may not include in the development are considered small bugs.
+
+You can open these issues up for anyone to work on. Some of these issues might be small enough that it would be a good opportunity for a new contributor. In this situation, you should label the issue with a `good first issue` or `first timers only`.
 
 ### How to Triage Issues Labeled as Feature Requests
 
