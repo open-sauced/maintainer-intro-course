@@ -16,7 +16,7 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter 1: Setting Up Your Project](/how-to-setup-your-project.md)
 
-### [Chapter 2: Issues and Pull Requests](/Issues-and-Pull-Requests.md)
+### [Chapter 2: Issues and Pull Requests](/issues-and-pull-requests.md)
 
 ### Additional Information
 
