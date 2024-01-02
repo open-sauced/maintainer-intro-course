@@ -6,9 +6,9 @@ The good news is that some tools and features on GitHub allow us to automate tas
 
 ## GitHub Actions
 
-Let's say your project receives many new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their PRs. You want to do more but don't have time to respond to them because you're still busy with something else.
+Let's say your project receives many new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
 
-Setting up GitHub Action to automate these tasks will save you time in responding to contributions individually. Here, at OpenSauced, we set up GitHub Action to [welcome new issues](https://github.com/open-sauced/app/blob/beta/.github/workflows/issue.yml), allow contributors to [assign themselves to an issue](https://github.com/bdougie/take-action), block issues from getting assigned when they still need to be [triaged](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml), and many more. Other repositories also have their own GitHub Actions set up based on the needs of each repository.
+Setting up a GitHub Action to automate these tasks will save you time in responding to contributions individually. Here, at OpenSauced, we set up GitHub Action to [welcome new issues](https://github.com/open-sauced/app/blob/beta/.github/workflows/issue.yml), allow contributors to [assign themselves to an issue](https://github.com/bdougie/take-action), block issues from getting assigned when they still need to be [triaged](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml), and many more. Other repositories also have their own GitHub Actions set up based on the needs of each repository.
 
 If you want to use GitHub Actions in your project, you can search for them on the [GitHub Marketplace](https://github.com/marketplace?type=actions). You can [create your own actions](https://github.com/features/actions) or customize them from existing GitHub Actions if you don't see the one you need.
 
@@ -49,7 +49,7 @@ Below are some helpful resources to help you build a CI/CD pipeline with GitHub 
 - creating issues and pull requests,
 - viewing a pull request, issue, or repository right from your terminal.
 
-Using GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
+Using the GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
 
 Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
 
