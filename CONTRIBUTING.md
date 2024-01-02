@@ -1,6 +1,6 @@
 # Contributing to OpenSauced Intro
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
+Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
 
 ## Recommended Communication Style
 
@@ -23,7 +23,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
 ### Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [maintainer-intro-course repository](https://github.com/open-sauced/maintainer-intro-course) to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
@@ -33,7 +33,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 3. Navigate to and open the project in your code editor.
 
    ```bash
-   cd intro
+   cd maintainer-intro-course
    ```
 
 4. Run the project.
@@ -286,6 +286,6 @@ git pull
 - Use code blocks to highlight code snippets or configuration examples.
 - Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
-## Translating the Intro to Open Source Course
+## Translating the Maintainer Intro Course
 
-Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
+Translating our Maintainer Intro course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
