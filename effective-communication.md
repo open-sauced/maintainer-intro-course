@@ -41,3 +41,33 @@ If an issue is complicated and has to be fixed promptly, you can add `core team 
 ### Issues and Pull Request Templates
 
 Having issues and pull request templates in your project makes it easier for you to triage and review them and helps contributors understand how to approach the project and what you expect them to look closer at when creating one.
+
+## Regular Communication
+
+Providing spaces outside your project for contributors to ask questions, request guidance, and give ideas is recommended. That way, they can communicate and collaborate actively with other collaborators and maintainers.
+
+Here are some channels for you to consider to create regular communication:
+
+### GitHub Discussions
+
+[Discussions](https://github.com/features/discussions) is a collaborative communication forum for the community around an open source project. It's a feature on GitHub to ask questions, share ideas, and build connections with each other. You can easily enable discussions in your project by following the [complete instructions](https://docs.github.com/en/discussions/quickstart#enabling-github-discussions-on-your-repository).
+
+### Discord Community
+
+> [Discord](https://discord.com/) is a voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.
+
+You can create a community around your project and gather them in Discord. Besides allowing contributors to ask questions, connect, and collaborate in nearly real-time, it can also benefit you. You can announce project updates, ask for help, hold sync office hours to talk about your projects and know your contributors better, and many more.
+
+### Slack Group
+
+Like Discord, [Slack](https://slack.com/) provides a platform for your community to chat, connect, and collaborate.
+
+You can automate tasks like scheduling announcements and integrating software and custom apps right into Slack — for example, connecting Slack to a [Zoom](https://zoom.us/) meeting room, etc.
+
+Which one to choose — Slack or Discord — is based on your preference and the needs of your community.
+
+### Community Forum
+
+Another place to create a communication space is a forum. A community forum is an online space where community members connect, engage, and discuss topics with each other.
+
+You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
