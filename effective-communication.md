@@ -14,7 +14,7 @@ There are some ways to establish effective communication on your project to achi
 
 ### Clear Documentation
 
-An easy to understand and well-organized documentation will ensure a good onboarding experience for new contributors. Clear documentation can save time, prevent errors, and promote transparency and accountability that can be vital for effective communication. So, it is best to invest time your time and effort in creating a clear documentation for your project.
+An easy-to-understand and well-organized documentation will ensure a good onboarding experience for new contributors. Clear documentation can save time, prevent errors, and promote transparency and accountability, which can be vital for effective communication. It is best to invest time and effort in creating clear documentation for your project.
 
 Consider these when you write or update your documentation:
 
@@ -30,11 +30,11 @@ Consider these when you write or update your documentation:
 
   If your README is growing longer, consider creating a new file or repository dedicated to your project's documentation. This will ensure a good documentation flow, allowing you to communicate your project better.
 
-### Labeled Issues
+### Issue Labels
 
 Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths.
 
-The `good first issue` label is perfect to be added to beginners-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. These issues, in particular, should be well-documented and approachable.
+The `good first issue` label is perfect to be added to beginners-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. Consider pointing to the code blocks and providing step-by-step instructions to work on the solutions for this type of issue.
 
 If an issue is complicated and has to be fixed promptly, you can add `core team work`, `critical`, or any other label based on your project's convention to prevent frustrations and confusion.
 
