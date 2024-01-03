@@ -92,6 +92,14 @@ When the pull request has broken a part of the application, respond to the autho
 
 Not all pull requests will need tests because they are small code changes or updates to documentation. But for larger features or refactors, tests should be added to help ensure that everything is working as expected. If the pull request author has not set up tests, reach out to them on the pull request to let them know what parts need to be tested. It would also help to outline adding tests in your documentation as an expectation.
 
+### How to Deal with Failing Automated Tests
+
+Sometimes, contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the pull request is opened to allow the contributor to address the failing tests and resolve the issue on their own. If they are not addressing the issue, reach out to them on the pull request and ask if they need help. When they do, look into why the test is failing and provide constructive feedback on how they can fix it. If the failing test is unrelated to their changes, let them know that it is safe to ignore it and that it will be fixed in another pull request.
+
+If the author does not address the issue or respond to your initial comment, reply with suggested fixes and reiterate that you are here to help. After several weeks or months without the author's response, close the PR and move on.
+
+If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
+
 ### How to Deal with Spam Pull Requests
 
 There might be times when you will get a spam pull request for your project. In these situations, it is best not to respond to the author. Instead, close it and add a `spam` label on it.
@@ -113,14 +121,6 @@ Low-quality pull requests, unfortunately, take a lot of time and energy from the
 - address multiple issues at once and make it difficult to review
 
 If you receive a pull request that is lower in quality, reach out to the author, explaining what is missing and what changes need to be made. Most of the time, contributors might not be aware of these issues and need extra explanation and time to improve their pull requests.
-
-### How to Deal with Failing Automated Tests
-
-Sometimes, contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the pull request is opened to allow the contributor to address the failing tests and resolve the issue on their own. If they are not addressing the issue, reach out to them on the pull request and ask if they need help. When they do, look into why the test is failing and provide constructive feedback on how they can fix it. If the failing test is unrelated to their changes, let them know that it is safe to ignore it and that it will be fixed in another pull request.
-
-If the author does not address the issue or respond to your initial comment, reply with suggested fixes and reiterate that you are here to help. After several weeks or months without the author's response, close the PR and move on.
-
-If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
 ### How to Deal With Stale Pull Requests
 
