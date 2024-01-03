@@ -96,7 +96,7 @@ Not all pull requests will need tests because they are small code changes or upd
 
 Sometimes, contributors will open a pull request that fails a few of your automated tests. It is best to wait a few days after the pull request is opened to allow the contributor to address the failing tests and resolve the issue on their own. If they are not addressing the issue, reach out to them on the pull request and ask if they need help. When they do, look into why the test is failing and provide constructive feedback on how they can fix it. If the failing test is unrelated to their changes, let them know that it is safe to ignore it and that it will be fixed in another pull request.
 
-If the author does not address the issue or respond to your initial comment, reply with suggested fixes and reiterate that you are here to help. After several weeks or months without the author's response, close the PR and move on.
+If the author does not address the issue or respond to your initial comment, reply with suggested fixes and reiterate that you are here to help. After several weeks or months without the author's response, close the pull request and move on.
 
 If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
@@ -111,7 +111,7 @@ Here are some examples of spam pull requests:
 - numerous links to unrelated websites or promotes products/services
 - plagiarized content from other sources without permission or proper attribution
 
-### How to Deal with Low-Quality PRs
+### How to Deal with Low-Quality Pull Requests
 
 Low-quality pull requests, unfortunately, take a lot of time and energy from the maintainer. Here are a few examples of low-quality pull requests:
 
@@ -146,7 +146,7 @@ To learn more about how the Highlights feature works, please read through the [O
 
 When you have incoming issues and pull requests, scheduling time for triage and reviews is important. Design a regular schedule that works for you so you can work with contributor issues and provide detailed pull request reviews during the week.
 
-You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Action](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) to automate responses to new issues and PRs, letting contributors know you will get to it when available.
+You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Action](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) to automate responses to new issues and pull requests, letting contributors know you will get to it when available.
 
 If contributors have concerns about the project, then you will want to create a safe space to make them comfortable talking about these issues. If they have concerns about the code or security aspects, feel free to discuss it on an open issue or even privately through Discord or Slack.
 
