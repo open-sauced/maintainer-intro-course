@@ -71,3 +71,19 @@ Which one to choose — Slack or Discord — is based on your preference and the
 Another place to create a communication space is a forum. A community forum is an online space where community members connect, engage, and discuss topics with each other.
 
 You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
+
+## Effective Communication
+
+Effective communication is key to project success. It plays a vital role in resolving issues, building trust and transparency, and encouraging collaboration. By enabling open and healthy communication, you can ensure everyone is on the same page and working towards a common goal.
+
+### Engaging with Contributors
+
+Having contributors come back and continue contributing to the project is one of the maintainers' goals. To nurture this relationship, you should have time to engage with your contributors between tasks.
+
+Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something is not clear enough for you. Keep your message clear and short so they can understand your purpose. When you deliver a few topics, using bullet points in a comment or splitting your message into several comments is recommended.
+
+One of the golden rules in an international remote environment is never to make an assumption. Async communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
+
+Another way to engage with your contributors is by holding a regular office hour. In sync, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
+
+Maintainers are human. Sometimes, when you're tired or having a bad day, a discussion with a contributor can upset you. Remember that you always want to foster a healthy communication and welcoming environment. It's okay to wait to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
