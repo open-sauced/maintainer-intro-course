@@ -87,3 +87,25 @@ One of the golden rules in an international remote environment is never to make 
 Another way to engage with your contributors is by holding a regular office hour. In sync, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
 
 Maintainers are human. Sometimes, when you're tired or having a bad day, a discussion with a contributor can upset you. Remember that you always want to foster a healthy communication and welcoming environment. It's okay to wait to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
+
+### Managing Expectations
+
+The earlier you let contributors know what they can expect from you and what you expect from them, the better. Setting and managing expectations is the key to smooth contributions and project management.
+
+Here are some ways to help you manage expectations:
+
+- **Small issues**:
+
+  Just like maintainers, most open source contributors are volunteers. They are not required to, but they help you fix and enhance your project in their spare time. So you can't expect them to work on their issues promptly like a regular employee. With this expectation, you can, for example, break your issues into several small ones to prevent them from taking a long time to work on an issue.
+
+- **Styling guide**
+
+  You might prefer contributors to add a prefix to issue, pull request titles, and their commit messages. Or you might select particular Markdown rules for your project. Every project has its own convention. Don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear guide they must follow.
+
+- **Support**
+
+  What kind of support can you provide, and where can they reach you? Think of answering questions, pair programming, or office hours, for example, on Discord. To inform this, you can add a section in your README or Contributing Guide.
+
+- **Timeline**
+
+  You can let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours.
