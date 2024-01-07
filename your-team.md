@@ -97,9 +97,30 @@ From there, you can create a list of contributors you're interesting in learning
 
 ![team insights gif](/assets/list-from-insight.gif)
 
- ### Adding Team Members
- 
+### Adding Team Members
+
+Once you've identified potential team members, don't hesitate to extend a formal invitation. When you extend the invitation, let them know why you're asking them and provide them with a clear understanding of what you expect from them. This will help them to make an informed decision and ensure that they're able to meet your expectations.
+
+To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
+
+### Onboarding New Team Members
+To ensure that your new team members are set up for success, it's important to have an onboarding process. This will help them to understand their responsibilities, the project's goals, and how they can contribute.
+
+Here are some things to consider:
+
+- **Roles & Responsibilities:** Clearly define the team member's role and responsibilities. This will help them to understand what they're responsible for and what they can expect from you.
+- **Communication:** Establish clear communication channels and expectations. This will help to ensure that everyone is on the same page and that you're able to communicate effectively.
+- **Goals:** Clearly define the project's goals and how the team member can contribute to them. This will help them to understand how they can contribute to the project's success.
+- **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and when they need to do it by.
+
+### Keeping Track of Your Team
+
+#### Team Health
+
+As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, you might want to consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
+
+![docs team list](/assets/docs-team.gif)
 
 ### Saying Farewell: Handling Team Departures
 
-**Parting Ways Gracefully:** Unfortunately, even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
+**Parting Ways Gracefully:** As time goes on and people's lives change, you'll find that even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
