@@ -124,3 +124,5 @@ As your team grows, it's important to keep track of your team's participation an
 ### Saying Farewell: Handling Team Departures
 
 **Parting Ways Gracefully:** As time goes on and people's lives change, you'll find that even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
+
+To remove the person from your team in GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/removing-organization-members-from-a-team).
