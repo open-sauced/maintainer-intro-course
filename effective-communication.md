@@ -109,3 +109,23 @@ Here are some ways to help you manage expectations:
 - **Timeline**
 
   You can let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours.
+
+- **Boundaries**
+
+  As your project grows and gains popularity, it will attract more contributors. Creating and setting clear boundaries becomes essential to prevent you from getting burned out quickly and balance your life.
+
+  - **Take a Break**
+
+    You need to know that it's okay to take time off, step away from your project, and take care of yourself. You can inform your contributors that you will review their pull requests after you return. Here is an example of what you can say:
+
+    > "Hey {username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
+
+    When pull requests come during your days off, you can apologize and thank them for their patience after you return. Consider to say something like this:
+
+    > "Hey {username}, I apologize for the late response, as I just got back from my days off. Thank you for taking on this! I need time to review it and will get back to you soon. I appreciate your patience."
+
+  - **No Private Message**
+
+    Another boundary you can set is for contributors not to send you private messages on chat service apps like Discord or social media.
+
+    The culture of open source is open communication and transparency. It is best to keep all contributors in the loop by communicating anything related to the project in the open so everyone knows what's happening and what to expect. It will also give you the necessary privacy, separating your project from your personal life.
