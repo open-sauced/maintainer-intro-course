@@ -98,45 +98,49 @@ Maintainers are human. Sometimes, when you're tired or having a bad day, a discu
 
 ### Managing Expectations
 
-The earlier you let contributors know what they can expect from you and what you expect from them, the better. Setting and managing expectations is the key to smooth contributions and project management.
+The earlier you let contributors know what they can expect from you and what you expect from them, the better. Setting and managing expectations is the key to smooth contributions and project management. So, how can you manage and communicate your expectations?
 
-Here are some ways to help you manage expectations:
+#### Small Issues
 
-- **Small issues**:
+Just like maintainers, most open source contributors are volunteers. They are not required to, but they help you fix and enhance your project in their spare time. So you can't expect them to work on their issues promptly like a regular employee. With this expectation, you can, for example, break your issues into several small ones to prevent them from taking a long time to work on an issue.
 
-  Just like maintainers, most open source contributors are volunteers. They are not required to, but they help you fix and enhance your project in their spare time. So you can't expect them to work on their issues promptly like a regular employee. With this expectation, you can, for example, break your issues into several small ones to prevent them from taking a long time to work on an issue.
+#### Styling Guide
 
-- **Styling guide**
+You might prefer contributors to add a prefix to issue, pull request titles, and their commit messages. Or you might select particular Markdown rules for your project. Every project has its own convention. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear styling guide they must follow.
 
-  You might prefer contributors to add a prefix to issue, pull request titles, and their commit messages. Or you might select particular Markdown rules for your project. Every project has its own convention. Don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear guide they must follow.
+#### Support
 
-- **Support**
+What kind of support can you provide for your contributors? Where can they reach you? You can think of these amongst other supports:
 
-  What kind of support can you provide, and where can they reach you? Think of answering questions, pair programming, or office hours, for example, on Discord. To inform this, you can add a section in your README or Contributing Guide.
+- Where can contributors ask questions?
+- Can you give them support in pair programming when necessary? How can contributors ask for one?
+- Will you hold office hours? If so, would it be regular or based on request? Where will it happen, and how will you announce it?
 
-- **Timeline**
+You can add a section in your README or Contributing Guide to inform about the support you can give.
 
-  You can let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours.
+#### Timeline
 
-- **Boundaries**
+Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours.
 
-  As your project grows and gains popularity, it will attract more contributors. Creating and setting clear boundaries becomes essential to prevent you from getting burned out quickly and balance your life.
+#### Boundaries
 
-  - **Take a Break**
+As your project grows and gains popularity, it will attract more contributors. Creating and setting clear boundaries becomes essential to prevent you from getting burned out quickly and balance your life. Here are some ways to create boundaries:
 
-    You need to know that it's okay to take time off, step away from your project, and take care of yourself. You can inform your contributors that you will review their pull requests after you return. Here is an example of what you can say:
+- **Take a Break**
 
-    > "Hey {username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
+  You need to know that it's okay to take time off, step away from your project, and take care of yourself. You can inform your contributors that you will review their pull requests after you return. Here is an example of what you can say:
 
-    When pull requests come during your days off, you can apologize and thank them for their patience after you return. Consider to say something like this:
+  > "Hey {username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
 
-    > "Hey {username}, I apologize for the late response, as I just got back from my days off. Thank you for taking on this! I need time to review it and will get back to you soon. I appreciate your patience."
+  When pull requests come during your days off, you can apologize and thank them for their patience after you return. Consider to say something like this:
 
-  - **No Private Message**
+  > "Hey {username}, I apologize for the late response, as I just got back from my days off. Thank you for taking on this! I need time to review it and will get back to you soon. I appreciate your patience."
 
-    Another boundary you can set is for contributors not to send you private messages on chat service apps like Discord or social media.
+- **No Private Message**
 
-    The culture of open source is open communication and transparency. It is best to keep all contributors in the loop by communicating anything related to the project in the open so everyone knows what's happening and what to expect. It will also give you the necessary privacy, separating your project from your personal life.
+  Another boundary you can set is for contributors not to send you private messages on chat service apps like Discord or social media.
+
+  The culture of open source is open communication and transparency. It is best to keep all contributors in the loop by communicating anything related to the project in the open so everyone knows what's happening and what to expect. It will also give you the necessary privacy, separating your project from your personal life.
 
 ### Handling Difficult Situations
 
