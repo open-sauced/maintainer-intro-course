@@ -57,7 +57,7 @@ Here's what it will look like in GitHub:
 
 - Start with restrictive permissions: Grant the minimum permissions necessary for a team to perform its tasks.
 - Review permissions regularly: As projects evolve and team needs change, revisit permissions to ensure they remain appropriate.
-- Utilize code owners: Assign specific people or teams as code owners for different parts of the codebase to ensure appropriate oversight and review.
+- Utilize code owners: Assign specific people or teams as code owners for different parts of the codebase to ensure appropriate oversight and review using the special [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file.
 
 #### Specific Examples
 
