@@ -31,6 +31,17 @@ The Docs team creates and maintains high-quality documentation for users and con
 - Marketing Team
 - Core Team
 
+### Assembling Your A-Team: Adding New Members
+
+Now that you understand a little but about teams, let's look at how to identify new members for your team. 
+
+**Recognizing the Need:** Just like a superhero team expands to face escalating threats, your project might reach a point where additional team members are needed. This could be when the workload starts to overwhelm you if you're a solo maintainer or your existing team, or when taking on complex challenges requires specialized expertise. Identifying these challenging points is important for ensuring your project's continued momentum.
+
+**Scouting for Superpowers:** Your search for new teammates should be deliberate and thoughtful. Look for contributors who have consistently showed their commitment and skills through active involvement in your project. Their contributions to issues, pull requests, and community discussions can help you to determine if they understand the project and your vision. Having enthusiasm, a collaborative spirit, and alignment with your project's goals are other things to consider. Open source projects thrive on passion and shared purpose.
+
+**Inviting Your Team:** Once you've identified potential team members, extend a formal invitation. This public acknowledgment of their contributions not only shows your appreciation but also serves as an inspiration to other community members. Platforms like GitHub offer streamlined mechanisms for adding team members, making it a seamless process to officially welcome your new team members.
+
+
 ### Granting Team Permissions
 Each team should have a specific set of permissions that allow them to do what they need to for the team to be successful. Here are some common permissions that teams might need:
 
@@ -70,15 +81,6 @@ You can see some of the options here:
 ![team permissions](/assets/org-permissions.gif)
 
 
-### Assembling Your A-Team: Adding New Members
-
-Now that you understand a little but about teams and permissions, let's look at how to identify new members for your team. 
-
-**Recognizing the Need:** Just like a superhero team expands to face escalating threats, your project might reach a point where additional team members are needed. This could be when the workload starts to overwhelm you if you're a solo maintainer or your existing team, or when taking on complex challenges requires specialized expertise. Identifying these challenging points is important for ensuring your project's continued momentum.
-
-**Scouting for Superpowers:** Your search for new teammates should be deliberate and thoughtful. Look for contributors who have consistently showcased their commitment and skills through active involvement in your project. Their contributions to issues, pull requests, and community discussions can help you to determine if they understand the project and your vision. Having enthusiasm, a collaborative spirit, and alignment with your project's goals are other things to consider. Open source projects thrive on passion and shared purpose.
-
-**Inviting Your Team:** Once you've identified potential team members, don't hesitate to extend a formal invitation. This public acknowledgment of their contributions not only shows your appreciation but also serves as an inspiration to other community members. Platforms like GitHub offer streamlined mechanisms for adding team members, making it a seamless process to officially welcome your new team members.
 
 ### Expanding the Horizons: Enlisting Additional Maintainers
 
