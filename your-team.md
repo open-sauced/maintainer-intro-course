@@ -133,3 +133,8 @@ As your team grows, it's important to keep track of your team's participation an
 **Parting Ways Gracefully:** As time goes on and people's lives change, you'll find that even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
 
 To remove the person from your team in GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/removing-organization-members-from-a-team).
+
+
+## Conclusion
+
+Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project, you're adding people to your community. Make sure that you're adding people who are aligned with your project's values and goals and who will be a positive addition to your community.
