@@ -129,3 +129,62 @@ Here are some ways to help you manage expectations:
     Another boundary you can set is for contributors not to send you private messages on chat service apps like Discord or social media.
 
     The culture of open source is open communication and transparency. It is best to keep all contributors in the loop by communicating anything related to the project in the open so everyone knows what's happening and what to expect. It will also give you the necessary privacy, separating your project from your personal life.
+
+### Handling Difficult Situations
+
+You might need to handle difficult situations or resolve conflicts around your project's community one day. There is no easy way to handle situations like this. But sooner or later, you need to prepare yourself.
+
+Here are essential things to do when handling difficult situations:
+
+#### Active Listening
+
+Active listening plays an important role in handling a difficult situation. You can only resolve a problem if you understand it clearly.
+
+Active listening is a communication skill to not only hear the words of a speaker but also try to understand their intentions completely and acknowledge their feelings.
+
+Here are some techniques that you can train for active listening:
+
+- **Being fully present**
+
+  Avoid listening to someone talking while preparing your answer. Doing so will distract you and make you miss something they've said, which can cause you to fail to understand the exact intention.
+
+- **Showing interest**
+
+  If it's a sync conversation, use eye contact to show your interest in what the speaker is saying. In an async conversation, you can repeat what they are saying in your own words based on your understanding. It will show them that you are interested in their conversation. And they can correct you if you need help understanding it clearly.
+
+- **Acknowledging emotions**
+
+  You want to be able to recognize and acknowledge the speaker's feelings in sync or async conversations. For example, you can say, "I see that it upsets you," or, "I'm excited for you!" when the speaker uses many exclamations in their writing.
+
+- **Asking and clarifying**
+
+  When someone feels many emotions, they usually want to talk and let the feeling out fast. That can result in a lack of information or the inability to think of more suitable words to describe the situation. You always want to gain more information and clarify what is said. For example, "You said they contacted you on Monday [_clarifying_]. Did they file the complaint on the same day? [_asking for more information_]"
+
+#### Having Empathy and Compassion
+
+It would be best to be emphatic and compassionate when handling a problem, for example, when you face a dispute between contributors or community members.
+
+You must look at and listen to the problem from both sides to keep yourself non-judgemental. Then, put yourself in their shoes to see the case from their perspective to understand it better. Empathy and compassion will help you not only resolve a conflict but also create a positive environment.
+
+#### Being Tactful and Diplomatic
+
+A critical factor in successfully addressing a problem is to approach it in a way that values and respects the feelings and perspectives of others. This not only prevents any harm to the relationship but also leads to positive outcomes when resolving conflicts.
+
+The key is to think before you speak and choose your words wisely. You want to be able to tell the truth, but at the same time, also consider others' feelings and make them feel safe. Use positive language, yet direct, to prevent misunderstandings. You should consider balancing being straightforward and sensitive and avoid pointing fingers.
+
+**Here is an example of a scenario**:
+
+You have a contributor who contributes multiple times and has been working fast to deliver their code. But when you review their pull request and test their branch locally, it works differently than you intended. You know they often don't understand the issue, but they assume they do. And you also notice that they rarely run the code locally to test it. You keep giving them support and positive feedback until, one day, you can't take it anymore.
+
+Instead of saying:
+
+> "Hey, why do you always deliver the code that doesn't align with what we want? I notice you've done this so many times. Do you even understand the issues? I'm also not sure if you ever run your code locally because it often doesn't work the way it should and, worst, breaks the app."
+
+You can say something like:
+
+> "Thank you for your prompt work on the PRs, {username}. I really appreciate it! However, let's focus more on quality than quantity. I noticed a few things that I believe could further improve the quality of your work:
+>
+> - It might be a good idea to take time to fully understand the issue before starting work on a PR, as this solution is different from what we asked in the issue. If you need help or clarification, don't hesitate to reach out.
+> - Another thing that could be helpful is running and testing the code locally before submitting a PR. This way, you'll be able to ensure that the code runs as it should. It can save you time from going back and forth on revisions.
+>
+> I hope you find this feedback helpful. If there's anything I can do to support you, please let me know.
