@@ -18,6 +18,8 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter 2: Issues and Pull Requests](/issues-and-pull-requests.md)
 
+### [Chapter x: Setting Up & Maintaining Your Team](/your-team.md)
+
 ### Additional Information
 
 As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:
