@@ -1,6 +1,6 @@
 ## Chapter X: Building Your Open Source Dream Team
 
-Managing a project in open source requires clear communication, empathy, and technical understanding. For a project to grow and thrive, takes cultivating a diverse, motivated, and effective team around you. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open-source squad.
+Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
 
 ### Types of Teams
 Creating teams on GitHub allows you to grant more permissions to a group of people depending on their team status. Here are some common team types and why a maintainer might find them beneficial:
@@ -18,9 +18,9 @@ The maintainer team shares responsibility for code reviews, bug fixes, and featu
 **Benefits**: Reduced individual workload, faster development cycles, and more diverse perspectives on code and decisions.
 
 
-#### Documentation (docs) Team
+#### Documentation (Docs) Team
 
-The Docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information readily available, reducing support requests and confusion.
+The Docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
 
 **Benefits**: Improved user experience, easier onboarding for new contributors, and less time spent answering basic questions.
 
