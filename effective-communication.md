@@ -10,7 +10,7 @@ Onboarding new contributors to your project is important to maintaining its heal
 
 Providing clear information and directions about the project's goals, processes, and codebase is the key to helping new contributors collaborate. Effective communication allows you to attract contributors to return, learn more about your projects, and continue contributing. That way, you can create a sustainable ecosystem where knowledge is shared, responsibilities are distributed, and the project can continue to evolve and grow.
 
-There are some ways to establish effective communication on your project to achieve good collaboration.
+There are ways to establish effective communication on your project to achieve good collaboration.
 
 ### Clear Documentation
 
@@ -18,7 +18,7 @@ An easy-to-understand and well-organized documentation will ensure a good onboar
 
 Consider these when you write or update your documentation:
 
-- **Use simple language and universal examples**
+- **Simple language and universal examples**
 
   You want to ensure that your documentation is easy to understand by most contributors — if not everyone — including non-native English speakers.
 
@@ -26,7 +26,7 @@ Consider these when you write or update your documentation:
 
   Whether it's the setup guide on the README, instructions to run and use the project, or Contributing Guidelines, you always want to provide a clear direction for contributors to follow for better collaboration.
 
-- **A dedicated place for documentation**
+- **Dedicated place for documentation**
 
   If your README is growing longer, consider creating a new file or repository dedicated to your project's documentation. This will ensure a good documentation flow, allowing you to communicate your project better.
 
@@ -78,7 +78,7 @@ Another place to create a communication space is a forum. A community forum is a
 
 One of the benefits of having a community forum is a place for members to discuss and ask specific questions about your project. Whenever someone encounters the same problem that has been fixed before, they can fix it faster by searching for the solutions on the forum. This can increase the productivity of maintainers because you don't have to answer the same questions repeatedly. A forum is also available publicly, so it's searchable on search engines and can increase the number of users and contributors.
 
-You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
+You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take the [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
 
 ## Effective Communication
 
@@ -94,7 +94,7 @@ One of the golden rules in an international remote environment is never to make 
 
 Another way to engage with your contributors is by holding a regular office hour. In sync, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
 
-Maintainers are human. Sometimes, when you're tired or having a bad day, a discussion with a contributor can upset you. Remember that you always want to foster a healthy communication and welcoming environment. It's okay to wait to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
+Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. Always remember that you want to foster a healthy communication and welcoming environment. So, it's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
 
 ### Managing Expectations
 
@@ -150,7 +150,7 @@ Here are essential things to do when handling difficult situations:
 
 #### Active Listening
 
-Active listening plays an important role in handling a difficult situation. You can only resolve a problem if you understand it clearly.
+Active listening plays a vital role in handling a difficult situation. You can only resolve a problem if you understand it clearly.
 
 Active listening is a communication skill to not only hear the words of a speaker but also try to understand their intentions completely and acknowledge their feelings.
 
@@ -162,7 +162,7 @@ Here are some techniques that you can train for active listening:
 
 - **Showing interest**
 
-  If it's a sync conversation, use eye contact to show your interest in what the speaker is saying. In an async conversation, you can repeat what they are saying in your own words based on your understanding. It will show them that you are interested in their conversation. And they can correct you if you need help understanding it clearly.
+  If it's a sync conversation, use eye contact to show your interest in what the speaker is saying. In an async chat, you can repeat what they are saying in your own words based on your understanding. It will show them that you are interested in their conversation. And they can correct you if you need help understanding it clearly.
 
 - **Acknowledging emotions**
 
@@ -182,7 +182,7 @@ You must look at and listen to the problem from both sides to keep yourself non-
 
 A critical factor in successfully addressing a problem is to approach it in a way that values and respects the feelings and perspectives of others. This not only prevents any harm to the relationship but also leads to positive outcomes when resolving conflicts.
 
-The key is to think before you speak and choose your words wisely. You want to be able to tell the truth, but at the same time, also consider others' feelings and make them feel safe. Use positive language, yet direct, to prevent misunderstandings. You should consider balancing being straightforward and sensitive and avoid pointing fingers.
+The key is to think before you speak and choose your words wisely. You want to be able to tell the truth, but at the same time, also consider others' feelings and make them feel safe. Use positive yet direct language to prevent misunderstandings; consider balancing being straightforward and sensitive, and avoid pointing fingers.
 
 **Here is an example of a scenario**:
 
@@ -190,7 +190,7 @@ You have a contributor who contributes multiple times and has been working fast 
 
 Instead of saying:
 
-> "Hey, why do you always deliver the code that doesn't align with what we want? I notice you've done this so many times. Do you even understand the issues? I'm also not sure if you ever run your code locally because it often doesn't work the way it should and, worst, breaks the app."
+> "Hey, why do you always deliver the code that doesn't align with what we want? I notice you've done this so many times. Do you even understand the issues? I'm also wondering if you ever run your code locally because it often doesn't work the way it should and, worst, breaks the app."
 
 You can say something like:
 
