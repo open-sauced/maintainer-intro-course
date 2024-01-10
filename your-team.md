@@ -1,37 +1,37 @@
-## Chapter X: Building Your Open Source Dream Team
+# Chapter X: Building Your Open Source Dream Team
 
 Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
 
-### Types of Teams
+## Types of Teams
 Creating teams on GitHub allows you to grant more permissions to a group of people depending on their team status. Here are some common team types and why a maintainer might find them beneficial:
 
-#### Triage Team
+### Triage Team
 
 Triage teams help to efficiently handle incoming issues and pull requests. A triage team categorizes, prioritizes, and assigns issues to appropriate maintainers or contributors, reducing the maintainer's workload and ensuring timely attention to important matters.
 
 **Benefits**: Faster response to users, improved issue tracking, and better allocation of resources.
 
-#### Maintainer Team
+### Maintainer Team
 
 The maintainer team shares responsibility for code reviews, bug fixes, and feature development. A team of maintainers with specialized skills can handle larger projects, provide broader expertise, and ensure better code quality and consistency.
 
 **Benefits**: Reduced individual workload, faster development cycles, and more diverse perspectives on code and decisions.
 
 
-#### Documentation (Docs) Team
+### Documentation (Docs) Team
 
 The Docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
 
 **Benefits**: Improved user experience, easier onboarding for new contributors, and less time spent answering basic questions.
 
-#### Other Team Variations
+### Other Team Variations
 - Security Team
 - Design Team
 - Community Team
 - Marketing Team
 - Core Team
 
-### Assembling Your A-Team: Adding New Members
+## Assembling Your A-Team: Adding New Members
 
 Now that you understand a little but about teams, let's look at how to identify new members for your team. 
 
@@ -41,10 +41,10 @@ Now that you understand a little but about teams, let's look at how to identify 
 
 **Inviting Your Team:** Once you've identified potential team members, extend a formal invitation. This public acknowledgment of their contributions not only shows your appreciation but also serves as an inspiration to other community members. Platforms like GitHub offer streamlined mechanisms for adding team members, making it a seamless process to officially welcome your new team members.
 
-### Granting Team Permissions
+## Granting Team Permissions
 Each team should have a specific set of permissions that allow them to do what they need to for the team to be successful. Here are some common permissions that teams might need:
 
-#### Repository-Specific Permissions
+### Repository-Specific Permissions
 
 - Read: Allow members to view code, issues, and pull requests. Suitable for stakeholders, external collaborators, or those needing general visibility.
 - Triage: Grant permission to manage issues and pull requests (assign, label, comment, close), but not directly modify code. Ideal for triage teams and community managers.
@@ -58,18 +58,18 @@ Here's what it will look like in GitHub:
 
 ![team permissions](/assets/org-permissions.png)
 
-#### Additional Permissions to Consider
+### Additional Permissions to Consider
 
 - Project Permissions (if using GitHub Projects): Grant access to manage projects, tasks, and milestones within a repository.
 - Organization-Wide Permissions: For organization-wide teams, consider granting permissions to manage members, billing, security settings, and other organization-level features.
 
-#### Best Practices for Team Permissions
+### Best Practices for Team Permissions
 
 - Start with restrictive permissions: Grant the minimum permissions necessary for a team to perform its tasks.
 - Review permissions regularly: As projects evolve and team needs change, revisit permissions to ensure they remain appropriate.
 - Utilize code owners: Assign specific people or teams as code owners for different parts of the codebase to ensure appropriate oversight and review using the special [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file.
 
-#### Specific Examples
+### Specific Examples
 
 - Triage Team: Grant "Triage" permission to the triage team's primary repository.
 - Maintainer Team: Grant "Write" or "Maintain" permissions to repositories they actively contribute to.
@@ -79,19 +79,19 @@ You can see some of the options here:
 
 ![team permissions](/assets/org-permissions.gif)
 
-### Expanding the Horizons: Enlisting Additional Maintainers
+## Expanding the Horizons: Enlisting Additional Maintainers
 
-#### Specialization: The Key to Scale
+### Specialization: The Key to Scale
  
 As your project grows in complexity, the need for specialized attention in specific areas might arise. Documentation might require someone who can write for a variety of audiences or help contributors to understand audience, while community engagement might need a charismatic presence. Identifying these needs and recruiting contributors with relevant expertise allows you to delegate ownership and ensure all aspects of your project receive the dedicated care they deserve.
 
-#### Recruiting Maintainers & Team Members
+### Recruiting Maintainers & Team Members
 
 It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise. 
 
 One way to look for potential maintainers is to create an [Insight page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
 
-##### Creating an Insight Page & List
+#### Creating an Insight Page & List
 
 To track repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Insight Page.
 
@@ -104,13 +104,13 @@ From there, you can create a list of contributors you're interesting in learning
 
 ![team insights gif](/assets/list-from-insight.gif)
 
-### Adding Team Members
+## Adding Team Members
 
 Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member, and provide them with a clear understanding of what you expect if they accept the role. This will help them to make an informed decision and ensure that they're able to meet your expectations.
 
 To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
 
-### Onboarding New Team Members
+## Onboarding New Team Members
 To ensure that your new team members are set up for success, it's important to have an onboarding process. This will help them to understand their responsibilities, the project's goals, and how they can contribute.
 
 Here are some things to consider:
@@ -120,15 +120,15 @@ Here are some things to consider:
 - **Goals:** Clearly define the project's goals and how the team member can contribute to them. This will help them to understand how they can contribute to the project's success.
 - **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and when they need to do it by.
 
-### Keeping Track of Your Team
+## Keeping Track of Your Team
 
-#### Team Health
+### Team Health
 
 As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, you might want to consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
 
 ![docs team list](/assets/docs-team.gif)
 
-### Saying Farewell: Handling Team Departures
+## Saying Farewell: Handling Team Departures
 
 **Parting Ways Gracefully:** As time goes on and people's lives change, you'll find that even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
 
