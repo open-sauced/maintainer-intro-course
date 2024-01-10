@@ -42,9 +42,10 @@ Each team should have a specific set of permissions that allow them to do what t
 - Maintain: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. Suitable for core maintainers responsible for project health.
 - Admin: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. Reserved for trusted individuals or those with specific administrative needs.
 
-Here's what it will look like in GitHub:
+To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member priviledges section.
 
-![team permissions](/assets/org-permissions.gif)
+Here's what it will look like in GitHub:
+![team permissions](/assets/org-permissions.png)
 
 #### Additional Permissions to Consider
 
@@ -64,6 +65,11 @@ Here's what it will look like in GitHub:
 - Documentation Team: Grant "Write" permission to the documentation repository, potentially "Read" access to other relevant repositories.
 - Security Team: Grant "Admin" or "Maintain" permissions to security-sensitive repositories, enabling them to address vulnerabilities promptly.
 - Release Team: Grant "Maintain" or "Admin" permissions to repositories they manage releases for.
+
+You can see some of the options here:
+
+![team permissions](/assets/org-permissions.gif)
+
 
 ### Assembling Your A-Team: Adding New Members
 
