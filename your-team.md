@@ -41,7 +41,6 @@ Now that you understand a little but about teams, let's look at how to identify 
 
 **Inviting Your Team:** Once you've identified potential team members, extend a formal invitation. This public acknowledgment of their contributions not only shows your appreciation but also serves as an inspiration to other community members. Platforms like GitHub offer streamlined mechanisms for adding team members, making it a seamless process to officially welcome your new team members.
 
-
 ### Granting Team Permissions
 Each team should have a specific set of permissions that allow them to do what they need to for the team to be successful. Here are some common permissions that teams might need:
 
@@ -80,8 +79,6 @@ You can see some of the options here:
 
 ![team permissions](/assets/org-permissions.gif)
 
-
-
 ### Expanding the Horizons: Enlisting Additional Maintainers
 
 #### Specialization: The Key to Scale
@@ -92,7 +89,7 @@ As your project grows in complexity, the need for specialized attention in speci
 
 It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise. 
 
-One way to look for potential maintainers is to create an [Insight page](https://docs.opensauced.pizza/features/insights/) with projects with a similar stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
+One way to look for potential maintainers is to create an [Insight page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
 
 ##### Creating an Insight Page & List
 
@@ -100,17 +97,16 @@ To track repositories, click the "Insights" tab on the dashboard. You will be re
 
 There are two ways to add repositories to your Insight Page:
 
-1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want comprehensive, unified view of your project activities and the list of contributors to your project. 
+1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project. 
 2. Add individual repositories. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members. 
 
-
-From there, you can create a list of contributors you're interesting in learning more about or connecting with. 
+From there, you can create a list of contributors you're interesting in learning more about or connecting with by selecting them from the contributors tab and creating a new list. 
 
 ![team insights gif](/assets/list-from-insight.gif)
 
 ### Adding Team Members
 
-Once you've identified potential team members, don't hesitate to extend a formal invitation. When you extend the invitation, let them know why you're asking them and provide them with a clear understanding of what you expect from them. This will help them to make an informed decision and ensure that they're able to meet your expectations.
+Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member, and provide them with a clear understanding of what you expect if they accept the role. This will help them to make an informed decision and ensure that they're able to meet your expectations.
 
 To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
 
