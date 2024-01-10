@@ -48,27 +48,35 @@ Providing spaces outside your project for contributors to ask questions, request
 
 Here are some channels for you to consider to create regular communication:
 
-### GitHub Discussions
+### Chat Service App
 
-[Discussions](https://github.com/features/discussions) is a collaborative communication forum for the community around an open source project. It's a feature on GitHub to ask questions, share ideas, and build connections with each other. You can easily enable discussions in your project by following the [complete instructions](https://docs.github.com/en/discussions/quickstart#enabling-github-discussions-on-your-repository).
+You can accommodate sync communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold sync office hours to talk about your projects and know your contributors better, and many more.
 
-### Discord Community
+Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
+
+#### Discord Community
 
 > [Discord](https://discord.com/) is a voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.
 
-You can create a community around your project and gather them in Discord. Besides allowing contributors to ask questions, connect, and collaborate in nearly real-time, it can also benefit you. You can announce project updates, ask for help, hold sync office hours to talk about your projects and know your contributors better, and many more.
+The Discord market mainly targets gamers. It is a good choice if your community heavily uses group voice and video calls. Creating a channel for voice calls makes it easy for community members to join the channel and talk to anyone instantly. Discord is also suitable for building a larger community because if your server is public, anyone with a Discord account can search and join your group.
 
-### Slack Group
+#### Slack Group
 
-Like Discord, [Slack](https://slack.com/) provides a platform for your community to chat, connect, and collaborate.
+> [Slack](https://slack.com/) is the productivity platform that empowers everyone with no-code automation and AI, makes search and knowledge sharing seamless, and keeps teams connected and engaged.
 
-You can automate tasks like scheduling announcements and integrating software and custom apps right into Slack — for example, connecting Slack to a [Zoom](https://zoom.us/) meeting room, etc.
+Slack primarily targets businesses and professional teams. That said, if your community prioritizes using chat more than voice or video calls, Slack can accommodate this through its simple and intuitive interface and ability to organize conversations. Slack can automate workflow and be integrated with thousands of business applications, including Zoom and GitHub.
 
-Which one to choose — Slack or Discord — is based on your preference and the needs of your community.
+### GitHub Discussions
+
+[Discussions](https://github.com/features/discussions) is a collaborative communication forum for the community around an open source project. It's a feature on GitHub to ask questions, share ideas, and build connections with each other around the project.
+
+You can easily enable discussions in your project by following the [complete instructions](https://docs.github.com/en/discussions/quickstart#enabling-github-discussions-on-your-repository).
 
 ### Community Forum
 
 Another place to create a communication space is a forum. A community forum is an online space where community members connect, engage, and discuss topics with each other.
+
+One of the benefits of having a community forum is a place for members to discuss and ask specific questions about your project. Whenever someone encounters the same problem that has been fixed before, they can fix it faster by searching for the solutions on the forum. This can increase the productivity of maintainers because you don't have to answer the same questions repeatedly. A forum is also available publicly, so it's searchable on search engines and can increase the number of users and contributors.
 
 You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
 
