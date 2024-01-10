@@ -45,6 +45,7 @@ Each team should have a specific set of permissions that allow them to do what t
 To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member priviledges section.
 
 Here's what it will look like in GitHub:
+
 ![team permissions](/assets/org-permissions.png)
 
 #### Additional Permissions to Consider
