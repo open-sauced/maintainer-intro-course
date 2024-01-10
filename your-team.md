@@ -64,8 +64,6 @@ Here's what it will look like in GitHub:
 - Triage Team: Grant "Triage" permission to the triage team's primary repository.
 - Maintainer Team: Grant "Write" or "Maintain" permissions to repositories they actively contribute to.
 - Documentation Team: Grant "Write" permission to the documentation repository, potentially "Read" access to other relevant repositories.
-- Security Team: Grant "Admin" or "Maintain" permissions to security-sensitive repositories, enabling them to address vulnerabilities promptly.
-- Release Team: Grant "Maintain" or "Admin" permissions to repositories they manage releases for.
 
 You can see some of the options here:
 
