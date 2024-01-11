@@ -69,6 +69,15 @@ From the [official GitHub documentation](https://docs.github.com/en/repositories
 
 > You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 
+This Becoming a Maintainer course repository has a [CODEOWNERS file](https://github.com/open-sauced/maintainer-intro-course/blob/main/.github/CODEOWNERS) that contains code as below:
+
+```text
+@open-sauced/triage
+@open-sauced/docs
+```
+
+Whenever someone creates a pull request, the `@open-sauced/triage` and `@open-sauced/docs` teams are automatically added as reviewers.
+
 There are some benefits to having this file in your repository:
 
 - **Review request notification**
