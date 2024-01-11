@@ -14,9 +14,11 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Intro: Understanding the role of an open source maintainer](/intro.md)
 
-### [Chapter 1: Setting Up Your Project](/how-to-setup-your-project.md)
+### [Chapter X: Setting Up Your Project](/how-to-setup-your-project.md)
 
-### [Chapter 3: Maintainer Power Ups](/maintainer-powerups.md)
+### [Chapter X: Issues and Pull Requests](/issues-and-pull-requests.md)
+
+### [Chapter X: Maintainer Power Ups](/maintainer-powerups.md)
 
 ### Additional Information
 

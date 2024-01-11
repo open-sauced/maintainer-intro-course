@@ -1,6 +1,6 @@
 # Contributing to OpenSauced Intro
 
-Contributions are always welcome, no matter how large or small. Before contributing, please read the [code of conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
+Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
 
 ## Recommended Communication Style
 
@@ -23,7 +23,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 
 ### Setup the Project Locally
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [intro repository](github.com/open-sauced/intro) to your own GitHub account.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [maintainer-intro-course repository](https://github.com/open-sauced/maintainer-intro-course) to your own GitHub account.
 2. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the forked repository to your local machine.
 
    ```bash
@@ -33,7 +33,7 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
 3. Navigate to and open the project in your code editor.
 
    ```bash
-   cd intro
+   cd maintainer-intro-course
    ```
 
 4. Run the project.
@@ -138,29 +138,17 @@ Follow these steps to add a new chapter to our course:
 
    > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
-2. **Determine the chapter's number**.
-
-   We have specific conventions for numbering file names to maintain a consistent structure. In this project, the numbers in the file name represent chapters—for example, `01-intro`, `02-what-is-open-source`, `03-why-open-source`, etc.
-
-   Consider where the new chapter you'll work on logically falls in the course.
-
-   If you're not sure, please comment on the issue and tag the `@open-sauced/docs` maintainers to ask for help.
-
-3. **Write content**.
+2. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
    > **Note**: There should only be **one** `heading 1` in each file.
 
-4. **Ensure there are no duplicate chapter numbers, and they should be in order**.
-
-   There should only be one number for each chapter (no duplication), and the numbers must be in order to make the course flow. You need to rename other files that follow your new file by changing the chapter number accordingly.
-
-5. **Test your changes**.
+3. **Test your changes**.
 
    Before finalizing your new chapter, you should test your changes locally. You can build or render the project to ensure your new chapter appears as expected within the course structure.
 
-6. **Update the sidebar**.
+4. **Update the sidebar**.
 
    After you add a new chapter, you must also add it to the sidebar for the users to discover the content.
 
@@ -173,25 +161,20 @@ Follow these steps to add new chapters to the sidebar:
 1. Navigate to `_layouts/sidebar.js`.
 2. **Add the new chapter link**.
 
-   - Insert a new line in the list based on your chapter's number. For example, if your chapter number is `07`, insert this new line right after `06`.
    - Use the below format to add the link to the new chapter:
 
      ```markdown
-     - [Intro](https://github.com/01-intro.md)
+     - [Setting Up Your Project](/how-to-setup-your-project.md)
      ```
 
-     - Replace `Intro` with the title of your new chapter. _Be sure to capitalize the title_.
-     - Replace `/01-intro.md` with the relative path to the Markdown file of your new chapter.
+     - Replace `Setting Up Your Project` with the title of your new chapter. _Be sure to capitalize the title_.
+     - Replace `/how-to-setup-your-project.md` with the relative path to the Markdown file of your new chapter.
 
-3. **Ensure the chapter's numbers are in order**.
-
-   The chapter's numbers should be in order. So, you must change the chapter numbers in the relative paths that follow the new chapter.
-
-4. **Create a pull request**.
+3. **Create a pull request**.
 
    Once you have created the new chapter and verified that it meets our project's requirements, you can submit your contribution by creating a pull request.
 
-5. **Review and feedback**.
+4. **Review and feedback**.
 
    Wait for maintainers to review your pull request, and be prepared to receive feedback from them or collaborators. Make changes if necessary to refine your contribution.
 
@@ -286,6 +269,6 @@ git pull
 - Use code blocks to highlight code snippets or configuration examples.
 - Check out the official [Markdown Guide](https://www.markdownguide.org/basic-syntax/) website for more information about using Markdown.
 
-## Translating the Intro to Open Source Course
+## Translating the Maintainer Intro Course
 
-Translating our Intro to Open Source course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
+Translating our Maintainer Intro course helps make it more accessible to a broader audience. If you're interested in translating this course, please read our [🌐 i18n Guidelines](/i18n-guidelines.md) page.
