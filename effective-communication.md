@@ -92,6 +92,8 @@ Start by acknowledging and thanking them for the issue or pull request they crea
 
 One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
 
+Another way to engage with your contributors is through live streams. At OpenSauced, we do monthly live streams to thank our contributors for their pull requests and other support and give shoutouts as a token of our appreciation. You can also do live streams to work on issues publicly and ask your community to attend.
+
 Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. Always remember that you want to foster a healthy communication and welcoming environment. So, it's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
 
 ### Managing Expectations
