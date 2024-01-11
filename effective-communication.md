@@ -50,7 +50,7 @@ Here are some channels for you to consider to create regular communication:
 
 ### Chat Service App
 
-You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours to talk about your projects and know your contributors better, and many more.
+You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours, and many more.
 
 Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
 
@@ -92,8 +92,6 @@ Start by acknowledging and thanking them for the issue or pull request they crea
 
 One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
 
-Another way to engage with your contributors is by holding regular office hours. In synchronous conversation, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
-
 Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. Always remember that you want to foster a healthy communication and welcoming environment. So, it's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
 
 ### Managing Expectations
@@ -110,13 +108,15 @@ You might prefer contributors to add a prefix to issue, pull request titles, and
 
 #### Support
 
-What kind of support can you provide for your contributors? Where can they reach you? You can think of these amongst other supports:
+What kind of support can you provide your contributors? You can think of these amongst other supports:
 
-- Where can contributors ask questions?
-- Can you give them support in pair programming when necessary? How can contributors ask for one?
-- Will you hold office hours? If so, would it be regular or based on request? Where will it happen, and how will you announce it?
+- **Space**: Where can contributors ask questions and throw ideas?
+- **Pair programming**: Some contributors, especially beginners, might need extra guidance and hand-holding. Can you give them support in pair programming when necessary? How can they ask for one?
+- **Office hours**: Regular office hours is a great way to engage directly with your contributors. It allows you to listen to their ideas and challenges, what needs to be improved, communicate with them about the direction of your project, and build a better relationship with them.
 
-You can add a section in your README or Contributing Guide to inform about the support you can give.
+When you support your contributors, you can gain their trust and motivation and create a more collaborative and productive environment. By providing them with the help they need, you can establish a culture where everyone feels respected and supported, leading to even greater achievements.
+
+You can add a section in your README or Contributing Guide to inform about the support you can give and how to get one.
 
 #### Timeline
 
