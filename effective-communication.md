@@ -88,9 +88,9 @@ Effective communication is key to project success. It plays a vital role in reso
 
 Having contributors come back and continue contributing to the project is one of the maintainers' goals. To nurture this relationship, you should have time to engage with your contributors between tasks.
 
-Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something is not clear enough for you. Keep your message clear and short so they can understand your purpose. When you deliver a few topics, using bullet points in a comment or splitting your message into several comments is recommended.
+Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something is unclear, and don't assume.
 
-One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
+One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you communicate, and keep your message clear and short so they can understand your purpose. When you deliver a few topics, using bullet points in a comment or splitting your message into several comments is recommended.
 
 Another way to engage with your contributors is through live streams. At OpenSauced, we do monthly live streams to thank our contributors for their pull requests and other support and give shoutouts as a token of our appreciation. You can also do live streams to work on issues publicly and ask your community to attend.
 
