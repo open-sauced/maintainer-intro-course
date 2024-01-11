@@ -1,4 +1,4 @@
-# How to Create Effective Communication and Collaboration
+# How to Effectively Communicate and Collaborate
 
 Effective communication and collaboration with contributors are the keys to a thriving open source community. As maintainers, you want to smoothly onboard new contributors to your projects and build a welcoming community with open lines of communication between contributors and maintainers.
 
@@ -14,7 +14,7 @@ There are ways to establish effective communication on your project to achieve g
 
 ### Clear Documentation
 
-An easy-to-understand and well-organized documentation will ensure a good onboarding experience for new contributors. Clear documentation can save time, prevent errors, and promote transparency and accountability, which can be vital for effective communication. It is best to invest time and effort in creating clear documentation for your project.
+Easy-to-understand and well-organized documentation will ensure a good onboarding experience for new contributors. Clear documentation can save time, prevent errors, and promote transparency and accountability, which can be vital for effective communication. It is best to invest time and effort in creating clear documentation for your project.
 
 Consider these when you write or update your documentation:
 
@@ -32,9 +32,9 @@ Consider these when you write or update your documentation:
 
 ### Issue Labels
 
-Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths.
+Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths. The [Issues and Pull Requests](/issues-and-pull-requests.md) chapter covers this topic more in-depth.
 
-The `good first issue` label is perfect to be added to beginners-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. Consider pointing to the code blocks and providing step-by-step instructions to work on the solutions for this type of issue.
+The `good first issue` label is perfect to be added to beginner-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. Consider pointing to the code blocks and providing step-by-step instructions to work on the solutions for this type of issue.
 
 If an issue is complicated and has to be fixed promptly, you can add `core team work`, `critical`, or any other label based on your project's convention to prevent frustrations and confusion.
 
@@ -50,7 +50,7 @@ Here are some channels for you to consider to create regular communication:
 
 ### Chat Service App
 
-You can accommodate sync communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold sync office hours to talk about your projects and know your contributors better, and many more.
+You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours to talk about your projects and know your contributors better, and many more.
 
 Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
 
@@ -58,7 +58,7 @@ Tech communities widely use the apps mentioned here. But which one to choose is 
 
 > [Discord](https://discord.com/) is a voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.
 
-The Discord market mainly targets gamers. It is a good choice if your community heavily uses group voice and video calls. Creating a channel for voice calls makes it easy for community members to join the channel and talk to anyone instantly. Discord is also suitable for building a larger community because if your server is public, anyone with a Discord account can search and join your group.
+Discord is a good choice if your community heavily uses group voice and video calls. Creating a channel for voice calls makes it easy for community members to join the channel and talk to anyone instantly. Discord is also suitable for building a larger community because if your server is public, anyone with a Discord account can search and join your group.
 
 #### Slack Group
 
@@ -90,9 +90,9 @@ Having contributors come back and continue contributing to the project is one of
 
 Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something is not clear enough for you. Keep your message clear and short so they can understand your purpose. When you deliver a few topics, using bullet points in a comment or splitting your message into several comments is recommended.
 
-One of the golden rules in an international remote environment is never to make an assumption. Async communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
+One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you are communicating.
 
-Another way to engage with your contributors is by holding a regular office hour. In sync, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
+Another way to engage with your contributors is by holding regular office hours. In synchronous conversation, you can hear their ideas and challenges, communicate with them about your project's direction, and more. This can be a good way to get to know your contributors closer and vice versa.
 
 Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. Always remember that you want to foster a healthy communication and welcoming environment. So, it's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
 
@@ -132,9 +132,9 @@ As your project grows and gains popularity, it will attract more contributors. C
 
   > "Hey {username}, thank you for your PR. I will take two weeks off starting tomorrow and review this upon my return. You may ask about the status of your PR if I haven't responded to it in the next three weeks."
 
-  When pull requests come during your days off, you can apologize and thank them for their patience after you return. Consider to say something like this:
+  When pull requests come during your days off, after you return, you can thank and let the contributors know you will review the pull requests. Consider to say something like this:
 
-  > "Hey {username}, I apologize for the late response, as I just got back from my days off. Thank you for taking on this! I need time to review it and will get back to you soon. I appreciate your patience."
+  > "Hey {username}, I just got back from my days off. Thank you for taking this on! I need time to review it and will get back to you soon. I appreciate your patience."
 
 - **No Private Message**
 
@@ -162,15 +162,15 @@ Here are some techniques that you can train for active listening:
 
 - **Showing interest**
 
-  If it's a sync conversation, use eye contact to show your interest in what the speaker is saying. In an async chat, you can repeat what they are saying in your own words based on your understanding. It will show them that you are interested in their conversation. And they can correct you if you need help understanding it clearly.
+  If it's a synchronous conversation, use eye contact to show your interest in what the speaker is saying. In an asynchronous chat, you can repeat what they are saying in your own words based on your understanding. It will show them that you are interested in their conversation. And they can correct you if you need help understanding it clearly.
 
 - **Acknowledging emotions**
 
-  You want to be able to recognize and acknowledge the speaker's feelings in sync or async conversations. For example, you can say, "I see that it upsets you," or, "I'm excited for you!" when the speaker uses many exclamations in their writing.
+  You want to be able to recognize and acknowledge the speaker's feelings in synchronous or asynchronous conversations. For example, you can say, "I see that it upsets you," or, "I'm excited for you!" when the speaker uses many exclamation marks in their writing.
 
 - **Asking and clarifying**
 
-  When someone feels many emotions, they usually want to talk and let the feeling out fast. That can result in a lack of information or the inability to think of more suitable words to describe the situation. You always want to gain more information and clarify what is said. For example, "You said they contacted you on Monday [_clarifying_]. Did they file the complaint on the same day? [_asking for more information_]"
+  When someone feels many emotions, they usually want to talk and let their feelings out fast. That can result in a lack of information or the inability to think of more suitable words to describe the situation. You always want to gain more information and clarify what is said. For example, "You said they contacted you on Monday [_clarifying_]. Did they file the complaint on the same day? [_asking for more information_]"
 
 #### Having Empathy and Compassion
 
