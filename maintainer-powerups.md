@@ -8,20 +8,52 @@ The good news is that some tools and features on GitHub allow us to automate tas
 
 Let's say your project receives many new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
 
-Setting up a GitHub Action to automate these tasks will save you time in responding to contributions individually. Here, at OpenSauced, we set up GitHub Action to [welcome new issues](https://github.com/open-sauced/app/blob/beta/.github/workflows/issue.yml), allow contributors to [assign themselves to an issue](https://github.com/bdougie/take-action), block issues from getting assigned when they still need to be [triaged](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml), and many more. Other repositories also have their own GitHub Actions set up based on the needs of each repository.
+Setting up a GitHub action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
-If you want to use GitHub Actions in your project, you can search for them on the [GitHub Marketplace](https://github.com/marketplace?type=actions). You can [create your own actions](https://github.com/features/actions) or customize them from existing GitHub Actions if you don't see the one you need.
+### Actions Types
 
-Here are some resources to give you more information about GitHub Actions and how to set one up:
+There are many types of actions that you can set up for your project, depending on what you need. Below are some GitHub actions that you usually find across repositories:
+
+#### Linter
+
+Most open source repositories have linters that run on each pull request. Linter is a tool for detecting potential errors and maintaining a consistent code style in a project. This action can help you keep the code quality and achieve a more readable and consistent style. [Super-Linter](https://github.com/marketplace/actions/super-linter) is one of the most used actions for linter.
+
+#### Deployed Previews
+
+You want to be able to view changes, especially visual ones, without having to ship them to production. Having these previews in every pull request with [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/features/previews) lets you preview changes before merging the pull request.
+
+#### Issue and Pull Request Scripts
+
+Having scripts to welcome new issues and pull requests and let contributors know that you will triage and review them will save you more time than writing them manually, one by one. You can use the [Create or Update Comment](https://github.com/marketplace/actions/create-or-update-comment) action, as we do here at OpenSauced, to [welcome new issues](https://github.com/open-sauced/app/blob/beta/.github/workflows/issue.yml).
+
+#### Code Scanning
+
+Code scanning is a tool that looks for security vulnerabilities, possible bugs, and errors in the code. You can use GitHub's [code scanning](https://docs.github.com/en/code-security/code-scanning) feature and configure tools like [CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql), which GitHub maintains, or third-party scanning tools such as [SonarQube](https://github.com/marketplace/actions/official-sonarqube-scan).
+
+#### Testing
+
+Setting up actions to run tests is helpful to ensure your app functions and performs as it should and that no regressions occur with new changes. [Cypress GitHub Action](https://docs.cypress.io/guides/continuous-integration/github-actions) is one of the examples of actions for E2E testing. You can also check out [Is Website Vulnarerble](https://github.com/marketplace/actions/is-website-vulnerable) to find publicly known security vulnerabilities in JavaScript libraries' websites or [Step CI Action](https://github.com/marketplace/actions/step-ci-action) for API quality assurance.
+
+### Creating and Customizing Actions
+
+You can search for available GitHub actions on the [GitHub Marketplace](https://github.com/marketplace?type=actions). But if you can't find the one you need, you can create or customize your own actions from existing GitHub actions.
+
+The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment, and maintainers can focus on more important tasks than assigning issues.
+
+But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
+
+You can read more about GitHub actions and how to create one in [the official documentation](https://github.com/features/actions).
+
+Here are some more resources to give you more information about GitHub Actions and how to set one up:
 
 - [GitHub Actions: A Maintainer's Best Friend](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
 - [Setting Up Your First GitHub Action](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
 
 ## CI/CD Pipelines
 
-Leveraging GitHub Actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
+Leveraging GitHub actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
 
-Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you confidence in your code.
+Using Git, GitHub, and GitHub actions to build a CI/CD pipeline should give you confidence in your code.
 
 ### Continuous Delivery vs. Continuous Deployment
 
@@ -35,7 +67,7 @@ A project usually starts with continuous delivery and integrates more automated 
 
 ### Build a CI/CD Pipeline with GitHub Action
 
-Below are some helpful resources to help you build a CI/CD pipeline with GitHub Action:
+Below are some helpful resources to help you build a CI/CD pipeline with GitHub action:
 
 - [GitHub Docs: The complete CI/CD solution](https://github.com/solutions/ci-cd/)
 - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
@@ -76,7 +108,7 @@ This Becoming a Maintainer course repository has a [CODEOWNERS file](https://git
 @open-sauced/docs
 ```
 
-Whenever someone creates a pull request, the `@open-sauced/triage` and `@open-sauced/docs` teams are automatically added as reviewers.
+It means that the `@open-sauced/triage` and `@open-sauced/docs` teams are automatically added as reviewers whenever someone creates a pull request.
 
 There are some benefits to having this file in your repository:
 
