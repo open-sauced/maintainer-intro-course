@@ -14,9 +14,9 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Intro: Understanding the role of an open source maintainer](/intro.md)
 
-### [Chapter 1: Setting Up Your Project](/how-to-setup-your-project.md)
+### [Chapter X: Setting Up Your Project](/how-to-setup-your-project.md)
 
-### [Chapter 2: Issues and Pull Requests](/issues-and-pull-requests.md)
+### [Chapter X: Issues and Pull Requests](/issues-and-pull-requests.md)
 
 ### [Chapter x: Setting Up & Maintaining Your Team](/your-team.md)
 
@@ -29,9 +29,9 @@ As this is the beginning of your open source maintainer journey, we've also prov
 
 ## Getting Started
 
-To start the course, navigate to the [`intro` file](/intro.md) in the repository or visit the [Intro to Open Source with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To start the course, navigate to the [`intro` file](/intro.md) in the repository or visit the [Becoming a Maintainer Course with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
-As you work through the course, we encourage you to experiment with the tools and concepts covered in each chapter. The best way to learn is by doing, so try contributing to an open source project or building your project from scratch!
+As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
 
 ## Building Your Open Source Resume
 
@@ -51,7 +51,7 @@ Happy learning and contributing!
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Intro to Open Source course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
+If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
 
 ## ⚖️ LICENSE
 
