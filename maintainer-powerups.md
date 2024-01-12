@@ -38,7 +38,7 @@ Setting up actions to run tests is helpful to ensure your app functions and perf
 
 You can search for available GitHub actions on the [GitHub Marketplace](https://github.com/marketplace?type=actions). But if you can't find the one you need, you can create or customize your own actions from existing GitHub actions.
 
-The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment, and maintainers can focus on more important tasks than assigning issues.
+The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment so maintainers can focus on more important tasks than assigning issues.
 
 But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
 
