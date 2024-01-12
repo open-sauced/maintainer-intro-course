@@ -32,7 +32,7 @@ Code scanning is a tool that looks for security vulnerabilities, possible bugs, 
 
 #### Testing
 
-Setting up actions to run tests is helpful to ensure your app functions and performs as it should and that no regressions occur with new changes. [Cypress GitHub Action](https://docs.cypress.io/guides/continuous-integration/github-actions) is one of the examples of actions for E2E testing. You can also check out [Is Website Vulnarerble](https://github.com/marketplace/actions/is-website-vulnerable) to find publicly known security vulnerabilities in JavaScript libraries' websites or [Step CI Action](https://github.com/marketplace/actions/step-ci-action) for API quality assurance.
+Setting up actions to run tests is helpful to ensure your app functions and performs as it should and that no regressions occur with new changes. [Cypress GitHub Action](https://docs.cypress.io/guides/continuous-integration/github-actions) is one of the examples of actions for E2E testing. You can also check out [Is Website Vulnerable](https://github.com/marketplace/actions/is-website-vulnerable) to find publicly known security vulnerabilities in JavaScript libraries' websites or [Step CI Action](https://github.com/marketplace/actions/step-ci-action) for API quality assurance.
 
 ### Creating and Customizing Actions
 
@@ -53,7 +53,7 @@ Here are some more resources to give you more information about GitHub Actions a
 
 Leveraging GitHub actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
 
-Using Git, GitHub, and GitHub actions to build a CI/CD pipeline should give you confidence in your code.
+Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you confidence in your code.
 
 ### Continuous Delivery vs. Continuous Deployment
 
