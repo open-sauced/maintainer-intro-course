@@ -104,9 +104,11 @@ The earlier you let contributors know what they can expect from you and what you
 
 Just like maintainers, most open source contributors are volunteers. They are not required to, but they help you fix and enhance your project in their spare time. So you can't expect them to work on their issues promptly like a regular employee. With this expectation, you can, for example, break your issues into several small ones to prevent them from taking a long time to work on an issue.
 
-#### Styling Guide
+#### Style Guide
 
-You might prefer contributors to add a prefix to issue, pull request titles, and their commit messages. Or you might select particular Markdown rules for your project. Every project has its own convention. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear styling guide they must follow.
+You might prefer contributors to add a prefix in brackets to issue and pull request titles. For example, "[Bug]: Documentation link goes to 404 Page Not Found". Or you want them to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) to their commit messages, such as `feat: add new feature for user authentication`. In another case, you might select particular Markdown rules for your project, like one underscore for italics, two asterisks for bolds, etc.
+
+Every project has its own convention to keep the consistency around it. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear style guide they must follow. You can take an example from GitHub's [style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide).
 
 #### Support
 
@@ -116,7 +118,7 @@ What kind of support can you provide your contributors? You can think of these a
 - **Pair programming**: Some contributors, especially beginners, might need extra guidance and hand-holding. Can you give them support in pair programming when necessary? How can they ask for one?
 - **Office hours**: Regular office hours is a great way to engage directly with your contributors. It allows you to listen to their ideas and challenges, what needs to be improved, communicate with them about the direction of your project, and build a better relationship with them.
 
-When you support your contributors, you can gain their trust and motivation and create a more collaborative and productive environment. By providing them with the help they need, you can establish a culture where everyone feels respected and supported, leading to even greater achievements.
+When you support your contributors, you can gain their trust and motivation and create a more collaborative and productive environment. By providing them with the help they need, you can establish a culture where everyone feels respected and supported, which leads to even greater achievements.
 
 You can add a section in your README or Contributing Guide to inform about the support you can give and how to get one.
 
