@@ -50,7 +50,7 @@ Here are some channels for you to consider to create regular communication:
 
 ### Chat Service App
 
-You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours, and many more.
+You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours, etc.
 
 Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
 
@@ -122,7 +122,7 @@ You can add a section in your README or Contributing Guide to inform about the s
 
 #### Timeline
 
-Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours.
+Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours. You can automate this message with GitHub action if you prefer. Read our [Maintainer Power Ups](./maintainer-powerups.md) chapter for more information about GitHub actions.
 
 #### Boundaries
 
@@ -192,7 +192,7 @@ You have a contributor who contributes multiple times and has been working fast 
 
 Instead of saying:
 
-> "Hey, why do you always deliver the code that doesn't align with what we want? I notice you've done this so many times. Do you even understand the issues? I'm also wondering if you ever run your code locally because it often doesn't work the way it should and, worst, breaks the app."
+> "Hey, why do you always deliver the code that doesn't align with what we want? I notice you've done this so many times. Do you even understand the issues? I'm also curious if you ever run your code locally because it often doesn't work the way it should and, worst, breaks the app."
 
 You can say something like:
 
