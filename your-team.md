@@ -3,6 +3,7 @@
 Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
 
 ## Types of Teams
+
 Creating teams on GitHub allows you to grant more permissions to a group of people depending on their team status. Here are some common team types and why a maintainer might find them beneficial:
 
 ### Triage Team
@@ -17,7 +18,6 @@ The maintainer team shares responsibility for code reviews, bug fixes, and featu
 
 **Benefits**: Reduced individual workload, faster development cycles, and more diverse perspectives on code and decisions.
 
-
 ### Documentation (Docs) Team
 
 The Docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
@@ -25,6 +25,7 @@ The Docs team creates and maintains high-quality documentation for users and con
 **Benefits**: Improved user experience, easier onboarding for new contributors, and less time spent answering basic questions.
 
 ### Other Team Variations
+
 - Security Team
 - Design Team
 - Community Team
@@ -33,7 +34,7 @@ The Docs team creates and maintains high-quality documentation for users and con
 
 ## Assembling Your A-Team: Adding New Members
 
-Now that you understand a little but about teams, let's look at how to identify new members for your team. 
+Now that you understand a little but about teams, let's look at how to identify new members for your team.
 
 **Recognizing the Need:** Just like a superhero team expands to face escalating threats, your project might reach a point where additional team members are needed. This could be when the workload starts to overwhelm you if you're a solo maintainer or your existing team, or when taking on complex challenges requires specialized expertise. Identifying these challenging points is important for ensuring your project's continued momentum.
 
@@ -42,6 +43,7 @@ Now that you understand a little but about teams, let's look at how to identify 
 **Inviting Your Team:** Once you've identified potential team members, extend a formal invitation. This public acknowledgment of their contributions not only shows your appreciation but also serves as an inspiration to other community members. Platforms like GitHub offer streamlined mechanisms for adding team members, making it a seamless process to officially welcome your new team members.
 
 ## Granting Team Permissions
+
 Each team should have a specific set of permissions that allow them to do what they need to for the team to be successful. Here are some common permissions that teams might need:
 
 ### Repository-Specific Permissions
@@ -82,12 +84,12 @@ You can see some of the options here:
 ## Expanding the Horizons: Enlisting Additional Maintainers
 
 ### Specialization: The Key to Scale
- 
+
 As your project grows in complexity, the need for specialized attention in specific areas might arise. Documentation might require someone who can write for a variety of audiences or help contributors to understand audience, while community engagement might need a charismatic presence. Identifying these needs and recruiting contributors with relevant expertise allows you to delegate ownership and ensure all aspects of your project receive the dedicated care they deserve.
 
 ### Recruiting Maintainers & Team Members
 
-It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise. 
+It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise.
 
 One way to look for potential maintainers is to create an [Insight page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
 
@@ -97,10 +99,10 @@ To track repositories, click the "Insights" tab on the dashboard. You will be re
 
 There are two ways to add repositories to your Insight Page:
 
-1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project. 
-2. Add individual repositories. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members. 
+1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
+2. Add individual repositories. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
-From there, you can create a list of contributors you're interesting in learning more about or connecting with by selecting them from the contributors tab and creating a new list. 
+From there, you can create a list of contributors you're interesting in learning more about or connecting with by selecting them from the contributors tab and creating a new list.
 
 ![team insights gif](/assets/list-from-insight.gif)
 
@@ -111,6 +113,7 @@ Once you've identified potential team members, reach out to them, let them know 
 To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
 
 ## Onboarding New Team Members
+
 To ensure that your new team members are set up for success, it's important to have an onboarding process. This will help them to understand their responsibilities, the project's goals, and how they can contribute.
 
 Here are some things to consider:
@@ -133,7 +136,6 @@ As your team grows, it's important to keep track of your team's participation an
 **Parting Ways Gracefully:** As time goes on and people's lives change, you'll find that even the most dedicated teams might face departures. Inactivity, discord with project values, or mutual agreement can lead to changes in your team. It's important to approach these situations with respect and understanding. Privately communicate the reasons behind the decision, acknowledge the individual's contributions, and express gratitude for their time and effort. Remember, fostering a positive and supportive environment, even during departures, contributes to the overall well-being of your project community.
 
 To remove the person from your team in GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/removing-organization-members-from-a-team).
-
 
 ## Conclusion
 
