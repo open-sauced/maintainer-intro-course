@@ -50,7 +50,7 @@ Here are some channels for you to consider to create regular communication:
 
 ### Chat Service App
 
-You can accommodate synchronous communication for your community by providing a chat service app. Besides having one allowing contributors to ask questions, connect, and collaborate openly in real-time, it can also benefit you as a maintainer. You can quickly announce project updates, ask for help, hold synchronous office hours, etc.
+It would be best to provide a chat service app to accommodate asynchronous and synchronous communication for your community. Contributors can ask questions, connect, and collaborate openly in nearly real-time with this app, and it's also a great way to support communication in different time zones. A chat service app can also benefit you as a maintainer by quickly announcing project and community updates, asking for help, holding synchronous office hours, etc.
 
 Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
 
