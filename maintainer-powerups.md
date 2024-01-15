@@ -10,7 +10,7 @@ Let's say your project receives more new issues and pull requests daily. You wan
 
 Setting up a GitHub action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
-### Actions Types
+### Types of Actions
 
 There are many types of actions that you can set up for your project, depending on what you need. Below are some GitHub actions that you usually find across repositories:
 
