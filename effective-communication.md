@@ -24,7 +24,7 @@ Consider these when you write or update your documentation:
 
 - **Clear guide**
 
-  Whether it's the setup guide on the README, instructions to run and use the project, or Contributing Guidelines, you always want to provide a clear direction for contributors to follow for better collaboration.
+  Whether it's the setup guide on the README, instructions to run and use the project, or contributing guidelines, you always want to provide a clear direction for contributors to follow for better collaboration.
 
 - **Dedicated place for documentation**
 
@@ -120,7 +120,7 @@ What kind of support can you provide your contributors? You can think of these a
 
 When you support your contributors, you can gain their trust and motivation and create a more collaborative and productive environment. By providing them with the help they need, you can establish a culture where everyone feels respected and supported, which leads to even greater achievements.
 
-You can add a section in your README or Contributing Guide to inform about the support you can give and how to get one.
+You can add a section in your README or contributing guidelines to inform about the support you can give and how to get one.
 
 #### Timeline
 
