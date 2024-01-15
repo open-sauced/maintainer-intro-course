@@ -6,7 +6,7 @@ The good news is that some tools and features on GitHub allow us to automate tas
 
 ## GitHub Actions
 
-Let's say your project receives many new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
+Let's say your project receives more new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
 
 Setting up a GitHub action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
@@ -26,7 +26,7 @@ You want to be able to view changes, especially visual ones, without having to s
 
 Having scripts to welcome new issues and pull requests and let contributors know that you will triage and review them will save you more time than writing them manually, one by one. You can use the [Create or Update Comment](https://github.com/marketplace/actions/create-or-update-comment) action, as we do here at OpenSauced, to [welcome new issues](https://github.com/open-sauced/app/blob/beta/.github/workflows/issue.yml).
 
-#### Code Scanning
+#### Code Scanning Tools
 
 Code scanning is a tool that looks for security vulnerabilities, possible bugs, and errors in the code. You can use GitHub's [code scanning](https://docs.github.com/en/code-security/code-scanning) feature and configure tools like [CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql), which GitHub maintains, or third-party scanning tools such as [SonarQube](https://github.com/marketplace/actions/official-sonarqube-scan).
 
@@ -44,7 +44,7 @@ But we want contributors only to take issues that have passed our triage or are 
 
 You can read more about GitHub actions and how to create one in [the official documentation](https://github.com/features/actions).
 
-Here are some more resources to give you more information about GitHub Actions and how to set one up:
+Here are some more resources to give you more information about GitHub actions and how to set one up:
 
 - [GitHub Actions: A Maintainer's Best Friend](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
 - [Setting Up Your First GitHub Action](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
