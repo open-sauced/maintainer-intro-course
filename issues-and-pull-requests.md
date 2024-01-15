@@ -173,7 +173,3 @@ A lot of maintainers will choose to go with this template `SECURITY.md` policy.
 ### Dependabot
 
 Dependabot is a GitHub feature that will monitor your project's dependencies and report any possible security vulnerabilities found. You can configure dependabot to report issues or even create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
-
-### Code Scanning Tools
-
-There are plenty of third-party tools that you can integrate into your project to scan your codebase and identify potential security vulnerabilities. GitHub has an automated tool called CodeQL that will run frequent security checks in your codebase. Please read through the [GitHub documentation](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql) to learn more about code scanning tools.
