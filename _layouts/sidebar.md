@@ -2,3 +2,4 @@
   - [What is an Open Source Maintainer?](/intro.md)
   - [Setting Up Your Project](/how-to-setup-your-project.md)
   - [Issues and Pull Requests](/issues-and-pull-requests.md)
+  - [Building and Nurturing Community](/building-community.md)
