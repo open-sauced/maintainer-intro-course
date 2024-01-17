@@ -18,7 +18,7 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter X: Issues and Pull Requests](/issues-and-pull-requests.md)
 
-### [Chapter X: How to Create Effective Communication and Collaboration](/effective-communication.md)
+### [Chapter X: How to Create Effective Communication and Collaboration](/communication-and-collaboration.md)
 
 ### Additional Information
 
