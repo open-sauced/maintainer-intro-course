@@ -93,7 +93,7 @@ You can see some of the options here:
 
 ### Specialization: The Key to Scale
 
-As your project grows in complexity, the need for specialized attention in specific areas might arise. Documentation might require someone who can write for a variety of audiences or help contributors to understand audience, while community engagement might need a charismatic presence. Identifying these needs and recruiting contributors with relevant expertise allows you to delegate ownership and ensure all aspects of your project receive the dedicated care they deserve.
+As your project grows in complexity, the need for specialized attention in specific areas might arise. Documentation might require someone who can write for audiences at all levels of expertise, while community engagement might need a charismatic presence. Identifying these needs and recruiting contributors with relevant expertise allows you to delegate ownership and ensure all aspects of your project receive the dedicated care they deserve.
 
 ### Recruiting Maintainers & Team Members
 
