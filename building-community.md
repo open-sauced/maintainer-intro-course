@@ -12,7 +12,7 @@ There are many types of people when talking about engagements in a community. So
 
 ### Open Communication
 
-You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and better collaboration. Everyone should feel comfortable expressing their thoughts and ideas and should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Effectively Communicate and Collaborate](./communication-and-collaboration.md) for some tips about communication and collaboration.
+You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and better collaboration. Everyone should feel comfortable expressing their thoughts and ideas and should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Communicate and Collaborate Effectively](./communication-and-collaboration.md) for some tips about communication and collaboration.
 
 ### Diversity and Inclusivity
 
@@ -24,8 +24,62 @@ Every open source project should have a Code of Conduct as a clear set of guidel
 
 ### Addressing Conflicts
 
-Imagine you're seeing a member behave disrespectfully towards another member on Discord. Or you receive an incident report from a member saying someone harasses them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section of the [How to Effectively Communicate and Collaborate](./communication-and-collaboration.md) chapter.
+Imagine you're seeing a member behave disrespectfully towards another member on Discord. Or you receive an incident report from a member saying someone harasses them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section.
 
 ### Leading by Examples
 
 Leadership is not about being in charge. It's about taking responsibility and setting an example for others to follow. You want to demonstrate positive behavior, be respectful to others, and be willing to listen and learn. Doing so will make others follow the same steps as yours.
+
+## Creating Opportunity for Contributions
+
+In an open source environment, people want to make meaningful contributions and be part of the community. If you want to see return contributors, you want to create the space and opportunities to encourage them to return and contribute more. In this section, we will talk about how to create opportunities for contributions.
+
+### Identifying Contributors Levels
+
+To create opportunities, you need first to identify contributors' entry points.
+
+#### New Contributors
+
+They are generally new to open source or someone new to your project. This type of contributor usually still needs hand-holding and guidance. So, you want to be able to point them to resources about the flow of open source and how to use git and GitHub. You also want to consider having clear and updated project documentation for them to refer to.
+
+#### Intermediate Contributors
+
+Intermediate contributors have some experience in open source but want to go deeper in their engagement and contributions. They usually don't need hand-holding and can understand how to work with your project by reading the documentation or finding resources independently. They might want to grow their skills and network and be interested in becoming a maintainer.
+
+#### Expert Contributors
+
+These are seasoned open source contributors who can contribute at a high level and potentially lead projects. At this level, they can give ideas and contribute to enhancing your project outside the box because they enjoy using it. Whenever they encounter bugs, they want to fix them quickly so they can still use your project and implement it on their projects.
+
+### Encouraging Diverse Contributions
+
+You want to create a space that welcomes diverse contributions, regardless of contributors' coding skills, for the success of your projects. By encouraging both coding and non-coding contributions, you can ensure everyone can participate and contribute their unique skills and perspectives. But you also need to consider the amount of support you can give them if they need it.
+
+#### Code Contributions
+
+Consider creating issues for all levels of contributors after identifying their entry points. The `good first issues` are usually for beginners in open source and someone new to your project. When creating a `good first issue`, think of providing suggested solutions, the lines of code that cause the issue, and resources to help them work on it. For contributors who don't need extra support, you can create an issue with `beginners` or `help wanted` labels based on the complexity.
+
+#### Documentation
+
+You might add new features or change some things in your projects. That's one reason you want to always keep your documentation up to date: to reflect on the current state of your project.
+
+You can create issues to improve the documentation or encourage your community to create tutorials and how-to guides.
+
+#### Community Contributions
+
+As your online community continues to grow, it becomes increasingly difficult to engage with each member individually. To manage your community effectively, having people who can facilitate interactions between members and provide timely responses will be helpful.
+
+You can encourage community members to contribute by engaging in online forums and chat apps. They can help answer questions, share insights, and provide support. This not only helps to build a sense of community around your project but also helps to foster a culture of collaboration and mutual support.
+
+#### Advocacy and Outreach
+
+Some of your contributors may have skills that can be useful to promote your project and organization, such as writing or public speaking. You can motivate them to get involved by encouraging them to write blog posts and create educational content related to your project. They can also speak at conferences or give workshops if they want to. Posting or reposting information about your project on social media is another way to contribute. At OpenSauced, we encourage our community to write blog posts under our [organization on dev.to](https://dev.to/opensauced).
+
+#### Managing Issues
+
+Issues management involves identifying, analyzing, and prioritizing bug issues and feature requests during development. You can create a triage team and encourage your community to help you triage and prioritize the issues in your repositories. You want to provide them with a clear guide on managing issues. You can see the OpenSauced [triage guide](https://docs.opensauced.pizza/contributing/triage-guide/) as an example.
+
+#### Community Events and Hackathons
+
+At OpenSauced, we organize the [#100DaysOfOSS challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
+
+Organizing community events and hackathons is one way to strengthen your community's collaboration and relationships. You can create a survey or poll to gather feedback on what events your community wants to see. Then, consider forming a committee or group of members interested in organizing the events and letting them take charge with your support. By allowing your members to get involved and contribute, you can increase the sense of community and belonging.
