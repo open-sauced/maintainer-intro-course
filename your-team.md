@@ -20,7 +20,7 @@ The maintainer team shares responsibility for code reviews, bug fixes, and featu
 
 ### Documentation (Docs) Team
 
-The Docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
+The docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
 
 **Benefits**: Improved user experience, easier onboarding for new contributors, and less time spent answering basic questions.
 
@@ -30,15 +30,15 @@ The Docs team creates and maintains high-quality documentation for users and con
 - Design Team
 - Community Team
 - Marketing Team
-- Core Team*
+- Core Team\*
 
-***Just a note on Core Team**: Sometimes the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the direction of the project. Maintainer Teams are more likely to focus on day-to-day management and technical aspects of the project.
+**\*Just a note on Core Team**: Sometimes the maintainer team and the core team are the same. Generally speaking, a core team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the direction of the project. Maintainer teams are more likely to focus on day-to-day management and technical aspects of the project.
 
 ## Assembling Your A-Team: Adding New Members
 
 Now that you understand a little bit about teams, let's look at how to identify new members for your team.
 
-### Recognizing the Need 
+### Recognizing the Need
 
 Just like a superhero team expands to face escalating threats, your project might reach a point where additional team members are needed. This could be when the workload starts to overwhelm you (solo maintainer) or your existing team or when you are taking on complex challenges that require specialized expertise. Identifying these challenging points is important for ensuring your project's continued momentum.
 
@@ -56,11 +56,11 @@ Each team should have a specific set of permissions that allow them to do what t
 
 ### Repository-Specific Permissions
 
-- **Read**: Allow members to view code, issues, and pull requests. <br/>*Suitable for stakeholders, external collaborators, or those needing general visibility.*
-- **Triage**: Grant permission to manage issues and pull requests (assign, label, comment, close), but not directly modify code. <br/>*Ideal for triage teams and community managers.* 
-- **Write**: Allow members to push code, create branches, and open pull requests. <br/>*Necessary for developers and maintainers actively contributing to the codebase.*
-- **Maintain**: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. <br/> *Suitable for core maintainers responsible for project health.*
-- **Admin**: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. <br/>*Reserved for trusted individuals or those with specific administrative needs.*<br/>
+- **Read**: Allow members to view code, issues, and pull requests. <br/>_Suitable for stakeholders, external collaborators, or those needing general visibility._
+- **Triage**: Grant permission to manage issues and pull requests (assign, label, comment, close), but not directly modify code. <br/>_Ideal for triage teams and community managers._
+- **Write**: Allow members to push code, create branches, and open pull requests. <br/>_Necessary for developers and maintainers actively contributing to the codebase._
+- **Maintain**: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. <br/> _Suitable for core maintainers responsible for project health._
+- **Admin**: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. <br/>_Reserved for trusted individuals or those with specific administrative needs._<br/>
 
 To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the "Member privileges" section.
 
