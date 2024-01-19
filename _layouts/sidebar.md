@@ -3,3 +3,4 @@
   - [Setting Up Your Project](/how-to-setup-your-project.md)
   - [Issues and Pull Requests](/issues-and-pull-requests.md)
   - [Effective Communication and Collaboration](/communication-and-collaboration.md)
+  - [Maintainer Power Ups](/maintainer-powerups.md)
