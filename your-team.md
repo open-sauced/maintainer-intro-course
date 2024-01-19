@@ -56,11 +56,11 @@ Each team should have a specific set of permissions that allow them to do what t
 
 ### Repository-Specific Permissions
 
-- Read: Allow members to view code, issues, and pull requests. Suitable for stakeholders, external collaborators, or those needing general visibility.
-- Triage: Grant permission to manage issues and pull requests (assign, label, comment, close), but not directly modify code. Ideal for triage teams and community managers.
-- Write: Allow members to push code, create branches, and open pull requests. Necessary for developers and maintainers actively contributing to the codebase.
-- Maintain: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. Suitable for core maintainers responsible for project health.
-- Admin: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. Reserved for trusted individuals or those with specific administrative needs.
+- **Read**: Allow members to view code, issues, and pull requests. <br/>*Suitable for stakeholders, external collaborators, or those needing general visibility.*
+- **Triage**: Grant permission to manage issues and pull requests (assign, label, comment, close), but not directly modify code. <br/>*Ideal for triage teams and community managers.* 
+- **Write**: Allow members to push code, create branches, and open pull requests. <br/>*Necessary for developers and maintainers actively contributing to the codebase.*
+- **Maintain**: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. <br/> *Suitable for core maintainers responsible for project health.*
+- **Admin**: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. <br/>*Reserved for trusted individuals or those with specific administrative needs.*<br/>
 
 To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member priviledges section.
 
