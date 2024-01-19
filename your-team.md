@@ -62,7 +62,7 @@ Each team should have a specific set of permissions that allow them to do what t
 - **Maintain**: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. <br/> *Suitable for core maintainers responsible for project health.*
 - **Admin**: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. <br/>*Reserved for trusted individuals or those with specific administrative needs.*<br/>
 
-To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member privileges section.
+To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the "Member privileges" section.
 
 Here's what it will look like in GitHub:
 
@@ -70,8 +70,8 @@ Here's what it will look like in GitHub:
 
 ### Additional Permissions to Consider
 
-- Project Permissions (if using GitHub Projects): Grant access to manage projects, tasks, and milestones within a repository.
-- Organization-Wide Permissions: For organization-wide teams, consider granting permissions to manage members, billing, security settings, and other organization-level features.
+- **Project Permissions (if using GitHub Projects)**: Grant access to manage projects, tasks, and milestones within a repository.
+- **Organization-Wide Permissions**: For organization-wide teams, consider granting permissions to manage members, billing, security settings, and other organization-level features.
 
 ### Best Practices for Team Permissions
 
@@ -107,8 +107,8 @@ To track repositories, click the "Insights" tab on the dashboard. You will be re
 
 There are two ways to add repositories to your Insight Page:
 
-1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
-2. Add individual repositories. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
+1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
+2. **Add individual repositories**. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
 From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the contributors tab and creating a new list.
 
