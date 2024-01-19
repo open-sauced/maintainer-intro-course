@@ -116,7 +116,7 @@ From there, you can create a list of contributors you're interested in learning 
 
 ## Adding Team Members
 
-Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member, and provide them with a clear understanding of what you expect if they accept the role. This will help them to make an informed decision and ensure that they're able to meet your expectations.
+Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member and provide them with a clear understanding of what you expect if they accept the role. This will help them make an informed decision and ensure they can meet your expectations.
 
 To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
 
@@ -128,8 +128,8 @@ Here are some things to consider:
 
 - **Roles & Responsibilities:** Clearly define the team member's role and responsibilities. This will help them to understand what they're responsible for and what they can expect from you.
 - **Communication:** Establish clear communication channels and expectations. This will help to ensure that everyone is on the same page and that you're able to communicate effectively.
-- **Goals:** Clearly define the project's goals and how the team member can contribute to them. This will help them to understand how they can contribute to the project's success.
-- **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and when they need to do it by.
+- **Goals:** Clearly define the project's goals and how the team members can contribute. This will help them to understand how they can contribute to the project's success.
+- **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and the deadlines.
 
 ## Keeping Track of Your Team
 
@@ -145,4 +145,4 @@ To remove the person from your team in GitHub, check out [this guide](https://do
 
 ## Conclusion
 
-Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project, you're adding people to your community. Make sure that you're adding people who are aligned with your project's values and goals and who will be a positive addition to your community.
+Remember, the team is there to support you and the project and to help you achieve your goals. As you grow your team, keep in mind that you're not just adding people to your project; you're adding people to your community. Make sure that you're adding people who are aligned with your project's values and goals and who will be a positive addition to your community.
