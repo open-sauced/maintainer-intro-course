@@ -128,7 +128,7 @@ Here are some things to consider:
 
 - **Roles & Responsibilities:** Clearly define the team member's role and responsibilities. This will help them to understand what they're responsible for and what they can expect from you.
 - **Communication:** Establish clear communication channels and expectations. This will help to ensure that everyone is on the same page and that you're able to communicate effectively.
-- **Goals:** Clearly define the project's goals and how the team member can contribute to them. This will help them to understand how they can contribute to the project's success.
+- **Goals:** Clearly define the project's goals and how the team members can contribute. This will help them to understand how they can contribute to the project's success.
 - **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and when they need to do it by.
 
 ## Keeping Track of Your Team
