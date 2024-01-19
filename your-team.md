@@ -110,7 +110,7 @@ There are two ways to add repositories to your Insight Page:
 1. Sync GitHub organization. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
 2. Add individual repositories. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
-From there, you can create a list of contributors you're interesting in learning more about or connecting with by selecting them from the contributors tab and creating a new list.
+From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the contributors tab and creating a new list.
 
 ![team insights gif](/assets/list-from-insight.gif)
 
