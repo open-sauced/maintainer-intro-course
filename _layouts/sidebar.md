@@ -3,3 +3,4 @@
   - [Setting Up Your Project](/how-to-setup-your-project.md)
   - [Issues and Pull Requests](/issues-and-pull-requests.md)
   - [Maintainer Power Ups](/maintainer-powerups.md)
+  - [Let's Get Practical](/getting-practical.md)
