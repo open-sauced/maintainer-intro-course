@@ -116,7 +116,7 @@ From there, you can create a list of contributors you're interested in learning 
 
 ## Adding Team Members
 
-Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member, and provide them with a clear understanding of what you expect if they accept the role. This will help them to make an informed decision and ensure that they're able to meet your expectations.
+Once you've identified potential team members, reach out to them, let them know why you're asking them to become a team member and provide them with a clear understanding of what you expect if they accept the role. This will help them make an informed decision and ensure they can meet your expectations.
 
 To learn how to add them to your team on GitHub, check out [this guide](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team).
 
