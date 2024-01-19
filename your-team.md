@@ -91,7 +91,7 @@ As your project grows in complexity, the need for specialized attention in speci
 
 It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise.
 
-One way to look for potential maintainers is to create an [Insight page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
+One way to look for potential maintainers is to create an [Insight Page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
 
 #### Creating an Insight Page & List
 
