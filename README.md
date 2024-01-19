@@ -18,11 +18,9 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter X: Issues and Pull Requests](/issues-and-pull-requests.md)
 
-<<<<<<< HEAD
 ### [Chapter x: Setting Up & Maintaining Your Team](/your-team.md)
-=======
+
 ### [Chapter X: Maintainer Power Ups](/maintainer-powerups.md)
->>>>>>> main
 
 ### Additional Information
 
