@@ -1,4 +1,4 @@
-# How to Effectively Communicate and Collaborate
+# How to Communicate and Collaborate Effectively
 
 Effective communication and collaboration with contributors are the keys to a thriving open source community. As maintainers, you want to smoothly onboard new contributors to your projects and build a welcoming community with open lines of communication between contributors and maintainers.
 
