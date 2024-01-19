@@ -125,9 +125,7 @@ Here are some things to consider:
 
 ## Keeping Track of Your Team
 
-### Team Health
-
-As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, you might want to consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
+As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team,consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
 
 ![docs team list](/assets/docs-team.gif)
 
