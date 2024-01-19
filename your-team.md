@@ -44,7 +44,7 @@ Now that you understand a little bit about teams, let's look at how to identify 
 
 ## Granting Team Permissions
 
-Each team should have a specific set of permissions that allow them to do what they need to for the team to be successful. Here are some common permissions that teams might need:
+Each team should have a specific set of permissions that allow them to do what they need to succeed. Here are some common permissions that teams might need:
 
 ### Repository-Specific Permissions
 
