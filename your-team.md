@@ -62,7 +62,7 @@ Each team should have a specific set of permissions that allow them to do what t
 - **Maintain**: Grant broader management permissions, including deleting branches, editing protected files, and managing releases. <br/> *Suitable for core maintainers responsible for project health.*
 - **Admin**: Provide full control over the repository, including sensitive actions like deleting the repository or changing its visibility. <br/>*Reserved for trusted individuals or those with specific administrative needs.*<br/>
 
-To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member priviledges section.
+To access your team's permissions, navigate to your team's page on GitHub and click on the "Settings" tab. From there, you can update your team's permissions in the Member privileges section.
 
 Here's what it will look like in GitHub:
 
