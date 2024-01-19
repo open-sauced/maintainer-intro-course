@@ -1,6 +1,6 @@
 # Building Your Open Source Dream Team
 
-Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
+Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
 
 ## Types of Teams
 
