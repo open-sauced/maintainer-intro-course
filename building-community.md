@@ -12,11 +12,11 @@ There are many types of people when talking about engagements in a community. So
 
 ### Open Communication
 
-You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and better collaboration. Everyone should feel comfortable expressing their thoughts and ideas and should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Communicate and Collaborate Effectively](./communication-and-collaboration.md) for some tips about communication and collaboration.
+You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and increase healthy collaboration. Everyone should feel comfortable expressing their thoughts and ideas and should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Communicate and Collaborate Effectively](./communication-and-collaboration.md) for some tips about communication and collaboration.
 
 ### Diversity and Inclusivity
 
-Creating a safe and welcoming community environment involves prioritizing inclusion and promoting diversity. Inclusion means treating everyone with value, regardless of their background, beliefs, or opinions. By fostering a culture where everyone is encouraged to be authentic while appreciating others, you can nurture a community where everyone feels respected and valued. Building a community where everyone feels they belong is the most important thing.
+Creating a safe and welcoming community environment involves prioritizing inclusion and promoting diversity. Inclusion means treating everyone with value, regardless of background, beliefs, or opinions. By fostering a culture where everyone is encouraged to be authentic while appreciating others, you can nurture a community where everyone feels respected and valued. Building a community where everyone feels they belong is the most important thing.
 
 ### Guidelines
 
@@ -30,7 +30,7 @@ Imagine you're seeing a member behave disrespectfully towards another member on 
 
 Leadership is not about being in charge. It's about taking responsibility and setting an example for others to follow. You want to demonstrate positive behavior, be respectful to others, and be willing to listen and learn. Doing so will make others follow the same steps as yours.
 
-## Creating Opportunity for Contributions
+## Creating Opportunities for Contributions
 
 In an open source environment, people want to make meaningful contributions and be part of the community. If you want to see return contributors, you want to create the space and opportunities to encourage them to return and contribute more. In this section, we will talk about how to create opportunities for contributions.
 
@@ -40,15 +40,15 @@ To create opportunities, you need first to identify contributors' entry points.
 
 #### New Contributors
 
-They are generally new to open source or someone new to your project. This type of contributor usually still needs hand-holding and guidance. So, you want to be able to point them to resources about the flow of open source and how to use git and GitHub. You also want to consider having clear and updated project documentation for them to refer to.
+They are generally new to open source or someone new to your project. This type of contributor usually still needs hand-holding and guidance. So, you want to be able to point them to resources about the flow of open source and how to use git and GitHub. Consider having clear and updated project documentation for them to refer to.
 
 #### Intermediate Contributors
 
-Intermediate contributors have some experience in open source but want to go deeper in their engagement and contributions. They usually don't need hand-holding and can understand how to work with your project by reading the documentation or finding resources independently. They might want to grow their skills and network and be interested in becoming a maintainer.
+Intermediate contributors have some experience in open source but want to go deeper in their engagement and contributions. They usually don't need hand-holding and can understand how to work with your project by reading the documentation or finding resources independently. On this level, they might want to grow their skills and network and be interested in becoming a maintainer.
 
 #### Expert Contributors
 
-These are seasoned open source contributors who can contribute at a high level and potentially lead projects. At this level, they can give ideas and contribute to enhancing your project outside the box because they enjoy using it. Whenever they encounter bugs, they want to fix them quickly so they can still use your project and implement it on their projects.
+They are seasoned open source contributors who can contribute at a high level and potentially lead projects. At this level, they can give ideas and contribute to enhancing your project outside the box because they enjoy using it. Whenever they encounter bugs, they want to fix them quickly so they can still use your project and implement it on their projects.
 
 ### Encouraging Diverse Contributions
 
@@ -66,13 +66,13 @@ You can create issues to improve the documentation or encourage your community t
 
 #### Community Contributions
 
-As your online community continues to grow, it becomes increasingly difficult to engage with each member individually. To manage your community effectively, having people who can facilitate interactions between members and provide timely responses will be helpful.
+As your community grows, engaging with each member becomes increasingly difficult. To manage your community effectively, having people who can facilitate interactions between members and provide timely responses will be helpful.
 
 You can encourage community members to contribute by engaging in online forums and chat apps. They can help answer questions, share insights, and provide support. This not only helps to build a sense of community around your project but also helps to foster a culture of collaboration and mutual support.
 
 #### Advocacy and Outreach
 
-Some of your contributors may have skills that can be useful to promote your project and organization, such as writing or public speaking. You can motivate them to get involved by encouraging them to write blog posts and create educational content related to your project. They can also speak at conferences or give workshops if they want to. Posting or reposting information about your project on social media is another way to contribute. At OpenSauced, we encourage our community to write blog posts under our [organization on dev.to](https://dev.to/opensauced).
+Some of your contributors may have skills that can be useful to promote your project and organization, such as writing or public speaking. You can motivate them to get involved by encouraging them to write blog posts and create educational content related to your project. They can also speak at conferences or give workshops if they want to. Posting or reposting information about your project on social media is another way to contribute. At OpenSauced, we encourage our community to write blog posts under our [organization on Dev.to](https://dev.to/opensauced).
 
 #### Managing Issues
 
@@ -80,6 +80,28 @@ Issues management involves identifying, analyzing, and prioritizing bug issues a
 
 #### Community Events and Hackathons
 
-At OpenSauced, we organize the [#100DaysOfOSS challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to encourage contributors of all technical backgrounds to immerse themselves in the world of collaborative development and engage with a supportive community.
+At OpenSauced, we organize the [#100DaysOfOSS challenge](https://docs.opensauced.pizza/community/100-days-of-oss/) to encourage contributors of all technical backgrounds to immerse themselves in collaborative development and engage with a supportive community.
 
 Organizing community events and hackathons is one way to strengthen your community's collaboration and relationships. You can create a survey or poll to gather feedback on what events your community wants to see. Then, consider forming a committee or group of members interested in organizing the events and letting them take charge with your support. By allowing your members to get involved and contribute, you can increase the sense of community and belonging.
+
+## Fostering New Talents
+
+After you have created opportunities for people to contribute to your project, it's important to keep track of which contributors keep coming back and consistently producing quality work. These contributors are the ones who have the potential to become core members of your community, and you want to foster their growth and development within your project.
+
+By building a core group of community members, you can ensure that your project can continue to grow and evolve even after maintainers move on to other projects. These core members can help to onboard new contributors, share knowledge and expertise, and provide continuity in the project's development.
+
+To foster the growth of these new talents, you can provide them with mentorship, feedback, and opportunities for leadership roles within the project. Investing in these contributors can build a solid and sustainable community to help your project thrive over the long term.
+
+### Identify New Talents with OpenSauced
+
+You can utilize OpenSauced's features to identify new talents. You can track active project contributors through the [Insights Page](https://docs.opensauced.pizza/features/insights/) and [Lists](https://docs.opensauced.pizza/features/lists/).
+
+#### 1. Using Insights Page
+
+You can list the projects that you maintain on the Insights Page. This feature allows you to monitor the activity in your projects and identify contributors who actively contribute and make impacts on your projects.
+
+You can find more information about your contributors in the Contributors tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Read more about [Insights Page and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#insights-connecting-your-repositories) on our docs.
+
+#### 2. Using Lists
+
+After you identify potential new talents for your projects, you can create a List and add them here. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and PRs they have made. You can read more about [Lists and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#lists-connecting-with-contributors) on our docs.
