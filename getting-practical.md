@@ -16,7 +16,7 @@ Sometimes the hardest part is deciding what you're going to work on. Here are so
    - Think about a topic you're passionate about that others might be interested in as well.
    - Think about a problem that you've had to solve that others can benefit from.
 
-Don't think too hard about it now. You can always go back and update things later. 
+Don't think too hard about it now. You can always go back and update things later. For now, if you need a place to get started, let's create a repository about your favorite open source resources.
 
 ## Create Your Repository
 
