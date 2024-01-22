@@ -30,6 +30,14 @@ Imagine you're seeing a member behave disrespectfully towards another member on 
 
 Leadership is not about being in charge. It's about taking responsibility and setting an example for others to follow. You want to demonstrate positive behavior, be respectful to others, and be willing to listen and learn. Doing so will make others follow the same steps as yours.
 
+### Recognization and Appreciation
+
+Recognition is the key to unlocking the full potential of the open source community. Expressing gratitude and kindness towards others — in this case, your team and contributors — is fundamental to creating a supportive and positive community culture. Recognizing and appreciating contributions can create a ripple effect throughout the community, inspiring others to do the same and increasing positivity.
+
+Contributions to open source come in all shapes and sizes. You want to take a moment to recognize and track these invaluable contributions. Value the person behind every successful pull request, closed issue, well-written documentation, or content creation. Appreciating contributions can be made in many ways, such as through awards or rewards, public recognition, or even just acknowledging their contributions and efforts.
+
+At OpenSauced, we recognize that contributions aren't just green squares and appreciate all kinds of contributions that have made our projects and community thrive. That's why we enjoy giving shoutouts to our contributors through our monthly live stream, blog posts, newsletter, and social media.
+
 ## Creating Opportunities for Contributions
 
 In an open source environment, people want to make meaningful contributions and be part of the community. If you want to see return contributors, you want to create the space and opportunities to encourage them to return and contribute more. In this section, we will talk about how to create opportunities for contributions.
@@ -100,8 +108,8 @@ You can utilize OpenSauced's features to identify new talents. You can track act
 
 You can list the projects that you maintain on the Insights Page. This feature allows you to monitor the activity in your projects and identify contributors who actively contribute and make impacts on your projects.
 
-You can find more information about your contributors in the Contributors tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Read more about [Insights Page and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#insights-connecting-your-repositories) on our docs.
+You can find more information about your contributors in the "Contributors" tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Read more about [Insights Page and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#insights-connecting-your-repositories) on our docs.
 
 #### 2. Using Lists
 
-After you identify potential new talents for your projects, you can create a List and add them here. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and PRs they have made. You can read more about [Lists and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#lists-connecting-with-contributors) on our docs.
+After you identify potential new talents for your projects, you can create a List and add them here. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about [Lists and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#lists-connecting-with-contributors) on our docs.
