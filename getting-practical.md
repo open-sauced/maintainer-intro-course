@@ -50,7 +50,7 @@ Now that you have the repository, you can either edit it directly in GitHub or c
 
 Creating good issues and using labels will help to create a strong project. Before creating your first issue, start by creating issue templates to make the process of submitting an issue clear to your contributors. 
 
-### Creating an Issue Template
+### Creating Issue Forms
 
 In this section, we're going to create an issue template for a bug report. You can create templates for other types of issues as well, such as feature requests, questions, or documentation requests. Below are the steps to create the template. After the steps, we'll give you what we use at OpenSauced. Feel free to copy and paste that information into your own repository and update it as needed.
 
