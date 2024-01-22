@@ -41,7 +41,10 @@ Now that you have the repository, you can either edit it directly in GitHub or c
 
 
  ## Set Up Contributing Guidelines
-   - Create a new file named `CONTRIBUTING.md` in your repository.
+
+ Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines, and we'll share the OpenSauced Contributing Guidelines below as an example. Feel free to use those guidelines and update as you see fit for your project. 
+ 
+   - Create a new file named `CONTRIBUTING.md` in the root of your repository.
    - Outline the process for submitting issues and pull requests.
    - Include coding standards, style guides, or any specific requirements.
    - Mention how contributors can ask for help or clarification.
@@ -200,10 +203,17 @@ body:
           required: false
 ```
 
-Write your first issue
-   - In your repository, click on "Settings" and then "Issues."
-   - Set up issue templates for bug reports, feature requests, etc.
-   - Add labels to your repository like "good first issue," "enhancement," "bug," etc.
+### Writing Your First Issue
+
+   - In your repository, click on the "Issues" tab and then the "New issue" button
+        ![create issue](./assets/images/create-issue.png)
+   - Select the type of issue you want to create. In this example, we'll select Feature Request.
+   - Write your issue. If you're following along the example, we'll write a feature request for a new resource.
+   - Once you've completed the issues, click "Submit new issue."
+
+In this example, we'll write a feature request for a new resource for #100DaysOfOSS.
+
+![feature-form.png](./assets/images/feature-form.png)
 
 
 
