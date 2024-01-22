@@ -1,6 +1,6 @@
 # Building and Nurturing a Welcoming and Supportive Community
 
-Open source is more than just maintaining and improving a project. It's a dynamic environment where maintainers, contributors, and users come together to collaborate, contribute, and grow. So, the people are the core and heart of open source.
+Open source is more than just maintaining and improving a project. It's a dynamic environment where maintainers, contributors, and users come together to collaborate, contribute, and grow. That said, the people involved in the project are the core and heart of open source.
 
 As more and more people engage and contribute to your projects, it becomes crucial for you to provide them with the necessary support and motivation to establish a welcoming and positive community environment. Doing so can build stronger relationships and promote a sense of belonging among your community members to keep them returning and remaining dedicated.
 
@@ -12,7 +12,7 @@ There are many types of people when talking about engagements in a community. So
 
 ### Open Communication
 
-You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and increase healthy collaboration. Everyone should feel comfortable expressing their thoughts and ideas and should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Communicate and Collaborate Effectively](./communication-and-collaboration.md) for some tips about communication and collaboration.
+You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community and helps to build trust and increase healthy collaboration. Everyone should feel comfortable expressing their thoughts and ideas, but at the same time, they should be able to listen and respond to others in a respectful manner. You can read the chapter [How to Communicate and Collaborate Effectively](./communication-and-collaboration.md) for tips about communication and collaboration.
 
 ### Diversity and Inclusivity
 
@@ -24,7 +24,7 @@ Every open source project should have a Code of Conduct as a clear set of guidel
 
 ### Addressing Conflicts
 
-Imagine you're seeing a member behave disrespectfully towards another member on Discord. Or you receive an incident report from a member saying someone harasses them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section.
+Imagine you're seeing a member behave disrespectfully towards another member on GitHub or Discord. Or you receive an incident report from a member saying someone harasses them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section.
 
 ### Leading by Examples
 
@@ -36,7 +36,7 @@ Recognition is the key to unlocking the full potential of the open source commun
 
 Contributions to open source come in all shapes and sizes. You want to take a moment to recognize and track these invaluable contributions. Value the person behind every successful pull request, closed issue, well-written documentation, or content creation. Appreciating contributions can be made in many ways, such as through awards or rewards, public recognition, or even just acknowledging their contributions and efforts.
 
-At OpenSauced, we recognize that contributions aren't just green squares and appreciate all kinds of contributions that have made our projects and community thrive. That's why we enjoy giving shoutouts to our contributors through our monthly live stream, blog posts, newsletter, and social media.
+At OpenSauced, we recognize that contributions aren't just [green squares](https://opensauced.pizza/blog/moneyball-for-engineers) and appreciate all kinds of contributions that have made our projects and community thrive. That's why we enjoy recognizing and giving shoutouts to our contributors through our monthly live stream, blog posts, newsletter, and social media.
 
 ## Creating Opportunities for Contributions
 
@@ -102,7 +102,7 @@ To foster the growth of these new talents, you can provide them with mentorship,
 
 ### Identify New Talents with OpenSauced
 
-You can utilize OpenSauced's features to identify new talents. You can track active project contributors through the [Insights Page](https://docs.opensauced.pizza/features/insights/) and [Lists](https://docs.opensauced.pizza/features/lists/).
+You can utilize OpenSauced's features, [Insights Page](https://docs.opensauced.pizza/features/insights/) and [Lists](https://docs.opensauced.pizza/features/lists/), to identify new talents by tracking active project contributors.
 
 #### 1. Using Insights Page
 
