@@ -115,3 +115,11 @@ You can find more information about your contributors in the "Contributors" tab.
 #### 2. Using Lists
 
 After you identify potential new talents for your projects, you can create a List and add them here. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about [Lists and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#lists-connecting-with-contributors) on our docs.
+
+## Conclusion
+
+Open source is a journey of learning, growth, and opportunity. So, building and nurturing a welcoming and supportive community is crucial for long-term success.
+
+A positive community culture that encourages diverse contributions and fosters new talents can help you attract and retain top talent, stimulate innovation, and increase productivity. By creating a supportive environment where people feel valued, respected, and empowered to share their ideas, you can unlock the full potential of your contributors and achieve your goals.
+
+However, building a positive community culture is not a one-time task; it requires continuous effort and commitment from everyone involved. You need to invest in promoting diversity and inclusion, encouraging collaboration and teamwork, and fostering a sense of belonging. Doing so can create a culture of trust and respect that enables your community and projects to thrive. In short, building and nurturing a welcoming and supportive community is not only the right thing to do but also a great strategy to help your project and your community succeed.
