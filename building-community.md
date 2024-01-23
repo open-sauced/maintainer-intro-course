@@ -32,11 +32,13 @@ Leadership is not about being in charge. It's about taking responsibility and se
 
 ### Recognization and Appreciation
 
-Recognition is the key to unlocking the full potential of the open source community. Expressing gratitude and kindness towards others — in this case, your team and contributors — is fundamental to creating a supportive and positive community culture. Recognizing and appreciating contributions can create a ripple effect throughout the community, inspiring others to do the same and increasing positivity.
+Recognition is the key to unlocking the full potential of the open source community. Expressing gratitude and kindness towards others — in this case, your team and contributors — is fundamental to creating a supportive and positive community culture.
 
-Contributions to open source come in all shapes and sizes. You want to take a moment to recognize and track these invaluable contributions. Value the person behind every successful pull request, closed issue, well-written documentation, or content creation. Appreciating contributions can be made in many ways, such as through awards or rewards, public recognition, or even just acknowledging their contributions and efforts.
+Contributions to open source come in all shapes and sizes. You want to take a moment to recognize and track these invaluable contributions. Appreciating contributions can be made in many ways, such as through awards or rewards, public recognition, or even just acknowledging their contributions and efforts. One way to recognize and appreciate your contributors is by installing the [All Contributors](https://allcontributors.org/) bot in your project to automate adding project contributors.
 
-At OpenSauced, we recognize that contributions aren't just [green squares](https://opensauced.pizza/blog/moneyball-for-engineers) and appreciate all kinds of contributions that have made our projects and community thrive. That's why we enjoy recognizing and giving shoutouts to our contributors through our monthly live stream, blog posts, newsletter, and social media.
+At OpenSauced, we recognize that [contributions aren't just green squares](https://opensauced.pizza/blog/moneyball-for-engineers) and appreciate all kinds of contributions that have made our projects and community thrive. That's why, besides having the All Contributors installed in our [guestbook repository](https://github.com/open-sauced/guestbook), we enjoy recognizing and giving shoutouts to our contributors through our monthly live stream, blog posts, newsletter, and social media.
+
+Remember that recognizing and appreciating contributions can create a ripple effect throughout the community, inspiring others to do the same and increasing positivity.
 
 ## Creating Opportunities for Contributions
 
