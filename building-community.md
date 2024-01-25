@@ -24,7 +24,7 @@ Every open source project should have a Code of Conduct as a clear set of guidel
 
 ### Addressing Conflicts
 
-Imagine you're seeing a member behave disrespectfully towards another member on GitHub or Discord. Or you receive an incident report from a member saying someone harasses them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section.
+Imagine you're seeing a member behave disrespectfully towards another member on GitHub or Discord. Or you receive an incident report from a member saying someone harassed them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose their trust in you. You can read more about managing conflicts in the [Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations) section.
 
 ### Leading by Examples
 
