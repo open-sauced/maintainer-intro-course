@@ -22,7 +22,9 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter x: Setting Up & Maintaining Your Team](/your-team.md)
 
-### [Chapter X: How to Create Effective Communication and Collaboration](/communication-and-collaboration.md)
+### [Chapter X: Building and Nurturing Community](/building-community.md)
+
+### [Chapter X: How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
 
 ### Additional Information
 
