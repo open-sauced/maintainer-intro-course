@@ -95,7 +95,7 @@ Read the GitHub documentation for complete instructions about how to [create sav
 
 ## Code Owners
 
-Most of the time, contributors don't know the maintainers of a project, so they don't know who to add as reviewers. When they create a pull request, they usually leave a comment like, "Can you please review my PR?" But usually, maintainers don't get notified about this new pull request and comment, causing it to be missed from the radar. Adding the CODEOWNERS file to the repository will help you to automate and tackle this issue.
+Most of the time, contributors don't know the maintainers of a project, so they don't know who to add as reviewers. When they create a PR, they usually leave a comment without tagging anyone, like, "Can you please review my PR?" Without being tagged, maintainers don't get notified about this new PR and comment, causing it to be missed from the radar. Adding the CODEOWNERS file to the repository will help you to automate and tackle this issue.
 
 From the [official GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners):
 
