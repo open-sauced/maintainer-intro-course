@@ -122,6 +122,6 @@ There are some benefits to having this file in your repository:
 
 - **Branch protection**
 
-  If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before the pull request can be merged into the protected branch.
+  If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break the production.
 
 You can read the official GitHub documentation for complete instructions to [create the CODEOWNERS file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files).
