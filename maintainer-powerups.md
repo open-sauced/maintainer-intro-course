@@ -118,7 +118,7 @@ There are some benefits to having this file in your repository:
 
 - **Prevent contributors from manually adding reviewers**
 
-  When a pull request comes from external contributors, they cannot add reviewers manually. That way, they don't have to comment on the pull request, and it also helps you by preventing them from adding non-maintainers — such as regular contributors — as reviewers.
+  Setting up the CODEOWNERS file prevents external contributors from manually adding reviewers because it automatically adds them. That way, contributors don't have to comment and tag anyone on the comment to review their pull request. It also helps you to stop them from adding non-maintainers — such as regular contributors — as reviewers.
 
 - **Branch protection**
 
