@@ -4,22 +4,22 @@ There are a lot of things to consider when setting up your open source project. 
 
 ## How to Write a Good README
 
-A `README.md` is an introduction to what your open source project is all about. A good `README.md` should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
+A README file contains an introduction to what your open source project is all about. A good README should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
 
-Here are some things to consider inside your `README.md`:
+Here are some things to consider inside your README file:
 
 - project title and summary
 - brief instructions on how to setup the project
 - images of the app and/or code examples
 - tech and tools used in the project
-- link to the contributing guide
+- link to the contributing guidelines
 - link to the Code of Conduct
 - link to the open source license
-- link to community Discord, Slack group or GitHub discussions
+- link to community Discord, Slack group or GitHub Discussions
 
-A `README.md` is written in a markup language called [Markdown](https://www.markdownguide.org/). This is a popular language used in open source documentation like README's.
+A README file is written in a markup language called [Markdown](https://www.markdownguide.org/). This is a popular language used in open source documentation like READMEs.
 
-Here are a few examples of good `README.md` files:
+Here are a few examples of good README files:
 
 - [OpenSauced App](https://github.com/open-sauced/app/blob/beta/README.md)
 - [Astro documentation](https://github.com/withastro/astro/blob/main/README.md)
@@ -41,15 +41,15 @@ The best way to test your guide is by setting up the project locally using your 
 
 ### Where to Place the Installation Guide
 
-The best place for installation instructions should be at the top of your project's `README.md` file, as it is the most accessible file for your contributors.
+The best place for installation instructions should be at the top of your project's README file, as it is the most accessible file for your contributors.
 
-Another good place would be in the `CONTRIBUTING.md` file. This file covers topics like installation setup, testing, linting, workflows, etc. You can place the installation instructions towards the top of your `CONTRIBUTING.md` file.
+Another good place would be in the CONTRIBUTING file. This file covers topics like installation setup, testing, linting, workflows, etc. You can place the installation instructions towards the top of your CONTRIBUTING file.
 
 If your project is on the larger side, you might consider having a separate documentation site and dedicating a section for installation there. You can use documentation site generators like [docsify](https://docsify.js.org/#/), [Docusaurus](https://docusaurus.io/), or [Starlight](https://starlight.astro.build/).
 
 ## How to Choose a License for Your Project
 
-An open source software license dictates how others can use, modify or distribute your software. Every project should have a clearly defined license within a `LICENSE.md` file. This file is usually located in the root directory so it is easily accessible by everyone.
+An open source software license dictates how others can use, modify or distribute your software. Every project should have a clearly defined license within a LICENSE file. This file is usually located in the root directory so it is easily accessible by everyone.
 
 Some licenses are more restrictive, like the GNU GPL (General Public License), while others are less restrictive, like the MIT license. Here are a few examples of licenses for OpenSauced projects:
 
@@ -68,7 +68,7 @@ For a complete list of Open Source Initiative (OSI) approved licenses, please ch
 
 A Code of Conduct is an established set of rules and behaviors that all open source participants agree to abide by. This document helps to ensure a healthy and inclusive environment for all involved with the project.
 
-This set of rules and expectations will go in inside a `CODE_OF_CONDUCT.md` file in the root directory of your project. Most Code of Conducts are broken up into three categories: pledge, standards, and enforcement.
+This set of rules and expectations will go in inside a CODE_OF_CONDUCT file in the root directory of your project. Most Code of Conducts are broken up into three categories: pledge, standards, and enforcement.
 
 > Note: Most open source maintainers will not write their own Code of Conducts from scratch. Instead they will borrow or copy from other Code of Conducts and provide attribution.
 
@@ -120,7 +120,7 @@ The Contributor Covenant is a Code of Conduct you can use and adapt for your ope
 
 ## How to Create Contributing Guides
 
-A `CONTRIBUTING.md` file is a guide on how contributors can help with your project. This file is usually located in the root directory of a project so everyone can easily access it.
+A CONTRIBUTING file is a guide on how contributors can help with your project. This file is usually located in the root directory of a project so everyone can easily access it.
 
 Your guide should include the following sections:
 
@@ -131,7 +131,7 @@ Your guide should include the following sections:
 - guidelines for code and style conventions
 - guidelines for creating pull requests
 
-For an in-depth look into how to create a strong `CONTRIBUTING.md` file, please read through this [OpenSauced article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3).
+For an in-depth look into how to create a strong CONTRIBUTING file, please read through this [OpenSauced article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3).
 
 ## How to Create Issue Templates
 
@@ -141,13 +141,13 @@ You can create various issue templates, like bug reports, feature requests, docu
 
 ### How to Create Issue Templates Using GitHub's Template Builder
 
-There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and click on Set up templates. Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
+There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and under "Issues", click on "Set up templates". Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
 
 ### How to Create Issue Templates Using `yaml` Files
 
 You can also create custom issue forms using `yaml`. You would start by creating a folder called `.github` in the root directory. Then, you will need to add a folder inside there called `ISSUE_TEMPLATE`. (**Note**: It is important that this folder is in all caps, or else it will not work on GitHub.)
 
-Inside the `ISSUE_TEMPLATE` folder, you can create different `yaml` files like a `bug.yml` or `feature.yml` file. Here is an [example bug report](https://raw.githubusercontent.com/open-sauced/.github/main/.github/ISSUE_TEMPLATE/bug_report.yml) used by OpenSauced.
+Inside the `ISSUE_TEMPLATE` folder, you can create different YAML files like a `bug.yml` or `feature.yml` file. Here is an [example bug report](https://raw.githubusercontent.com/open-sauced/.github/main/.github/ISSUE_TEMPLATE/bug_report.yml) used by OpenSauced.
 
 To learn more about issue templates, please review the [documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) on GitHub.
 
@@ -168,7 +168,7 @@ Here is an example of a [good pull request template](https://raw.githubuserconte
 
 As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is a GitHub project board.
 
-GitHub project boards are a way for you and your team to structure your list of issues. You can organize your issues in a classic [Kanban](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) style by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
+GitHub project boards are a way for you and your team to structure your list of issues. You can organize your issues in a [basic kanban](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) style by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
 
 To create a new project board for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also choose to make this board private to core maintainers or publicly visible to everyone.
 
