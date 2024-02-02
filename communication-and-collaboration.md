@@ -124,7 +124,7 @@ You can add a section in your README or contributing guidelines to inform about 
 
 #### Timeline
 
-Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours. You can automate this message with GitHub action if you prefer. Read our [Maintainer Power Ups](./maintainer-powerups.md) chapter for more information about GitHub actions.
+Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours. You can automate this message with an action if you prefer. Read our [Maintainer Power Ups](./maintainer-powerups.md) chapter for more information about GitHub Actions.
 
 #### Boundaries
 
