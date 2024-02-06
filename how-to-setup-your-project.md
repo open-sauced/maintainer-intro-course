@@ -58,8 +58,7 @@ Some licenses are more restrictive, like the GNU GPL (General Public License), w
 
 To better understand which license would work best for your project, please look at these helpful resources:
 
-- [How open source licenses work and how to add them to your projects
-  ](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/).
+- [How open source licenses work and how to add them to your projects](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/).
 - [tl;dr Legal](https://www.tldrlegal.com/)
 
 For a complete list of Open Source Initiative (OSI) approved licenses, please check out their list [here](https://opensource.org/licenses/).
@@ -84,8 +83,7 @@ The standards section explicitly lays out what is considered acceptable and non-
 
 Here is an example from the [OpenSauced Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md):
 
-Examples of behavior that contribute to creating a positive environment
-include:
+Examples of behavior that contribute to creating a positive environment include:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
@@ -95,14 +93,11 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
 - Trolling, insulting/derogatory comments, and personal or political attacks
 - Public or private harassment
-- Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Publishing others' private information, such as a physical or electronic address, without explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ### Project Enforcement
 
@@ -143,15 +138,15 @@ You can create various issue templates, like bug reports, feature requests, docu
 
 There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and under "Issues", click on "Set up templates". Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
 
-### How to Create Issue Templates Using `yaml` Files
+### How to Create Issue Templates Using YAML Files
 
-You can also create custom issue forms using `yaml`. You would start by creating a folder called `.github` in the root directory. Then, you will need to add a folder inside there called `ISSUE_TEMPLATE`. (**Note**: It is important that this folder is in all caps, or else it will not work on GitHub.)
+You can also create custom issue forms using YAML frontmatter. You would start by creating a folder called `.github` in the root directory. Then, you will need to add a folder inside there called `ISSUE_TEMPLATE`. (**Note**: It is important that this folder is in all caps, or else it will not work on GitHub.)
 
 Inside the `ISSUE_TEMPLATE` folder, you can create different YAML files like a `bug.yml` or `feature.yml` file. Here is an [example bug report](https://raw.githubusercontent.com/open-sauced/.github/main/.github/ISSUE_TEMPLATE/bug_report.yml) used by OpenSauced.
 
 To learn more about issue templates, please review the [documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) on GitHub.
 
-## How to Create PR Templates
+## How to Create Pull Request Templates
 
 Similar to issue templates, pull request templates allow you to guide your contributors on how to provide specific and structured information when opening pull requests in your project. This template will be in a file called `PULL_REQUEST_TEMPLATE.md`, and it is usually located either in the root directory or the `.github` directory.
 
@@ -159,7 +154,7 @@ Here are a few things to consider inside your pull request template:
 
 - section for contributors to detail which changes were made and why
 - section for the type of change made (e.g., bug fix, feature, style update, etc.)
-- section to link corresponding issue tickets to the PR (e.g., closes #123 or fixes #456)
+- section to link corresponding issue tickets to the pull request (e.g., closes #123 or fixes #456)
 - section to place screenshots and/or screen recordings, if applicable
 
 Here is an example of a [good pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read through the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
