@@ -10,6 +10,8 @@ Let's say your project receives more new issues and pull requests daily. You wan
 
 Setting up a GitHub action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
+![Create GitHub Action GIF](./assets/gh-actions.png)
+
 ### Types of Actions
 
 There are many types of actions that you can set up for your project, depending on what you need. Below are some GitHub actions that you usually find across repositories:
@@ -92,6 +94,8 @@ Sometimes, you repeatedly write the same reply to issues or pull requests. It's 
 [Saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/about-saved-replies) allow you to create a reusable response to issues, pull requests, and discussions and use it across repositories. It will save you time responding to contributors while keeping the consistency of your message. You can always modify your replies if necessary.
 
 Read the GitHub documentation for complete instructions about how to [create saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply).
+
+![saved replies GIF](./assets/saved-replies.gif)
 
 ## Code Owners
 
