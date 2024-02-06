@@ -31,7 +31,6 @@ The course is divided into X chapters, each covering a different aspect of being
 As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:
 
 - [Glossary](/glossary.md): A glossary of common terms and definitions used by open source maintainers.
-- [Additional Resources](/additional-resources.md): A list of resources for further learning about being an open source maintainer, including blog posts, tutorials, and guides.
 
 ## Getting Started
 
