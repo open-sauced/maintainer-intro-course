@@ -100,6 +100,8 @@ If the author does not address the issue or respond to your initial comment, rep
 
 If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
+![Failed automated tests img](./assets/failed-automated-tests.png)
+
 ### Spam Pull Requests
 
 There might be times when you will get a spam pull request for your project. In these situations, it is best not to respond to the author. Instead, close it and add a `spam` label on it.
@@ -131,6 +133,8 @@ If you have repeatedly tried to reach out and get no response, you should close 
 ## Issue and Pull Request Highlights with OpenSauced
 
 The [Highlights feature](https://docs.opensauced.pizza/features/highlights/) on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
+
+![Highlights GIF](./assets/highlight.gif)
 
 ### Issue Highlights
 

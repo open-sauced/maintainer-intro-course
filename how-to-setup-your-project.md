@@ -138,6 +138,8 @@ You can create various issue templates, like bug reports, feature requests, docu
 
 There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and under "Issues", click on "Set up templates". Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
 
+![Issue Template GIF](./assets/issues-template.gif)
+
 ### How to Create Issue Templates Using YAML Files
 
 You can also create custom issue forms using YAML frontmatter. You would start by creating a folder called `.github` in the root directory. Then, you will need to add a folder inside there called `ISSUE_TEMPLATE`. (**Note**: It is important that this folder is in all caps, or else it will not work on GitHub.)
@@ -159,6 +161,8 @@ Here are a few things to consider inside your pull request template:
 
 Here is an example of a [good pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read through the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
 
+![PR template example](./assets/pr-template.png)
+
 ## How to Work with GitHub Project Boards
 
 As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is a GitHub project board.
@@ -166,5 +170,7 @@ As your project progresses, you might find that it's difficult to keep track of 
 GitHub project boards are a way for you and your team to structure your list of issues. You can organize your issues in a [basic kanban](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) style by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
 
 To create a new project board for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also choose to make this board private to core maintainers or publicly visible to everyone.
+
+![GitHub Project Board GIF](./assets/gh-project-boards.gif)
 
 To learn more about GitHub project boards, please read through the [documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
