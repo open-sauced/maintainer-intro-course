@@ -62,7 +62,7 @@ Some users will quickly respond to replies, while others might take longer. If y
 
 Issues that haven't been worked on for months are considered stale. Sometimes, you might be interested in resurrecting this issue and making it a higher-priority item. If that is the case, then go through the normal triage process and add the appropriate labels to it.
 
-But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using a GitHub Action bot like [this one](https://github.com/actions/stale).
+But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using an action like [Close Stale Issues](https://github.com/actions/stale).
 
 ## Pull Requests Reviews
 
@@ -108,7 +108,7 @@ There might be times when you will get a spam pull request for your project. In 
 
 Here are some examples of spam pull requests:
 
-- whitespace changes to README or other files
+- whitespace changes to README file or other files
 - random changes to files without an accompanying issue or explanation
 - numerous links to unrelated websites or promotes products/services
 - plagiarized content from other sources without permission or proper attribution

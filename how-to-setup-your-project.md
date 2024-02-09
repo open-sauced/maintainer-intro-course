@@ -6,7 +6,7 @@ There are a lot of things to consider when setting up your open source project. 
 
 A README file contains an introduction to what your open source project is all about. A good README should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
 
-Here are some things to consider inside your README file:
+Here are some things to consider inside your README:
 
 - project title and summary
 - brief instructions on how to setup the project
@@ -19,7 +19,7 @@ Here are some things to consider inside your README file:
 
 A README file is written in a markup language called [Markdown](https://www.markdownguide.org/). This is a popular language used in open source documentation like READMEs.
 
-Here are a few examples of good README files:
+Here are a few examples of good READMEs:
 
 - [OpenSauced App](https://github.com/open-sauced/app/blob/beta/README.md)
 - [Astro documentation](https://github.com/withastro/astro/blob/main/README.md)

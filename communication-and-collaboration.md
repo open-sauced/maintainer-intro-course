@@ -106,7 +106,7 @@ Just like maintainers, most open source contributors are volunteers. They are no
 
 #### Style Guide
 
-You might prefer contributors to add a prefix in brackets to issue and pull request titles. For example, "[Bug]: Documentation link goes to 404 Page Not Found". Or you want them to follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) to their commit messages, such as `feat: add new feature for user authentication`. In another case, you might select particular Markdown rules for your project, like one underscore for italics, two asterisks for bolds, etc.
+You might prefer contributors to add a prefix in brackets to issue and pull request titles. For example, "[Bug]: Documentation link goes to 404 Page Not Found". Or you want them to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) to their commit messages, such as `feat: add new feature for user authentication`. In another case, you might select particular Markdown rules for your project, like one underscore for italics, two asterisks for bolds, etc.
 
 Every project has its own convention to keep the consistency around it. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear style guide they must follow. You can take an example from GitHub's [style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide).
 

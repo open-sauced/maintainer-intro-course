@@ -42,7 +42,7 @@ You can search for available GitHub Actions on the [GitHub Marketplace](https://
 
 The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment so maintainers can focus on more important tasks than assigning issues.
 
-But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) action that will block the Take Action whenever a `needs triage` or `core team work` label exists.
+But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage Action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
 
 You can read more about GitHub Actions and how to create one in [the official documentation](https://github.com/features/actions).
 
