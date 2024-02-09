@@ -4,7 +4,7 @@ When maintaining a project, it is important to keep the code quality high and th
 
 In this chapter, we will cover how to maintain code quality and documentation in your open source project.
 
-## Conducting code reviews and ensuring high-quality contributions
+## Conducting Code Reviews and Ensuring High-Quality Contributions
 
 Code reviews are an important part of maintaining code quality in an open source project. You will want to take your time to review each pull request and ensure that the proposed changes are high quality and do not introduce any new bugs or issues. You will receive pull requests from contributors who are new to the project and might not be familiar with the codebase. It is important to be patient and provide constructive feedback to help them improve their contributions.
 
@@ -60,7 +60,7 @@ There are many tools that can help you check for code quality. You can setup lin
 
 To learn more about these tools, please refer to this section in the [maintainer power ups chapter](/maintainer-powerups.md#code-scanning-tools).
 
-### Setting up branch protection rules
+### Setting Up Branch Protection Rules
 
 On GitHub, you can set up branch protection rules to ensure that all pull requests are reviewed before they are merged. This can help maintain the quality of the code and ensure that all contributions are reviewed by a maintainer before they are merged into the project.
 
@@ -68,7 +68,7 @@ You can also setup rules to ensure that multiple reviewers are required before a
 
 You can learn more about branch protection rules in the official GitHub [documentation](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule#about-branch-protection-rules).
 
-## Maintaining project documentation and keeping it up to date
+## Maintaining Project Documentation and Keeping it Up to Date
 
 Documentation is an important part of maintaining an open source project. It helps contributors understand the project and makes it easier for them to contribute. It is important to keep the documentation up to date and ensure that it reflects the current state of the project.
 
