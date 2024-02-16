@@ -39,9 +39,7 @@ This guide should include instructions for the following:
 
 The best way to test your guide is by setting up the project locally using your guide. You will learn quickly if anything needs to be added or clarified if you encounter issues getting your project to work.
 
-### Where to Place the Installation Guide
-
-The best place for installation instructions should be at the top of your project's `README.md` file, as it is the most accessible file for your contributors.
+The installation guide is best placed at the top of your project's `README.md` file, as it is the most accessible file for your contributors.
 
 Another good place would be in the `CONTRIBUTING.md` file. This file covers topics like installation setup, testing, linting, workflows, etc. You can place the installation instructions towards the top of your `CONTRIBUTING.md` file.
 
@@ -168,7 +166,7 @@ Here is an example of a [good pull request template](https://raw.githubuserconte
 
 ![PR template example](./assets/pr-template.png)
 
-## GitHub Project Boards
+## Projects (Classic) on GitHub
 
 As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is a GitHub project board.
 
