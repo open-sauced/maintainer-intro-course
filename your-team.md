@@ -131,6 +131,8 @@ Here are some things to consider:
 - **Goals:** Clearly define the project's goals and how the team members can contribute. This will help them to understand how they can contribute to the project's success.
 - **Timeline:** Set clear expectations for the timeline. This will help them to understand what they need to do and the deadlines.
 
+One way to onboard your new team members is by having clear guidelines and making it part of your documentation. If you need an idea to create one, you can take a look at the [OpenSauced Community Maintainers Guidelines](https://docs.opensauced.pizza/contributing/opensauced-maintainers-guide/community-maintainers-guide/).
+
 ## Keeping Track of Your Team
 
 As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team,consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
