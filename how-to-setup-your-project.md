@@ -25,7 +25,7 @@ Here are a few examples of good `README.md` files:
 - [Astro documentation](https://github.com/withastro/astro/blob/main/README.md)
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/README.md)
 
-## An Installation Guide
+## Installation Guide
 
 This guide should include instructions for the following:
 
@@ -45,7 +45,7 @@ Another good place would be in the `CONTRIBUTING.md` file. This file covers topi
 
 If your project is on the larger side, you might consider having a separate documentation site and dedicating a section for installation there. You can use documentation site generators like [docsify](https://docsify.js.org/#/), [Docusaurus](https://docusaurus.io/), or [Starlight](https://starlight.astro.build/).
 
-## A License
+## Open Source Software License
 
 An open source software license dictates how others can use, modify or distribute your software. Every project should have a clearly defined license within a `LICENSE.md` file. This file is usually located in the root directory so it is easily accessible by everyone.
 
@@ -62,7 +62,7 @@ To better understand which license would work best for your project, please look
 
 For a complete list of Open Source Initiative (OSI) approved licenses, please check out their list [here](https://opensource.org/licenses/).
 
-## A Code Of Conduct
+## Code Of Conduct
 
 A Code of Conduct is an established set of rules and behaviors that all open source participants agree to abide by. This document helps to ensure a healthy and inclusive environment for all involved with the project.
 
