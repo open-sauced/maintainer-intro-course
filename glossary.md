@@ -24,13 +24,13 @@ Examples of containerization tools include Docker and Kubernetes.
 
 ## Continuous Integration (CI)
 
-Continuous Integration (CI) is a development approach in which developers regularly merge code into a shared repository. For each change, an automated build and test process is run to detect errors as quickly as possible.
+Continuous integration (CI) is a development approach in which developers regularly merge code into a shared repository. For each change, an automated build and test process is run to detect errors as quickly as possible.
 
 Examples of CI tools include Jenkins, CircleCI, and TravisCI.
 
 ## Continuous Deployment (CD)
 
-Continuous Deployment (CD) is often associated with Continuous Integration and refers to keeping your application deployable at any point or even automatically releasing to production. Continuous Deployment means that every change which passes the automated tests is deployed to production automatically.
+Continuous deployment (CD) is often associated with continuous integration (CI) and refers to keeping your application deployable at any point or even automatically releasing to production. CD means that every change which passes the automated tests is deployed to production automatically.
 
 ## Contributor
 
@@ -71,7 +71,7 @@ Examples of GitHub Actions include running tests, deploying to production, and s
 
 GitHub Discussions are a way to have conversations about your project directly in GitHub. They are a great way to discuss ideas, ask questions, and share knowledge with your community.
 
-## Issue template
+## Issue Template
 
 An issue template is a file that contains a description of the issue you are creating. It is a great way to provide context to your issues and help developers understand what issues you are creating and why.
 
@@ -85,13 +85,13 @@ GitHub has a built-in issue tracker but you can also use other tools such as Jir
 
 ## Linting
 
-Linting is the process of running a program that will analyze code for potential errors. A popular linting tool used frequently is ESLint. You can setup a GitHub action to run ESlint against each pull request that comes in to check for potential errors before it makes it into production.
+Linting is the process of running a program that will analyze code for potential errors. A popular linting tool used frequently is ESLint. You can setup an action to run ESlint against each pull request that comes in to check for potential errors before it makes it into production.
 
 ## Milestones
 
 Milestones are groups of issues that correspond to a project, feature, or time period. You can use milestones to track the progress of groups of issues that are tied to a larger goal.
 
-## Prettier code formatting
+## Prettier Code Formatting
 
 Prettier is an opinionated code formatter that enforces a consistent style for your codebase. You can customize your Prettier configuration to fit your project's needs and customize how you prefer semicolons, single quotes, trailing commas, and more to be formatted.
 
@@ -99,7 +99,7 @@ Prettier is an opinionated code formatter that enforces a consistent style for y
 
 A pull request template is a file that contains a description of the changes you are making to a project. It is a great way to provide context to your pull requests and help reviewers understand what changes you are making and why.
 
-You can also create a GitHub action to respond to pull requests that don't follow your pull request template and urge the contributor to update their pull request.
+You can also create an action to respond to pull requests that don't follow your pull request template and urge the contributor to update their pull request.
 
 ## Release Candidate
 

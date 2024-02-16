@@ -8,13 +8,13 @@ The good news is that some tools and features on GitHub allow us to automate tas
 
 Let's say your project receives more new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
 
-Setting up a GitHub action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
+Setting up an action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
 ![Create GitHub Action GIF](./assets/gh-actions.png)
 
 ### Types of Actions
 
-There are many types of actions that you can set up for your project, depending on what you need. Below are some GitHub actions that you usually find across repositories:
+There are many types of actions that you can set up for your project, depending on what you need. Below are some GitHub Actions that you usually find across repositories:
 
 #### Linter
 
@@ -38,22 +38,22 @@ Setting up actions to run tests is helpful to ensure your app functions and perf
 
 ### Creating and Customizing Actions
 
-You can search for available GitHub actions on the [GitHub Marketplace](https://github.com/marketplace?type=actions). But if you can't find the one you need, you can create or customize your own actions from existing GitHub actions.
+You can search for available GitHub Actions on the [GitHub Marketplace](https://github.com/marketplace?type=actions). But if you can't find the one you need, you can create or customize your own actions from existing GitHub Actions.
 
 The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment so maintainers can focus on more important tasks than assigning issues.
 
-But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
+But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage Action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
 
-You can read more about GitHub actions and how to create one in [the official documentation](https://github.com/features/actions).
+You can read more about GitHub Actions and how to create one in [the official documentation](https://github.com/features/actions).
 
-Here are some more resources to give you more information about GitHub actions and how to set one up:
+Here are some more resources to give you more information about GitHub Actions and how to set one up:
 
 - [GitHub Actions: A Maintainer's Best Friend](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n)
 - [Setting Up Your First GitHub Action](https://dev.to/opensauced/setting-up-your-first-github-action-for-specific-contributions-33a4)
 
 ## CI/CD Pipelines
 
-Leveraging GitHub actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
+Leveraging GitHub Actions to bring Continuous Integration / Continuous Delivery or Deployment (CI/CD) into your workflow directly in your repository will let you run code, test, build, and deliver or deploy software with simple and secure workflows. Automating these tasks will speed up your deployment process.
 
 Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you confidence in your code.
 
@@ -67,9 +67,9 @@ From the [official GitHub resources](https://resources.github.com/ci-cd/):
 
 A project usually starts with continuous delivery and integrates more automated testing over time.
 
-### Build a CI/CD Pipeline with GitHub Action
+### Build a CI/CD Pipeline with GitHub Actions
 
-Below are some helpful resources to help you build a CI/CD pipeline with GitHub action:
+Below are some helpful resources to help you build a CI/CD pipeline with GitHub Actions:
 
 - [GitHub Docs: The complete CI/CD solution](https://github.com/solutions/ci-cd/)
 - [How to build a CI/CD pipeline with GitHub Actions in four simple steps](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
