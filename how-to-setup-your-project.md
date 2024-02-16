@@ -163,14 +163,14 @@ Here is an example of a [good pull request template](https://raw.githubuserconte
 
 ![PR template example](./assets/pr-template.png)
 
-## How to Work with GitHub Project Boards
+## How to Work with Projects (Classic) on GitHub
 
-As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is a GitHub project board.
+As your project progresses, you might find that it's difficult to keep track of your issues. A great tool that can help you organize and track your issues is [projects (classic)](https://docs.github.com/en/issues/organizing-your-work-with-project-boards) on GitHub.
 
-GitHub project boards are a way for you and your team to structure your list of issues. You can organize your issues in a [basic kanban](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) style by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
+Projects (classic) is a way for you and your team to structure your list of issues. You can organize your issues, for example, using a [basic kanban template](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards#templates-for-projects-classic) by placing your issues in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of upcoming releases and new feature works.
 
-To create a new project board for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also choose to make this board private to core maintainers or publicly visible to everyone.
+To create a new project (classic) for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also choose to make this board private to core maintainers or publicly visible to everyone.
+
+To learn more about projects (classic), please read through the [documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
 
 ![GitHub Project Board GIF](./assets/gh-project-boards.gif)
-
-To learn more about GitHub project boards, please read through the [documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
