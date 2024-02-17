@@ -4,13 +4,13 @@ When maintaining a project, keeping the code quality high and the documentation 
 
 In this chapter, we will cover how to maintain code quality and documentation in your open source project.
 
-## Conducting Code Reviews and Ensuring High-Quality Contributions
+## Code Reviews and High-Quality Contributions
 
 Code reviews are essential to maintaining code quality in an open source project. You should take your time to review each pull request and ensure that the proposed changes are high quality and do not introduce any new bugs or issues. You will receive pull requests from contributors who are new to the project and might not be familiar with the codebase. It is important to be patient and provide constructive feedback to help them improve their contributions.
 
 The following sections will cover some best practices for conducting code reviews and ensuring high-quality contributions.
 
-### Implementing Conventional Commits for Pull Requests
+### Conventional Commits
 
 The Conventional Commits is a specification for structuring commit messages. It provides an easy way to understand the type of changes that are being made and helps maintain a clean and organized commit history. Using Conventional Commits in your project is recommended to help keep a clean and organized commit history. In your contributing guidelines, you can ask contributors to use it when making changes to the project.
 
@@ -26,7 +26,7 @@ refactor(api): streamline error handling in user service
 
 You can learn more about Conventional Commits on the [official website](https://www.conventionalcommits.org/en/v1.0.0/).
 
-### Dealing with Incomplete Pull Requests
+### Incomplete Pull Requests
 
 The first thing to check for is to ensure the proposed changes are complete and do not introduce any new bugs or issues. It should be clear what the proposed changes are about and the problem it is trying to solve.
 
@@ -34,7 +34,7 @@ The proposed changes should be linked to an existing issue, and all necessary in
 
 Remember that you will be dealing with all levels of contributors. Some might be new to open source and not realize they are missing information. Giving constructive feedback with patience is important to help them improve their contributions.
 
-### Dealing with Large and Unfocused Pull Requests
+### Large and Unfocused Pull Requests
 
 Sometimes, you might get pull requests that are too large and unfocused. Examples of large and unfocused pull requests include:
 
@@ -44,7 +44,7 @@ Sometimes, you might get pull requests that are too large and unfocused. Example
 
 Large pull requests will be challenging to review effectively and sometimes introduce bugs. In this situation, asking the contributor to break down the pull request into smaller, more focused pull requests is important.
 
-### Setting Up Automated Tests
+### Automated Tests
 
 Setting up testing can help ensure that new contributions don't break existing functionality. Automated tests can be run on every pull request to ensure the new code passes all the tests. This will help maintain the quality of the code and make it easier for contributors to contribute.
 
@@ -52,7 +52,7 @@ If the new pull request is failing some of the tests, reach out to the contribut
 
 To learn more about testing, please refer to [this section](/maintainer-powerups.md#testing) in the "Maintainer Power Ups" chapter.
 
-### Checking for Code Quality
+### Code Quality Check
 
 It is important to check for code quality and good software engineering practices when conducting code reviews. This includes checking for proper variable naming, adherence to coding standards, and ensuring that the code is easy to read and understand. It is encouraged to have a coding style guide in place to help contributors understand the coding standards of your project.
 
@@ -60,7 +60,7 @@ There are many tools that can help you check for code quality. You can set up li
 
 To learn more about these tools, please refer to [this section](/maintainer-powerups.md#code-scanning-tools) in the "Maintainer Power Ups" chapter.
 
-### Setting Up Branch Protection Rules
+### Branch Protection Rules
 
 You can set up branch protection rules on GitHub to ensure all pull requests are reviewed before merging. Setting it up not only assures that a maintainer has reviewed all contributions but also helps to maintain the quality of the code.
 
@@ -68,7 +68,7 @@ You can also set up rules to ensure multiple reviewers are required before a pul
 
 You can learn more about branch protection rules in the [official GitHub documentation](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/managing-a-branch-protection-rule#about-branch-protection-rules).
 
-## Maintaining Project Documentation and Keeping it Up to Date
+## Project Documentation Maintainance
 
 Documentation is an essential part of maintaining an open source project. It helps contributors understand the project and makes it easier for them to contribute. It is important to keep the documentation up to date and ensure that it reflects the project's current state.
 
