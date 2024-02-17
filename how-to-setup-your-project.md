@@ -2,7 +2,7 @@
 
 There are a lot of things to consider when setting up your open source project. In this portion of the guide, we will walk through key components that every project needs to be successful.
 
-## A Good README
+## Detailed README
 
 A README file contains an introduction to what your open source project is all about. A good README should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
 
