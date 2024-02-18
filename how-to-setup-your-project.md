@@ -47,7 +47,7 @@ If your project is on the larger side, you might consider having a separate docu
 
 ## Open Source Software License
 
-You need to know that an open source project with a license is not available for everyone to use and distribute.
+You need to know that an open source project without a license is not available for everyone to use and distribute.
 
 > "In most jurisdictions, any code or content is automatically copyrighted by the author, with all rights reserved, unless otherwise stated." — [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/)
 
