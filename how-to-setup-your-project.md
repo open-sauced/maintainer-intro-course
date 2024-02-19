@@ -49,13 +49,11 @@ If your project is on the larger side, you might consider having a separate docu
 
 You need to know that an open source project without a license is not available for everyone to use and distribute.
 
-> "In most jurisdictions, any code or content is automatically copyrighted by the author, with all rights reserved, unless otherwise stated." — [Open source licenses: What, which, and why](https://arstechnica.com/gadgets/2020/02/how-to-choose-an-open-source-license/)
+> "Without a license or other agreement in place, any contributions are exclusively owned by their authors. That means nobody – not even you – can use, copy, distribute, or modify their contributions." — [The Legal Side of Open Source — Open Source Guides](https://opensource.guide/legal/)
 
-"All Rights Reserves" means that no one may use, modify, or redistribute anything in the project without the owner's permission.
+For projects without any license on GitHub, GitHub users have the right to view the code and fork the repository but may not use it for anything else. You can read about this in the [GitHub official documentation](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users).
 
-For projects without any license on GitHub, GitHub users have the right to view the code and fork the repository but not use it for anything else. You can read about this in the [GitHub official documentation](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#5-license-grant-to-other-users).
-
-So, every open source project must have a license provided within a LICENSE file to grant further rights to other users. This file is typically located in the root directory for easy access for everyone.
+So, every open source project must have a license written in a LICENSE file to grant further rights to other users. This file is typically located in the root directory for easy access for everyone.
 
 ### Choosing a License
 
