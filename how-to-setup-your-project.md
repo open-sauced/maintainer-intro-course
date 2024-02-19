@@ -47,7 +47,7 @@ If your project is on the larger side, you might consider having a separate docu
 
 ## Open Source Software License
 
-You need to know that an open source project without a license is not available for everyone to use and distribute.
+You need to know that an open source project without a license is not available for anyone to use and distribute.
 
 > "Without a license or other agreement in place, any contributions are exclusively owned by their authors. That means nobody – not even you – can use, copy, distribute, or modify their contributions." — [The Legal Side of Open Source — Open Source Guides](https://opensource.guide/legal/)
 
