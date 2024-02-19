@@ -8,23 +8,23 @@ This course will provide you with a comprehensive overview of a maintainer's rol
 
 An open source maintainer is responsible for maintaining the health and success of a project. Maintainers help to define the project's goals, work with other contributors, help to build a community around the project and uphold the project's quality standards.
 
-### Guiding Contributors and Providing Feedback
+### A Guide and Feedback Provider
 
 Being able to work with contributors from all backgrounds is an important skill to develop as a maintainer. Some contributors will be seasoned developers that are interested in getting started with your project. While others will be new to open source and development in general. So it is important to have good communication with your contributors.
 
 Working with contributors will include assisting them with any blockers they might have and providing constructive feedback so they can grow and strengthen their contributions to your project.
 
-### Fostering a Welcoming and Inclusive Community
+### A Welcoming Community Nurturer
 
 Not all open source communities are welcoming and inclusive which can deter people from wanting to participate in open source at all. So it is important to remember to always lead with kindness, patience and understanding.
 
 People are volunteering their time to contribute to your project with the intention of helping it grow. By setting a standard that your community is inclusive and helpful to everyone, that will trickle down to all community members and create a community that contributors will want to be a part of.
 
-### Ensuring the Reliability and Stability of the Project
+### A Project Quality Assurance
 
 It is maintainer's responsibility to review and maintain the project to the existing quality standards. When you receive a pull request, it is your responsibility to make sure that all of the tests are passing and the feature or fix is working as expected. It is also important to check and make sure that the new changes do not accidentally break something else in the project. Having a good testing suite and process will help with that.
 
-## Benefits of Being a Maintainer
+## Maintainer Benefits
 
 There are many benefits to being an open source maintainer including career, leadership and personal growth.
 
@@ -40,7 +40,7 @@ Building relationships in the tech industry is a great way to connect with talen
 
 There have been many instances where long term open source relationships have turned into possible business ventures or future job opportunities. And if your project ends up being used by a lot of people, then you will be able to connect with a larger group of technologists.
 
-## Challenges of Being an Open Source Maintainer
+## Maintainer Challenges
 
 While there are many benefits to being an open source maintainer, it is not always an easy job to do. Here are a few challenges that maintainers face:
 
@@ -82,8 +82,8 @@ A good open source project will have a comprehensive set of documentation so all
 
 If you are maintaining a larger project, then you might consider using documentation builders like [Docusaurus](https://docusaurus.io/) or [docsify](https://docsify.js.org/#/) to host your documentation. Documentation also includes writing tutorials, building diagrams or creating in depth guides for the project.
 
-### Community Management and Engagement
+### Community Management
 
 A key component for any open source project is its community. Building a strong community can help accelerate the growth of your open source project. As new contributors discover and start to contribute to your project, you will want to create spaces for communication and collaboration.
 
-If your project is on GitHub, you can use [GitHub discussions](https://docs.github.com/en/discussions) as a way for contributors to post questions and facilitate conversations. You can also look into creating communities on Discord or Slack. As you grow your community, you will want to create moderators that will help maintain the healthy environment you setup. To encourage engagement, you can hold office hours or other online events like Twitter spaces.
+If your project is on GitHub, you can use [GitHub Discussions](https://docs.github.com/en/discussions) as a way for contributors to post questions and facilitate conversations. You can also look into creating communities on Discord or Slack. As you grow your community, you will want to create moderators that will help maintain the healthy environment you setup. To encourage engagement, you can hold office hours or other online events like Twitter spaces.

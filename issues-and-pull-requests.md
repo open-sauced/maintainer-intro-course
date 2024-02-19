@@ -62,7 +62,7 @@ Some users will quickly respond to replies, while others might take longer. If y
 
 Issues that haven't been worked on for months are considered stale. Sometimes, you might be interested in resurrecting this issue and making it a higher-priority item. If that is the case, then go through the normal triage process and add the appropriate labels to it.
 
-But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using a GitHub Action bot like this [one](https://github.com/actions/stale).
+But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using an action like [Close Stale Issues](https://github.com/actions/stale).
 
 ## Pull Requests Reviews
 
@@ -100,13 +100,15 @@ If the author does not address the issue or respond to your initial comment, rep
 
 If multiple contributors are failing the same set of tests, then there is a possibility that the tests are flaky or broken and need your attention. In those situations, you want to clarify to the contributor that the failing test is not their fault and will be resolved.
 
+![Failed automated tests img](./assets/failed-automated-tests.png)
+
 ### Spam Pull Requests
 
 There might be times when you will get a spam pull request for your project. In these situations, it is best not to respond to the author. Instead, close it and add a `spam` label on it.
 
 Here are some examples of spam pull requests:
 
-- whitespace changes to `README` or other files
+- whitespace changes to README file or other files
 - random changes to files without an accompanying issue or explanation
 - numerous links to unrelated websites or promotes products/services
 - plagiarized content from other sources without permission or proper attribution
@@ -132,6 +134,8 @@ If you have repeatedly tried to reach out and get no response, you should close 
 
 The [Highlights feature](https://docs.opensauced.pizza/features/highlights/) on OpenSauced is a place for you to showcase recent achievements with the open source community. This is a place to introduce your project to potential new contributors and talk about issues that need attention from the community.
 
+![Highlights GIF](./assets/highlight.gif)
+
 ### Issue Highlights
 
 When writing issue highlights, you will want to talk about the issue, how the contributor solved it, and how the solution impacted the project. Once you post a highlight on OpenSauced, re-share it on other platforms like Twitter or LinkedIn for increased visibility. Regularly acknowledging and thanking your contributors, especially in public, will strengthen their loyalty to the project and attract new contributors.
@@ -146,7 +150,7 @@ To learn more about how the Highlights feature works, please read through the [O
 
 When you have incoming issues and pull requests, scheduling time for triage and reviews is important. Design a regular schedule that works for you so you can work with contributor issues and provide detailed pull request reviews during the week.
 
-You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Action](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) to automate responses to new issues and pull requests, letting contributors know you will get to it when available.
+You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Actions](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n) to automate responses to new issues and pull requests, letting contributors know you will get to it when available.
 
 If contributors have concerns about the project, then you will want to create a safe space to make them comfortable talking about these issues. If they have concerns about the code or security aspects, feel free to discuss it on an open issue or even privately through Discord or Slack.
 
@@ -160,9 +164,9 @@ When working with other volunteer contributors, allow extra time to complete the
 
 ## Security Vulnerabilities Handling
 
-In case security issues arise within your project, your contributors must be aware of the optimal methods for reporting them. It would be best to have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually added in the project's root or `.github` directory. It would also be good to link to the security file in your `README.md` for easier community access.
+In case security issues arise within your project, your contributors must be aware of the optimal methods for reporting them. It would be best to have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually added in the project's root or `.github` directory. It would also be good to link to the security file in your README file for easier community access.
 
-A lot of maintainers will choose to go with this template `SECURITY.md` policy.
+A lot of maintainers will choose to go with this security policy template:
 
 > GitHub's [Bug Bounty program](https://bounty.github.com) rewards researchers for discovering security vulnerabilities in a number of repositories. The full list of projects that are eligible for rewards are [available on our Bug Bounty site](https://bounty.github.com/#scope).
 >
