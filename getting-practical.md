@@ -39,7 +39,6 @@ If you're using our starter idea, you could use the following:
 
 Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create good READMEs, Contributing Guides, and Code of Conducts in [How to Set Up Your Project](how-to-setup-your-project.md/how-to-setup-your-project.md). If you need a reminder, take a look back at that chapter.
 
-
  ## Set Up Contributing Guidelines
 
  Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines, and we'll share the OpenSauced Contributing Guidelines below as an example. Feel free to use those guidelines and update as you see fit for your project. 
@@ -208,25 +207,32 @@ body:
    - In your repository, click on the "Issues" tab and then the "New issue" button
         ![create issue](./assets/images/create-issue.png)
    - Select the type of issue you want to create. In this example, we'll select Feature Request.
-   - Write your issue. If you're following along the example, we'll write a feature request for a new resource.
+   - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
+    > **Type of feature:** 🍕 Feature
+    > **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
+    > **Suggested solution:** A new resource that helps people find issues during #100DaysOfOSS.
+    > **Code of Conduct:** I agree to follow this project's Code of Conduct.
+    > **Contributing Docs:** I agree to follow this project's Contribution Docs.
    - Once you've completed the issues, click "Submit new issue."
-
-In this example, we'll write a feature request for a new resource for #100DaysOfOSS.
 
 ![feature-form.png](./assets/images/feature-form.png)
 
-
-
 ## Promote Your Project
+
+Now that you have your project set up, it's time to promote it! Here are some ideas to get you started:
     - Share your project on social media, forums, and relevant communities.
     - Write blog posts or tutorials about your project.
     - Present your project at meetups, conferences, or online webinars.
-    - Create a Highlight
-
+    - Create a Highlight on OpenSauced to showcase your project.
+    - Share your project with friends, family, and colleagues.
+    - Ask for feedback from your network.
 
 ## Recognize All Contributions
+
+In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that:
     - Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions.
     - Highlight contributors in your README or on your project's website.
+    - Create a Highlight on OpenSauced to showcase contributors.
     - Thank contributors publicly for their work.
 
 ## Start Contributing to Your Own Project
