@@ -47,6 +47,16 @@ Now that you have the repository, you can either edit it directly in GitHub or c
    - Outline the process for submitting issues and pull requests.
    - Include coding standards, style guides, or any specific requirements.
    - Mention how contributors can ask for help or clarification.
+   - If you need help getting started, check out the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
+
+   ## Set Up a Code of Conduct
+
+   It's important to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
+
+    - Create a new file named `CONTRIBUTING.md` in the root of your repository.
+    - Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+         - Make sure you attribute the code of conduct to the original author.
+    - Add a link to the code of conduct in your README and CONTRIBUTING files.
 
 ## Issue Forms, Pull Request Templates, and Labels
 
@@ -210,7 +220,7 @@ body:
    - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
     > **Type of feature:** 🍕 Feature
     > **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
-    > **Suggested solution:** A new resource that helps people find issues during #100DaysOfOSS.
+    > **Suggested solution:** Add new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
     > **Code of Conduct:** I agree to follow this project's Code of Conduct.
     > **Contributing Docs:** I agree to follow this project's Contribution Docs.
    - Once you've completed the issues, click "Submit new issue."
@@ -235,14 +245,13 @@ In order to maintain a healthy project where contributors feel valued, it's impo
     - Create a Highlight on OpenSauced to showcase contributors.
     - Thank contributors publicly for their work.
 
-## Start Contributing to Your Own Project
-    - Commit your initial code, documentation, or other materials to the repository.
-    - Use the same process you've set up for other contributors to model best practices.
-    - Regularly contribute to and update the project.
-
 ## Monitor
-    - Use tools like OpenSauced Insights to monitor the project's activity.
-    - Solicit feedback from users and contributors.
+
+Once your project is up and running, it's important to monitor its health and activity. Here are some ways to do that:
+
+    - Use tools like [OpenSauced Repository Insights](https://docs.opensauced.pizza/features/insights/) to monitor the project's activity.
+    - Set up notifications for new issues and pull requests.
+    - Solicit feedback from users and contributors using discussions or surveys.
     - Reflect on the project's direction and make adjustments as necessary.
 
 Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
