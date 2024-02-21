@@ -72,7 +72,9 @@ Reviewing pull requests is an important part of a maintainer's job. It is the ma
 
 ### Testing and Stability
 
-A maintainer is responsible for making sure the application is working as expected. This will involve a combination of manual and automated testing. For manual testing, you will want to set time aside once in a while to run through new or existing features like a regular user would. If there are any bugs or poor user experiences, you must document them and create an issue.
+A maintainer is responsible for making sure the application is working as expected. This will involve a combination of manual and automated testing.
+
+For manual testing, you will want to set time aside once in a while to run through new or existing features like a regular user would. If there are any bugs or poor user experiences, you must document them and create an issue.
 
 For automated testing, you can set up an automated test suite that runs on every pull request and merges into the main branch. If the test suite fails, you can reach out to the contributor and help them debug the error. Good automated test suites can help catch bugs from going into production and breaking the application.
 
