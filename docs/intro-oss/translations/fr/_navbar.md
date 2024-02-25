@@ -1,0 +1,5 @@
+- [Accueil](/intro-oss/translations/fr/)
+- [⭐ Donner une étoile au projet](https://github.com/open-sauced/intro)
+- Languages
+  - [:us: Anglais ](/intro-oss/)
+  - [:fr: Français ](/intro-oss/translations/fr/)

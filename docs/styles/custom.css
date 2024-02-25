@@ -1,0 +1,25 @@
+.markdown-section a {
+	text-decoration: underline;
+}
+
+.token.property {
+	color: #1469B8;
+}
+
+.token.punctuation {
+	color: #1469B8;
+}
+
+.markdown-section p.tip code {
+	background-color: transparent;
+}
+
+.app-nav li ul {
+	background: rgba(0, 0, 0, 0.7);
+	color: #FFF9ED;
+	padding-right: 1.5em;
+}
+
+section.cover p {
+	padding: 0 5em;
+}

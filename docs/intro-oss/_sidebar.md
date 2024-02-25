@@ -1,0 +1,12 @@
+- Intro to Open Source Course
+
+  - [Intro](/intro-oss/01-intro.md)
+  - [What is Open Source?](/intro-oss/02-what-is-open-source.md)
+  - [Why Open Source?](/intro-oss/03-why-open-source.md)
+  - [Tools to be Successful](/intro-oss/04-tools-to-be-successful.md)
+  - [How to Contribute to Open Source](/intro-oss/05-how-to-contribute-to-open-source.md)
+  - [The Secret Sauce](/intro-oss/06-the-secret-sauce.md)
+  - [Types of Contributions](/intro-oss/07-types-of-contributions.md)
+  - [Additional Resources](/intro-oss/08-additional-resources.md)
+  - [Conclusion](/intro-oss/09-conclusion.md)
+  - [Glossary](/intro-oss/10-glossary.md)

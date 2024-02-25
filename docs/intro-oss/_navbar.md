@@ -1,0 +1,5 @@
+- [Homepage](/)
+- [⭐ Star The Repo](https://github.com/open-sauced/intro)
+- Languages
+  - [:us: English ](/intro-oss)
+  - [:fr: French ](/intro-oss/translations/fr/)
