@@ -1,2 +1,0 @@
-- [Home Page](/)
-- [⭐ Star The Repo](https://github.com/open-sauced/maintainer-intro-course)

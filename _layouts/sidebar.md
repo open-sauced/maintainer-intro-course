@@ -1,9 +1,0 @@
-- Pages
-  - [Open Source Maintainer](/intro.md)
-  - [Setting Up Your Project](/how-to-setup-your-project.md)
-  - [Issues and Pull Requests](/issues-and-pull-requests.md)
-  - [Maintainer Power Ups](/maintainer-powerups.md)
-  - [Setting Up Your Team](/your-team.md)
-  - [Building and Nurturing Community](/building-community.md)
-  - [Effective Communication and Collaboration](/communication-and-collaboration.md)
-  - [Maintaining Code Quality and Documentation](/maintaining-code-quality.md)
