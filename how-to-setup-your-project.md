@@ -124,7 +124,7 @@ Your guide should include the following sections:
 - guidelines for code and style conventions
 - guidelines for creating pull requests
 
-For an in-depth look into creating a robust CONTRIBUTING file, please read this [OpenSauced article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3).
+For an in-depth look into creating a robust CONTRIBUTING file, please read [this article](https://dev.to/opensauced/how-to-make-a-delicious-contributing-guide-4bp3) by OpenSauced.
 
 ## Issue Templates
 

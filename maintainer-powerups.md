@@ -1,8 +1,8 @@
 # Maintainer Power Ups
 
-As maintainers, we have a variety of daily tasks. We often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. And most of the time, we are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. And we need to be efficient in what we do.
+Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. And it would help if you were efficient in what you do.
 
-The good news is that some tools and features on GitHub allow us to automate tasks that help us save some time and make our work lighter. In this chapter, we will talk about these maintainer power ups from GitHub.
+The good news is that some tools and features on GitHub allow you to automate tasks that help you save some time and make your work lighter. In this chapter, we will talk about these maintainer power ups from GitHub.
 
 ## GitHub Actions
 
@@ -22,7 +22,7 @@ Most open source repositories have linters that run on each pull request. Linter
 
 #### Deployed Previews
 
-You want to be able to view changes, especially visual ones, without having to ship them to production. Having these previews in every pull request with [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/features/previews) lets you preview changes before merging the pull request.
+You want to be able to view changes, especially visual ones, without shipping them to production. Having these previews in every pull request with [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/features/previews) lets you preview changes before merging the pull request.
 
 #### Issue and Pull Request Scripts
 
@@ -59,7 +59,7 @@ Using Git, GitHub, and GitHub Actions to build a CI/CD pipeline should give you 
 
 ### Continuous Delivery vs. Continuous Deployment
 
-From the [official GitHub resources](https://resources.github.com/ci-cd/):
+From the official [GitHub Resources](https://resources.github.com/ci-cd/):
 
 > In a CI/CD pipeline that uses continuous _delivery_, automation pauses when developers push to production. A human—your operations, security, or compliance team—still needs to manually sign off before final release, adding more delays.
 >
@@ -85,13 +85,13 @@ Below are some helpful resources to help you build a CI/CD pipeline with GitHub 
 
 Using the GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
 
-Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
+Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read [this blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
 
 ## Issues and Pull Request Templates
 
 Have you ever found yourself in a situation where you're reviewing pull requests or triaging issues, but you can't understand what's happening because contributors didn't provide sufficient information? Or, have you had to close an issue or pull request because the description, screenshot, or other crucial information was missing?
 
-The good news is that you can address these problems by creating issue and pull request templates. These templates allow you to customize and standardize it to include necessary information. You can see them as guides for contributors to follow when writing an issue or pull request for your project. By creating templates, you can save time on triaging issues, reviewing pull requests, and ensuring you get all the information you need from your contributors. Additionally, future contributors can benefit from these templates by understanding the history of changes made, which can help them debug or understand the code involved.
+The good news is that you can address these problems by creating issue and pull request templates. These templates allow you to customize and standardize it to include necessary information. You can see them as guides for contributors to follow when writing an issue or pull request for your project. Creating templates saves time on triaging issues, reviewing pull requests, and ensuring you get all the information you need from your contributors. Additionally, future contributors can benefit from these templates by understanding the history of changes made, which can help them debug or understand the code involved.
 
 You can learn more about [configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) and [creating a pull request template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) on the official GitHub documentation.
 
@@ -107,7 +107,7 @@ Read the GitHub documentation for complete instructions about how to [create sav
 
 ## Code Owners
 
-Most of the time, contributors don't know the maintainers of a project, so they don't know who to add as reviewers. When they create a pull request, they usually leave a comment without tagging anyone, like, "Can you please review my PR?" Without being tagged, maintainers don't get notified about this new pull request and comment, causing it to be missed from the radar. Adding the CODEOWNERS file to the repository will help you to automate and tackle this issue.
+Most of the time, contributors don't know the maintainers of a project, so they don't know who to reach out to review their pull requests. When they create a pull request, they usually leave a comment without tagging anyone, like, "Can you please review my PR?" Without being tagged, maintainers don't get notified about this new pull request and comment, causing it to be missed from the radar. Adding the CODEOWNERS file to the repository will help you to automate and tackle this issue.
 
 From the [official GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners):
 
@@ -116,11 +116,12 @@ From the [official GitHub documentation](https://docs.github.com/en/repositories
 This Becoming a Maintainer course repository has a [CODEOWNERS file](https://github.com/open-sauced/maintainer-intro-course/blob/main/.github/CODEOWNERS) that contains code as below:
 
 ```text
-@open-sauced/triage
-@open-sauced/docs
+* @open-sauced/triage @open-sauced/docs
 ```
 
-It means that the `@open-sauced/triage` and `@open-sauced/docs` teams are automatically added as reviewers whenever someone creates a pull request.
+It means that the `@open-sauced/triage` and `@open-sauced/docs` teams will be the default owners for everything in the repo and will automatically added as reviewers whenever someone creates a pull request.
+
+!> If you want to match two or more code owners with the same pattern, **all the code owners must be on the same line**.
 
 There are some benefits to having this file in your repository:
 
@@ -135,5 +136,3 @@ There are some benefits to having this file in your repository:
 - **Branch protection**
 
   If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break the production.
-
-You can read the official GitHub documentation for complete instructions to [create the CODEOWNERS file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files).
