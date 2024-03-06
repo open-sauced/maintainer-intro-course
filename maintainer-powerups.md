@@ -113,15 +113,15 @@ From the [official GitHub documentation](https://docs.github.com/en/repositories
 
 > You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
 
-This Becoming a Maintainer course repository has a [CODEOWNERS file](https://github.com/open-sauced/maintainer-intro-course/blob/main/.github/CODEOWNERS) that contains code as below:
+Here is an example of a [CODEOWNERS file](https://github.com/open-sauced/docs/blob/main/.github/CODEOWNERS) in the OpenSauced docs repository that contains code as below:
 
 ```text
-* @open-sauced/triage @open-sauced/docs
+* @open-sauced/docs
 ```
 
-It means that the `@open-sauced/triage` and `@open-sauced/docs` teams will be the default owners for everything in the repo and will automatically added as reviewers whenever someone creates a pull request.
+It means that the `@open-sauced/docs` team will be the default owner for everything in the repository and will automatically added as reviewers whenever someone creates a pull request.
 
-!> If you want to match two or more code owners with the same pattern, **all the code owners must be on the same line**.
+!> If you want to match two or more code owners with the same pattern, all the code owners must be on the same line.
 
 There are some benefits to having this file in your repository:
 
