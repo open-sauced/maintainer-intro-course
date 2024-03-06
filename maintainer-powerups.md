@@ -119,7 +119,7 @@ Here is an example of a [CODEOWNERS file](https://github.com/open-sauced/docs/bl
 * @open-sauced/docs
 ```
 
-It means that the `@open-sauced/docs` team will be the default owner for everything in the repository and will automatically added as reviewers whenever someone creates a pull request.
+This syntax means that the `@open-sauced/docs` team will be the default owner for everything in the repository and will automatically added as reviewers whenever someone creates a pull request.
 
 !> If you want to match two or more code owners with the same pattern, all the code owners must be on the same line.
 

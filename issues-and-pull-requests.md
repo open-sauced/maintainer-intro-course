@@ -62,7 +62,7 @@ Some users will quickly respond to replies, while others might take longer. If y
 
 Issues that haven't been worked on for months are considered stale. Sometimes, you might be interested in resurrecting this issue and making it a higher-priority item. If that is the case, then go through the normal triage process and add the appropriate labels.
 
-But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using an action like [Close Stale Issues](https://github.com/actions/stale).
+But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using an action like [Close Stale Issues and PRs](https://github.com/actions/stale).
 
 ## Pull Requests Reviews
 
@@ -150,7 +150,7 @@ To learn more about how the Highlights feature works, please read through the [O
 
 When you have incoming issues and pull requests, scheduling time for triage and reviews is essential. Design a regular schedule that works for you to triage contributor issues and provide detailed pull request reviews during the week.
 
-You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Actions](https://docs.github.com/en/actions) to automate responses to new issues and pull requests, letting contributors know you will get to it when available. You can read how to set one up in [this article](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n).
+You should not feel pressured to respond to new open issues or pull requests immediately. It is okay if they are left unread for a few days. If a contributor pushes you for a review or comment on an issue or a pull request, politely respond that you will get to it when you have time. You can also set up your own [GitHub Actions](https://docs.github.com/en/actions) to automate responses to new issues and pull requests, letting contributors know you will get to it when available. You can learn how to set one up in [this article](https://dev.to/opensauced/github-actions-a-maintainers-best-friend-488n).
 
 If contributors have concerns about the project, you will want to create a safe space to make them comfortable talking about these issues. If they have concerns about the code or security aspects, feel free to discuss it on an open issue or even privately through Discord or Slack.
 

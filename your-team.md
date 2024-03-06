@@ -1,6 +1,6 @@
 # Building Your Open Source Dream Team
 
-Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to effectively collaborate with your team and offers guidance on identifying, onboarding, and empowering your open source squad.
+Managing a project in open source requires clear communication, empathy, and technical understanding. You might find that initially, you can do all or most of the work by yourself. That's great! If you want your project to grow and thrive, cultivating a diverse, motivated, and effective team around you can help you do that. This chapter looks at how to collaborate with your team effectively and offers guidance on identifying, onboarding, and empowering your open source squad.
 
 ## Types of Teams
 
@@ -8,7 +8,7 @@ Creating teams on GitHub allows you to grant more permissions to a group of peop
 
 ### Triage Team
 
-Triage teams help to efficiently handle incoming issues and pull requests. A triage team categorizes, prioritizes, and assigns issues to appropriate maintainers or contributors, reducing the maintainer's workload and ensuring timely attention to important matters.
+Triage teams help handle incoming issues and pull requests efficiently. They categorize, prioritize, and assign issues to appropriate maintainers or contributors, reducing the maintainer's workload and ensuring timely attention to important matters.
 
 **Benefits**: Faster response to users, improved issue tracking, and better allocation of resources.
 
@@ -20,7 +20,7 @@ The maintainer team shares responsibility for code reviews, bug fixes, and featu
 
 ### Documentation (Docs) Team
 
-The docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear and up-to-date information is readily available, reducing support requests and confusion.
+The docs team creates and maintains high-quality documentation for users and contributors. A dedicated documentation team ensures clear, up-to-date information is readily available, reducing support requests and confusion.
 
 **Benefits**: Improved user experience, easier onboarding for new contributors, and less time spent answering basic questions.
 
@@ -30,9 +30,9 @@ The docs team creates and maintains high-quality documentation for users and con
 - Design Team
 - Community Team
 - Marketing Team
-- Core Team
+- Core Team\*
 
-?> Sometimes the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the direction of the project. Maintainer Team is more likely to focus on day-to-day management and technical aspects of the project.
+?> Sometimes, the Maintainer Team and the Core Team are the same. Generally speaking, a Core Team often focuses on broader responsibilities like strategy, governance, and community management, providing insight into the project's direction. The Maintainer Team is more likely to focus on day-to-day management and technical aspects of the project.
 
 ## Assembling Your A-Team: Adding New Members
 
