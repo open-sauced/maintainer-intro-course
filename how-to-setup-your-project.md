@@ -136,7 +136,7 @@ You can create various issue templates, like bug reports, feature requests, docu
 
 There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and under "Issues", click on "Set up templates". Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
 
-![Issue Template GIF](./assets/issues-template.gif)
+![Issue template GIF](./assets/gif/issues-template.gif)
 
 ### Using YAML Files
 
@@ -159,7 +159,7 @@ Here are a few things to consider inside your pull request template:
 
 Here is an example of a [good pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read through the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
 
-![PR template example](./assets/pr-template.png)
+![PR template example](./assets/img/pr-template.png)
 
 ## Projects (Classic) on GitHub
 
@@ -171,4 +171,4 @@ To create a new project (classic) for an individual repository, navigate to your
 
 To learn more about projects (classic), please read through the [documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
 
-![GitHub Project Board GIF](./assets/gh-project-boards.gif)
+![GitHub Project Boards GIF](./assets/gif/gh-project-boards.gif)

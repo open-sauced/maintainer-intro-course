@@ -66,7 +66,7 @@ To access your team's permissions, navigate to your team's page on GitHub and cl
 
 Here's what it will look like in GitHub:
 
-![team permissions](/assets/org-permissions.png)
+![team permissions](/assets/img/org-permissions.png)
 
 ### Additional Permissions to Consider
 
@@ -87,7 +87,7 @@ Here's what it will look like in GitHub:
 
 You can see some of the options here:
 
-![team permissions](/assets/org-permissions.gif)
+![Team permissions GIF](/assets/gif/org-permissions.gif)
 
 ## Expanding the Horizons: Enlisting Additional Maintainers
 
@@ -112,7 +112,7 @@ There are two ways to add repositories to your Repository Insight Page:
 
 From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the "Contributors" tab and creating a new Contributor Insight Page.
 
-![team insights gif](/assets/list-from-insight.gif)
+![Team insights GIF](/assets/gif/list-from-insight.gif)
 
 ## Adding Team Members
 
@@ -137,7 +137,7 @@ One way to onboard your new team members is by having clear guidelines and makin
 
 As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, consider creating a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
 
-![docs team list](/assets/docs-team.gif)
+![Docs team list GIF](/assets/gif/docs-team.gif)
 
 ## Saying Farewell: Handling Team Departures
 
