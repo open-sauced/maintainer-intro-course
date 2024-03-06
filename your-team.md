@@ -110,9 +110,11 @@ There are two ways to add repositories to your Repository Insight Page:
 1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
 2. **Add individual repositories**. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
+![Sync team GIF](./assets/gif/team-sync-insights.gif)
+
 From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the "Contributors" tab and creating a new Contributor Insight Page.
 
-![Team insights GIF](/assets/gif/list-from-insight.gif)
+![Contributor insights list](/assets/img/contributors-insights.png)
 
 ## Adding Team Members
 
@@ -137,7 +139,7 @@ One way to onboard your new team members is by having clear guidelines and makin
 
 As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, consider creating a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
 
-![Docs team list GIF](/assets/gif/docs-team.gif)
+![Team sync GIF](/assets/gif/team-sync.gif)
 
 ## Saying Farewell: Handling Team Departures
 
