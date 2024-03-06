@@ -99,18 +99,18 @@ As your project grows in complexity, the need for specialized attention in speci
 
 It is certainly possible that there's no contributor with the right skills and passion to take on a specific role. In those cases, you might need to look outside your existing community. Reach out to other projects or communities that might have individuals with the necessary expertise.
 
-One way to look for potential maintainers is to create an [Insight Page](https://docs.opensauced.pizza/features/insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [List](https://docs.opensauced.pizza/features/lists/). Lists will allow you to see more about where they're contributing, their timezone, their activity level, and more.
+One way to look for potential maintainers is to create a [Repository Insight Page](https://docs.opensauced.pizza/features/repo-insights/) with projects with a similar tech stack. This will allow you to see who is contributing to those projects on a regular basis, their most used languages, and more. From there, you can narrow down your search to individuals who are already familiar with your project's stack and have a proven track record of contributions by adding them to a [Contributor Insight Page](https://docs.opensauced.pizza/features/lists/). Contributor Insights allows you to see more about where they're contributing, their timezone, their activity level, and more.
 
-#### Creating an Insight Page & List
+#### Creating a Repository and a Contributor Insight Page
 
-To track repositories, click the "Insights" tab on the dashboard. You will be redirected to a page where you can create your new Insight Page.
+To connect and track your repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight." You will be redirected to a page where you can create your new Repository Insight Page.
 
-There are two ways to add repositories to your Insight Page:
+There are two ways to add repositories to your Repository Insight Page:
 
 1. **Sync GitHub organization**. Syncing your GitHub organization is a good idea if you want a unified view of your project activities and the list of contributors to your project.
 2. **Add individual repositories**. Adding individual repositories is a good idea if you want to look at similar repositories to recruit team members.
 
-From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the contributors tab and creating a new list.
+From there, you can create a list of contributors you're interested in learning more about or connecting with by selecting them from the "Contributors" tab and creating a new Contributor Insight Page.
 
 ![team insights gif](/assets/list-from-insight.gif)
 
@@ -135,7 +135,7 @@ One way to onboard your new team members is by having clear guidelines and makin
 
 ## Keeping Track of Your Team
 
-As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team,consider creating a [List](https://docs.opensauced.pizza/features/lists/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
+As your team grows, it's important to keep track of your team's participation and contributions. Depending on how many people are on your team, consider creating a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to keep track of your team's contributions. This will allow you to see who is contributing to your project and how often and to identify when it's time to remove someone from your team.
 
 ![docs team list](/assets/docs-team.gif)
 
