@@ -6,7 +6,7 @@ In this section, we will discuss how to onboard new contributors, utilize differ
 
 ## Project Onboarding
 
-Onboarding new contributors to your project is important to maintaining its health and growth. And that will become possible through establishing effective communication, starting from your project's documentation.
+Onboarding new contributors to your project is essential to maintaining its health and growth. And that will become possible through establishing effective communication, starting from your project's documentation.
 
 Providing clear information and directions about the project's goals, processes, and codebase is the key to helping new contributors collaborate. Effective communication allows you to attract contributors to return, learn more about your projects, and continue contributing. That way, you can create a sustainable ecosystem where knowledge is shared, responsibilities are distributed, and the project can continue to evolve and grow.
 
@@ -32,7 +32,7 @@ Consider these when you write or update your documentation:
 
 ### Issue Labels
 
-Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths. The [Issues and Pull Requests](/issues-and-pull-requests.md) chapter covers this topic more in-depth.
+Labeling issues is an excellent way to categorize and communicate the status of issues in your project. It can also be a way to create contributors' paths. The "[How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)" chapter covers this topic in more depth.
 
 The `good first issue` label is perfect to be added to beginner-friendly issues. Think of contributors who are beginners in the tech stack or open source in general. It can be a good starting point for them to contribute to your project. Consider pointing to the code blocks and providing step-by-step instructions to work on the solutions for this type of issue.
 
@@ -40,19 +40,19 @@ If an issue is complicated and has to be fixed promptly, you can add `core team 
 
 ### Issues and Pull Request Templates
 
-Having issues and pull request templates in your project makes it easier for you to triage and review them and helps contributors understand how to approach the project and what you expect them to look closer at when creating one.
+Having issues and pull request templates in your project makes it easier for you to triage and review them, and they help contributors understand how to approach the project and what you expect them to look closer at when creating one.
 
 ## Regular Communication
 
-Providing spaces outside your project for contributors to ask questions, request guidance, and give ideas is recommended. That way, they can communicate and collaborate actively with other collaborators and maintainers.
+It is recommended that you provide spaces outside your project for contributors to ask questions, request guidance, and share ideas. That way, they can communicate and collaborate actively with other collaborators and maintainers.
 
 Here are some channels for you to consider to create regular communication:
 
 ### Chat Service App
 
-It would be best to provide a chat service app to accommodate asynchronous and synchronous communication for your community. Contributors can ask questions, connect, and collaborate openly in nearly real-time with this app, and it's also a great way to support communication in different time zones. A chat service app can also benefit you as a maintainer by quickly announcing project and community updates, asking for help, holding synchronous office hours, etc.
+It would be best to provide a chat service app to accommodate asynchronous and synchronous communication for your community. With this app, contributors can ask questions, connect, and collaborate openly in nearly real-time. It's also a great way to support communication in different time zones. A chat service app can also benefit you as a maintainer by quickly announcing project and community updates, asking for help, holding synchronous office hours, etc.
 
-Tech communities widely use the apps mentioned here. But which one to choose is based on your preference and the needs of your community.
+Tech communities widely use the apps mentioned below. But which one to choose is based on your preference and your community's needs.
 
 #### Discord Community
 
@@ -68,7 +68,7 @@ Slack primarily targets businesses and professional teams. That said, if your co
 
 ### GitHub Discussions
 
-[Discussions](https://github.com/features/discussions) is a collaborative communication forum for the community around an open source project. It's a feature on GitHub to ask questions, share ideas, and build connections with each other around the project.
+[Discussions](https://github.com/features/discussions) is a collaborative communication forum for the community around an open source project. It's a feature on GitHub that allows users to ask questions, share ideas, and build connections around the project.
 
 You can easily enable discussions in your project by following the [complete instructions](https://docs.github.com/en/discussions/quickstart#enabling-github-discussions-on-your-repository).
 
@@ -76,9 +76,9 @@ You can easily enable discussions in your project by following the [complete ins
 
 Another place to create a communication space is a forum. A community forum is an online space where community members connect, engage, and discuss topics with each other.
 
-One of the benefits of having a community forum is a place for members to discuss and ask specific questions about your project. Whenever someone encounters the same problem that has been fixed before, they can fix it faster by searching for the solutions on the forum. This can increase the productivity of maintainers because you don't have to answer the same questions repeatedly. A forum is also available publicly, so it's searchable on search engines and can increase the number of users and contributors.
+One of the benefits of having a community forum is that it provides a place for members to discuss and ask specific questions about your project. Whenever someone encounters the same problem that has been fixed before, they can fix it faster by searching for solutions on the forum. This can increase your productivity because you don't have to answer the same questions repeatedly. A forum is also available publicly, so it's searchable on search engines and can increase the number of users and contributors.
 
-You can create and host a forum on a website. Or, you can make it a subdomain of your website. Take the [freeCodeCamp forum](https://forum.freecodecamp.org/) as an example for inspiration.
+You can create and host a forum on a website or make it a subdomain of your website. The [freeCodeCamp forum](https://forum.freecodecamp.org/) is an excellent example of this.
 
 ## Effective Communication
 
@@ -86,15 +86,15 @@ Effective communication is key to project success. It plays a vital role in reso
 
 ### Engaging with Contributors
 
-Having contributors come back and continue contributing to the project is one of the maintainers' goals. To nurture this relationship, you should have time to engage with your contributors between tasks.
+One of the maintainers' goals is to have contributors return and continue contributing to the project. To nurture this relationship, you should have time to engage with your contributors between tasks.
 
-Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something is unclear, and don't assume.
+Start by acknowledging and thanking them for the issue or pull request they created. Ask them questions if something needs to be clarified, and don't assume.
 
 One of the golden rules in an international remote environment is never to make an assumption. Asynchronous communication, more often than not, can lead to misunderstanding because writing is different from speaking. People with different cultural and language backgrounds might need help explaining their intentions or understanding specific cultural sayings. Consider using words with explicit meanings when you communicate, and keep your message clear and short so they can understand your purpose. When you deliver a few topics, using bullet points in a comment or splitting your message into several comments is recommended.
 
 Another way to engage with your contributors is through live streams. At OpenSauced, we do monthly live streams to thank our contributors for their pull requests and other support and give shoutouts as a token of our appreciation. You can also do live streams to work on issues publicly and ask your community to attend.
 
-Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. Always remember that you want to foster a healthy communication and welcoming environment. So, it's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
+Maintainers are human. Sometimes, a discussion with a contributor can upset you when you're tired or having a bad day. But always remember that you want to foster a healthy communication and welcoming environment. It's okay to cool down and take time to answer them. You can take a couple of hours or even a day before you return to them to avoid a bitter tone.
 
 ### Managing Expectations
 
@@ -106,17 +106,17 @@ Just like maintainers, most open source contributors are volunteers. They are no
 
 #### Style Guide
 
-You might prefer contributors to add a prefix in brackets to issue and pull request titles. For example, "[Bug]: Documentation link goes to 404 Page Not Found". Or you want them to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) to their commit messages, such as `feat: add new feature for user authentication`. In another case, you might select particular Markdown rules for your project, like one underscore for italics, two asterisks for bolds, etc.
+You might prefer contributors to add a prefix in brackets to issue and pull request titles. For example, "[Bug]: Documentation link goes to 404 Page Not Found." Or you want them to follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) to their commit messages, such as `feat: add user authentication`. In another case, you might select particular Markdown rules for your project, like one underscore for italics, two asterisks for bolds, etc.
 
-Every project has its own convention to keep the consistency around it. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear style guide they must follow. You can take an example from GitHub's [style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide).
+Every project has its own convention to maintain consistency. So, don't expect your contributors to know what to do when contributing to your project. Consider communicating this in a clear style guide they must follow. You can take an example from GitHub's [Style guide](https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide).
 
 #### Support
 
 What kind of support can you provide your contributors? You can think of these amongst other supports:
 
 - **Space**: Where can contributors ask questions and throw ideas?
-- **Pair programming**: Some contributors, especially beginners, might need extra guidance and hand-holding. Can you give them support in pair programming when necessary? How can they ask for one?
-- **Office hours**: Regular office hours is a great way to engage directly with your contributors. It allows you to listen to their ideas and challenges, what needs to be improved, communicate with them about the direction of your project, and build a better relationship with them.
+- **Pair programming**: Some contributors, especially beginners, might need extra guidance and hand-holding. Can you provide this support when necessary? How can they ask for it?
+- **Office hours**: Regular office hours is a great way to engage directly with your contributors. It allows you to listen to their ideas and challenges, identify areas that need to be improved, communicate with them about the direction of your project, and build a better relationship with them.
 
 When you support your contributors, you can gain their trust and motivation and create a more collaborative and productive environment. By providing them with the help they need, you can establish a culture where everyone feels respected and supported, which leads to even greater achievements.
 
@@ -124,13 +124,15 @@ You can add a section in your README or contributing guidelines to inform about 
 
 #### Timeline
 
-Let your contributors know how long they can expect you to review a pull request or to answer their questions. Inform them if you, for example, won't be available on weekends or after working hours. You can automate this message with an action if you prefer. Read our [Maintainer Power Ups](./maintainer-powerups.md) chapter for more information about GitHub Actions.
+Let your contributors know how long they can expect you to review a pull request or answer their questions. Inform them, for example, if you won't be available on weekends or after working hours. If you prefer, you can automate this message with an action. Read our "[Maintainer Power Ups](./maintainer-powerups.md)" chapter for more information about GitHub Actions.
 
 #### Boundaries
 
-As your project grows and gains popularity, it will attract more contributors. Creating and setting clear boundaries becomes essential to prevent you from getting burned out quickly and balance your life. Here are some ways to create boundaries:
+As your project grows and gains popularity, it will attract more contributors. Creating and setting clear boundaries becomes essential to prevent you from getting burned out quickly and balance your life.
 
-- **Take a Break**
+Here are some ways to create boundaries:
+
+- **Take a break**
 
   You need to know that it's okay to take time off, step away from your project, and take care of yourself. You can inform your contributors that you will review their pull requests after you return. Here is an example of what you can say:
 
@@ -138,17 +140,17 @@ As your project grows and gains popularity, it will attract more contributors. C
 
   When pull requests come during your days off, after you return, you can thank and let the contributors know you will review the pull requests. Consider to say something like this:
 
-  > "Hey {username}, I just got back from my days off. Thank you for taking this on! I need time to review it and will get back to you soon. I appreciate your patience."
+  > "Hey {username}, I just returned from my days off. Thank you for taking this on! I need time to review it and will get back to you soon. I appreciate your patience."
 
-- **No Private Message**
+- **No private or direct message**
 
-  Another boundary you can set is for contributors not to send you private messages on chat service apps like Discord or social media.
+  Another boundary you can set is for contributors not to send you private or direct messages on chat service apps like Discord or social media.
 
   The culture of open source is open communication and transparency. It is best to keep all contributors in the loop by communicating anything related to the project in the open so everyone knows what's happening and what to expect. It will also give you the necessary privacy, separating your project from your personal life.
 
 ### Handling Difficult Situations
 
-You might need to handle difficult situations or resolve conflicts around your project's community one day. There is no easy way to handle situations like this. But sooner or later, you need to prepare yourself.
+One day, you might need to handle difficult situations or resolve conflicts around your project's community. There is no easy way to handle situations like this, but sooner or later, you need to prepare yourself.
 
 Here are essential things to do when handling difficult situations:
 
@@ -156,7 +158,7 @@ Here are essential things to do when handling difficult situations:
 
 Active listening plays a vital role in handling a difficult situation. You can only resolve a problem if you understand it clearly.
 
-Active listening is a communication skill to not only hear the words of a speaker but also try to understand their intentions completely and acknowledge their feelings.
+Active listening is a communication skill that involves not only hearing a speaker's words but also trying to understand their intentions completely and acknowledge their feelings.
 
 Here are some techniques that you can train for active listening:
 
@@ -178,13 +180,13 @@ Here are some techniques that you can train for active listening:
 
 #### Having Empathy and Compassion
 
-It would be best to be emphatic and compassionate when handling a problem, for example, when you face a dispute between contributors or community members.
+It is best to be emphatic and compassionate when handling a problem, such as a dispute between contributors or community members.
 
-You must look at and listen to the problem from both sides to keep yourself non-judgemental. Then, put yourself in their shoes to see the case from their perspective to understand it better. Empathy and compassion will help you not only resolve a conflict but also create a positive environment.
+You must look at and listen to the problem from both sides to keep yourself non-judgemental. Then, put yourself in their shoes to see the case from their perspective so you can understand it better. Empathy and compassion will help you not only resolve a conflict but also create a positive environment.
 
 #### Being Tactful and Diplomatic
 
-A critical factor in successfully addressing a problem is to approach it in a way that values and respects the feelings and perspectives of others. This not only prevents any harm to the relationship but also leads to positive outcomes when resolving conflicts.
+A critical factor in successfully addressing a problem is approaching it in a way that values and respects the feelings and perspectives of others. This not only prevents harm to the relationship but also leads to positive outcomes when resolving conflicts.
 
 The key is to think before you speak and choose your words wisely. You want to be able to tell the truth, but at the same time, also consider others' feelings and make them feel safe. Use positive yet direct language to prevent misunderstandings; consider balancing being straightforward and sensitive, and avoid pointing fingers.
 
@@ -203,4 +205,4 @@ You can say something like:
 > - It might be a good idea to take time to fully understand the issue before starting work on a PR, as this solution is different from what we asked in the issue. If you need help or clarification, don't hesitate to reach out.
 > - Another thing that could be helpful is running and testing the code locally before submitting a PR. This way, you'll be able to ensure that the code runs as it should. It can save you time from going back and forth on revisions.
 >
-> I hope you find this feedback helpful. If there's anything I can do to support you, please let me know.
+> I hope you find this feedback helpful. If there's anything I can do to support you, please let me know."
