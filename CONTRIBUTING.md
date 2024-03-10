@@ -1,4 +1,4 @@
-# Contributing to OpenSauced Intro
+# Contributing to OpenSauced Becoming a Maintainer Course
 
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
 
