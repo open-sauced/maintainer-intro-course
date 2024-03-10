@@ -49,9 +49,7 @@ If your project is on the larger side, you might consider having a separate docu
 
 You need to know that an open source project without a license is not available for anyone to use and distribute. Take a look at these explanations on [The Legal Side of Open Source](https://opensource.guide/legal/) on Open Source Guides:
 
-> Without a license or other agreement in place, any contributions are exclusively owned by their authors. That means nobody – not even you – can use, copy, distribute, or modify their contributions.
-
-> **Making your GitHub project public is not the same as licensing your project**. Public projects are covered by [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+> Making your GitHub project public is not the same as licensing your project. Public projects are covered by [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
 >
 > If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so.
 
