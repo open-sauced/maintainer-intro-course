@@ -25,7 +25,7 @@ Official translations start as a post on our [discussion board](https://github.c
 
 We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a [Community Translations](./community-translations.md) section.
 
-If you're interested in translating our Becoming a Maintainer with OpenSauced course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the [`community-translations.md`](./community-translations.md) file.
+If you're interested in translating our Becoming a Maintainer with OpenSauced course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the [`community-translations.md`](./community-translations.md) file that you can find in the root directory.
 
 We encourage you to add it to the [discussion board](https://github.com/open-sauced/maintainer-intro-course/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
