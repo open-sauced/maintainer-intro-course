@@ -12,17 +12,17 @@ Welcome to the Becoming a Maintainer Course with OpenSauced! This course is desi
 
 The course is divided into X chapters, each covering a different aspect of being an open source maintainer:
 
-### [Intro: Understanding the role of an open source maintainer](/intro.md)
+### [Intro: Understanding the Role of an Open Source Maintainer](/intro.md)
 
-### [Chapter X: Setting Up Your Project](/how-to-setup-your-project.md)
+### [Chapter X: How to Setup Your Open Source Project](/how-to-setup-your-project.md)
 
-### [Chapter X: Issues and Pull Requests](/issues-and-pull-requests.md)
+### [Chapter X: How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
 
 ### [Chapter X: Maintainer Power Ups](/maintainer-powerups.md)
 
-### [Chapter x: Setting Up & Maintaining Your Team](/your-team.md)
+### [Chapter x: Building Your Open Source Dream Team](/your-team.md)
 
-### [Chapter X: Building and Nurturing Community](/building-community.md)
+### [Chapter X: Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
 
 ### [Chapter X: How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
 
@@ -54,7 +54,7 @@ Happy learning and contributing!
 
 ---
 
-## 🤝 Contributing to this Repository
+## 🤝 Contributing to OpenSauced Becoming a Maintainer Repository
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
 
