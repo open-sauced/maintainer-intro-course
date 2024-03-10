@@ -1,6 +1,6 @@
 # 🌐 i18n Guidelines
 
-Welcome to our i18n Guidelines! We appreciate your interest in translating our Intro to Open Source course.
+Welcome to our i18n Guidelines! We appreciate your interest in translating our Becoming a Maintainer with OpenSauced course.
 
 At the moment, we have the course in the following languages:
 
@@ -10,10 +10,10 @@ At the moment, we have the course in the following languages:
 
 There are two types of i18n contributions that we accept:
 
-1. Translate our Intro to Open Source course.
+1. Translate our Becoming a Maintainer with OpenSauced course.
 2. Review pull requests (PRs) and translations.
 
-### Translate the Intro to Open Source Course
+### Translate the Becoming a Maintainer with OpenSauced Course
 
 We have two types of translations:
 
@@ -25,7 +25,7 @@ Official translations start as a post on our [discussion board](https://github.c
 
 We can't always support the maintenance of translations. However, we know some contributors are willing to translate, and we value these contributions. For that reason, we have a Community Translations section.
 
-If you're interested in translating our Intro to OSS course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file.
+If you're interested in translating our Becoming a Maintainer with OpenSauced course, fork this repository and add the translation to your forked repository. Then, you can add a link to your translation in the `community-translations.md` file.
 
 We encourage you to add it to the [discussion board](https://github.com/open-sauced/maintainer-intro-course/discussions) as well. We will consider moving it to an official translation if it becomes popular and has enough support.
 
@@ -43,14 +43,14 @@ First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the p
 
 2. **Create translation files**.
 
-   Inside the "translations" directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French) as directory names.
+   Inside the "translations" directory, create a new subdirectory for each language you plan to support. Use language codes (e.g., "en" for English, "fr" for French, etc.) as directory names.
 
    ```markdown
    .
    └── translations/
-      ├── en/ (English)
-      ├── fr/ (French)
-      └── es/ (Spanish)
+      ├── en/
+      ├── fr/
+      └── es/
    ```
 
 3. **Translate content**.
@@ -100,4 +100,13 @@ When it comes to reviewing a translation PR, ask yourself the following question
 - Are there links that could be localized and translated? (e.g., Wikipedia and MDN links)
 - Is the translation correctly written following the translated language's norms and practices?
 
-When you think a PR is ready to be merged after your suggestions were addressed (if any), approve it through GitHub's "Review Changes" button or leave an "LGTM!" in the comment section and tag the `@open-sauced/docs` maintainers. (“LGTM” is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.)
+When you think a PR is ready to be merged after your suggestions were addressed (if any):
+
+1. Click the "Files changed" tab under the PR's title.
+2. Click the green "Review changes" button.
+3. Select "Approve."
+4. Click the green "Submit review" button.
+
+Alternatively, you can leave an LGTM\* in the comment section and tag the `@open-sauced/docs` maintainers.
+
+?> \*LGTM is an abbreviation of “Looks Good to Me” or “Let’s Get to Merging”, often used to approve pull requests.
