@@ -38,7 +38,7 @@ If you're using our starter idea, you could use the following:
 
 ## Adding Repository Documentation
 
-Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](how-to-setup-your-project.md/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
+Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
 
 ## Set Up Contributing Guidelines
 
@@ -54,14 +54,11 @@ Your project will likely have similar contribution guidelines to other projects.
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
 
-  - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
-  - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
-  - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
+- [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+- [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+- [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
 
-
- > :bulb: Make sure you attribute the code of conduct to the original author.
-
-
+!> Make sure you attribute the code of conduct to the original author.
 
 ## Issue Forms, Pull Request Templates, and Labels
 
@@ -233,9 +230,13 @@ body:
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
   > **Type of feature:** 🍕 Feature
+  >
   > **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
+  >
   > **Suggested solution:** Add a new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
+  >
   > **Code of Conduct:** I agree to follow this project's Code of Conduct.
+  >
   > **Contributing Docs:** I agree to follow this project's Contribution Docs.
 - Once you've completed the issues, click "Submit new issue."
 
@@ -243,11 +244,23 @@ body:
 
 ## Promote Your Project
 
-Now that you have your project set up, it's time to promote it! Here are some ideas to get you started: - Share your project on social media, forums, and relevant communities. - Write blog posts or tutorials about your project. - Present your project at meetups, conferences, or online webinars. - Create a Highlight on OpenSauced to showcase your project. - Share your project with friends, family, and colleagues. - Ask for feedback from your network.
+Now that you have your project set up, it's time to promote it! Here are some ideas to get you started:
+
+- Share your project on social media, forums, and relevant communities.
+- Write blog posts or tutorials about your project.
+- Present your project at meetups, conferences, or online webinars.
+- Create a Highlight on OpenSauced to showcase your project.
+- Share your project with friends, family, and colleagues.
+- Ask for feedback from your network.
 
 ## Recognize All Contributions
 
-In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that: - Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions. - Highlight contributors in your README or on your project's website. - Create a Highlight on OpenSauced to showcase contributors. - Thank contributors publicly for their work.
+In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that:
+
+- Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions.
+- Highlight contributors in your README or on your project's website.
+- Create a Highlight on OpenSauced to showcase contributors.
+- Thank contributors publicly for their work.
 
 ## Monitor
 
