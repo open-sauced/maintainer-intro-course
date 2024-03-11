@@ -47,7 +47,17 @@ If your project is on the larger side, you might consider having a separate docu
 
 ## Open Source Software License
 
-An open source software license dictates how others can use, modify or distribute your software. Every project should have a clearly defined license within a LICENSE file. This file is usually located in the root directory so it is easily accessible by everyone.
+You need to know that an open source project without a license is not available for anyone to use and distribute. Take a look at these explanations on [The Legal Side of Open Source](https://opensource.guide/legal/) on Open Source Guides:
+
+> Making your GitHub project public is not the same as licensing your project. Public projects are covered by [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+>
+> If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so.
+
+So, every open source project must have a license written in a LICENSE file to grant further rights to other users. This file is typically located in the root directory for easy access for everyone.
+
+### Choosing a License
+
+An open source software license is a legally binding agreement between the software creator and the end users. It dictates how others can use, modify, or distribute your software.
 
 Some licenses are more restrictive, like the GNU GPL (General Public License), while others are less restrictive, like the MIT license. Here are a few examples of licenses for OpenSauced projects:
 
@@ -136,7 +146,7 @@ You can create various issue templates, like bug reports, feature requests, docu
 
 There are two ways to create issue templates. The first way is to use GitHub's template builder. For this option, you will need to go to your project's settings, navigate to the "Features" section, and under "Issues", click on "Set up templates". Here is a [detailed guide](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-templates) from the GitHub documentation.
 
-![Issue Template GIF](./assets/issues-template.gif)
+![Issue template GIF](./assets/gif/issues-template.gif)
 
 ### Using YAML Files
 
@@ -159,7 +169,7 @@ Here are a few things to consider inside your pull request template:
 
 Here is an example of a [good pull request template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/PULL_REQUEST_TEMPLATE.md) used by OpenSauced. Please read through the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) to learn more about creating pull request templates.
 
-![PR template example](./assets/pr-template.png)
+![PR template example](./assets/img/pr-template.png)
 
 ## Projects (Classic) on GitHub
 
@@ -171,4 +181,4 @@ To create a new project (classic) for an individual repository, navigate to your
 
 To learn more about projects (classic), please read through the [documentation](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards).
 
-![GitHub Project Board GIF](./assets/gh-project-boards.gif)
+![GitHub Project Boards GIF](./assets/gif/gh-project-boards.gif)

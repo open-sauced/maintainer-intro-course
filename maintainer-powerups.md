@@ -10,7 +10,7 @@ Let's say your project receives more new issues and pull requests daily. You wan
 
 Setting up an action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
 
-![Create GitHub Action GIF](./assets/gh-actions.png)
+![Create GitHub Action](./assets/img/gh-actions.png)
 
 ### Types of Actions
 
@@ -87,6 +87,14 @@ Using the GitHub CLI will save you time and boost your productivity as a maintai
 
 Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read this [blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
 
+## Issues and Pull Request Templates
+
+Have you ever found yourself in a situation where you're reviewing pull requests or triaging issues, but you can't understand what's happening because contributors didn't provide sufficient information? Or, have you had to close an issue or pull request because the description, screenshot, or other crucial information was missing?
+
+The good news is that you can address these problems by creating issue and pull request templates. These templates allow you to customize and standardize it to include necessary information. You can see them as guides for contributors to follow when writing an issue or pull request for your project. By creating templates, you can save time on triaging issues, reviewing pull requests, and ensuring you get all the information you need from your contributors. Additionally, future contributors can benefit from these templates by understanding the history of changes made, which can help them debug or understand the code involved.
+
+You can learn more about [configuring issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) and [creating a pull request template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) on the official GitHub documentation.
+
 ## Saved Replies
 
 Sometimes, you repeatedly write the same reply to issues or pull requests. It's crucial to keep clear communication between maintainers and contributors. So, when you write all comments manually, your message will no longer be consistent, and they may be unclear. You can create saved replies when you frequently respond to issues and pull requests with the same comments.
@@ -95,7 +103,7 @@ Sometimes, you repeatedly write the same reply to issues or pull requests. It's 
 
 Read the GitHub documentation for complete instructions about how to [create saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/creating-a-saved-reply).
 
-![saved replies GIF](./assets/saved-replies.gif)
+![Saved replies gif](./assets/gif/saved-replies.gif)
 
 ## Code Owners
 
