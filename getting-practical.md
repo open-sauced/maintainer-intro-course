@@ -266,9 +266,9 @@ In order to maintain a healthy project where contributors feel valued, it's impo
 
 Once your project is up and running, monitoring its health and activity is important. Here are some ways to do that:
 
-    - Use tools like [OpenSauced Repository Insights](https://docs.opensauced.pizza/features/insights/) to monitor the project's activity.
-    - Set up notifications for new issues and pull requests.
-    - Solicit feedback from users and contributors using discussions or surveys.
-    - Reflect on the project's direction and make adjustments as necessary.
+- Use tools like [OpenSauced Repository Insights](https://docs.opensauced.pizza/features/insights/) to monitor the project's activity.
+- Set up notifications for new issues and pull requests.
+- Solicit feedback from users and contributors using discussions or surveys.
+- Reflect on the project's direction and make adjustments as necessary.
 
 Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
