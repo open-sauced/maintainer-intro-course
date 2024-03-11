@@ -54,10 +54,14 @@ Your project will likely have similar contribution guidelines to other projects.
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
 
-    - Create a new file named `CONTRIBUTING.md` in the root of your repository.
-    - Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
-         - Make sure you attribute the code of conduct to the original author.
-    - Add a link to the code of conduct in your README and CONTRIBUTING files.
+  - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+  - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+  - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
+
+
+ > :bulb: Make sure you attribute the code of conduct to the original author.
+
+
 
 ## Issue Forms, Pull Request Templates, and Labels
 
