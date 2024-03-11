@@ -76,11 +76,14 @@ Below are the steps to create the template. After the steps, we'll share with yo
 - [ ] Create a new folder named `.github` in the root of your repository.
 - [ ] Within that folder, create a new folder named `ISSUE_TEMPLATE`.
 - [ ] In the `.github/ISSUE_TEMPLATE` directory, create a new file named `bug_report.yml`.
-- [ ] Add a title and description to the template.
-- [ ] Add a checklist of steps to reproduce the bug.
-- [ ] Add a section for the expected behavior and actual behavior.
-- [ ] Add a section for screenshots, if applicable.
-- [ ] Add a section for additional context, if applicable.
+- [ ] Add a name (🐛 Bug report), description (Create a bug report to help us improve Open Sauced 🍕) to the template, and title ("Bug: ").
+- [ ] If there are specific labels you want automatically generated when this issue is created, add them to the template. (`labels: [👀 needs triage, 🐛 bug]`)
+- [ ] Next, you'll add the body, which includes the type and attributes for each section. This gnerally contains a checklist of steps to reproduce the bug. As part of that section, you should:
+  - [ ] Add a section for the expected behavior and actual behavior.
+  - [ ] Add a checklist of steps to reproduce the bug.
+  - [ ] Add a section for screenshots, if applicable.
+  - [ ] Add a section for additional context, if applicable.
+- [ ] Finally, add a section for the code of conduct and contributing docs.
 
 Here's what we use at OpenSauced:
 
@@ -148,14 +151,16 @@ body:
 
 Now, let's follow the same process and make a feature request template.
 
-- In the `.github/ISSUE_TEMPLATE` directory, create a new file named `feature_request.yml`.
-- Add a name, title, and description to the template.
-- If there are specific labels you want automatically generated when this issue is created, add them to the template.
-- Next, you'll add the body, which includes the type and attributes for each section. This gnerally contains a checklist of steps to reproduce the bug. As part of that section, you should:
-  - Add a section for the expected behavior and actual behavior.
-  - Add a section for screenshots, if applicable.
-  - Add a section for additional context, if applicable.
-- Finally, add a section for the code of conduct and contributing docs.
+- [ ] In the `.github/ISSUE_TEMPLATE` directory, create a new file named `feature_request.yml`.
+- [ ] Add a name, title, and description to the template.
+- [ ] If there are specific labels you want automatically generated when this issue is created, add them to the template.
+- [ ] Next, you'll add the body, which includes the type and attributes for each section. This gnerally contains a checklist of steps to reproduce the bug. As part of that section, you should:
+  - [ ] Add a section for the expected behavior and actual behavior.
+  - [ ] Add a dropdown for the type of feature request.
+  - [ ] Add a section for the suggested solution.
+  - [ ] Add a section for screenshots, if applicable.
+  - [ ] Add a section for additional context, if applicable.
+- [ ] Finally, add a section for the code of conduct and contributing docs.
 
 Here's what we use at OpenSauced:
 
