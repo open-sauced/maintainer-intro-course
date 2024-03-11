@@ -47,7 +47,17 @@ If your project is on the larger side, you might consider having a separate docu
 
 ## Open Source Software License
 
-An open source software license dictates how others can use, modify or distribute your software. Every project should have a clearly defined license within a LICENSE file. This file is usually located in the root directory so it is easily accessible by everyone.
+You need to know that an open source project without a license is not available for anyone to use and distribute. Take a look at these explanations on [The Legal Side of Open Source](https://opensource.guide/legal/) on Open Source Guides:
+
+> Making your GitHub project public is not the same as licensing your project. Public projects are covered by [GitHub’s Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+>
+> If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it’s public, unless you explicitly give them the right to do so.
+
+So, every open source project must have a license written in a LICENSE file to grant further rights to other users. This file is typically located in the root directory for easy access for everyone.
+
+### Choosing a License
+
+An open source software license is a legally binding agreement between the software creator and the end users. It dictates how others can use, modify, or distribute your software.
 
 Some licenses are more restrictive, like the GNU GPL (General Public License), while others are less restrictive, like the MIT license. Here are a few examples of licenses for OpenSauced projects:
 
