@@ -104,17 +104,17 @@ To foster the growth of these new talents, you can provide them with mentorship,
 
 ### Identify New Talents with OpenSauced
 
-You can utilize OpenSauced's features, [Insights Page](https://docs.opensauced.pizza/features/insights/) and [Lists](https://docs.opensauced.pizza/features/lists/), to identify new talents by tracking active project contributors.
+You can utilize OpenSauced's features, [Repository Insights](https://docs.opensauced.pizza/features/repo-insights/) and [Contributor Insights](https://docs.opensauced.pizza/features/contributor-insights/), to identify new talents by tracking active project contributors.
 
-#### 1. Using Insights Page
+#### 1. Using Repository Insights
 
-You can list the projects that you maintain on the Insights Page. This feature allows you to monitor the activity in your projects and identify contributors who actively contribute and make impacts on your projects.
+You can list the projects that you maintain on a Repository Insights Page. This feature allows you to monitor your projects' activity and identify contributors who actively contribute to and impact them.
 
-You can find more information about your contributors in the "Contributors" tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Read more about [Insights Page and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#insights-connecting-your-repositories) on our docs.
+You can find more information about your contributors in the "Contributors" tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
 
-#### 2. Using Lists
+#### 2. Using Contributor Insights
 
-After you identify potential new talents for your projects, you can create a List and add them here. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about [Lists and how to create one](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#lists-connecting-with-contributors) on our docs.
+After identifying potential new talents for your projects, you can select and add them to the list of a new or existing Contributor Insights Page. This feature enables you to monitor and analyze your contributors' activity levels and contributions more deeply, such as tracking the number of commits and pull requests they have made. You can read more about Contributor Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#contributor-insights-connecting-with-contributors).
 
 ## Conclusion
 
