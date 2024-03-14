@@ -291,11 +291,22 @@ body:
 
 ## Promote Your Project
 
-Now that you have your project set up, it's time to promote it! Here are some ideas to get you started: - Share your project on social media, forums, and relevant communities. - Write blog posts or tutorials about your project. - Present your project at meetups, conferences, or online webinars. - Create a Highlight on OpenSauced to showcase your project. - Share your project with friends, family, and colleagues. - Ask for feedback from your network.
+Now that you have your project set up, it's time to promote it! Here are some ideas to get you started: 
+- Share your project on social media, forums, and relevant communities. 
+- Write blog posts or tutorials about your project. 
+- Present your project at meetups, conferences, or online webinars. 
+- Create a [Highlight](https://docs.opensauced.pizza/features/highlights/) to share on OpenSauced to showcase your project's Issues, Pull Requests, and any blog posts you've written about it. 
+- Share your project with friends, family, and colleagues. 
+- Ask for feedback from your network.
 
 ## Recognize All Contributions
 
-In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that: - Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions. - Highlight contributors in your README or on your project's website. - Create a Highlight on OpenSauced to showcase contributors. - Thank contributors publicly for their work.
+In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that: 
+
+- Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions. 
+- Highlight contributors in your README or on your project's website. 
+- Create a Highlight on OpenSauced to showcase contributors.
+- Thank contributors publicly for their work.
 
 ## Monitor
 
