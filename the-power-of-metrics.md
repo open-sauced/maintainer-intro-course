@@ -8,8 +8,7 @@ For new maintainers, understanding what's happening with your project and contri
 - **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the community surrounding it.
 - **Project Health Metrics:** Project health metrics provide insights into the project's responsiveness, efficiency, and overall well-being.
 
-
-### Setting Project Goals 
+### Setting Project Goals
 
 Setting clear, achievable goals can help you with project management. You might find that your goals will vary and may include things like improving code quality, expanding the community, or streamling issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
 
@@ -22,17 +21,15 @@ Choose metrics that align with your project's priorities. For example, if commun
 - **Community Engagement**: Engagement metrics might include the number of comments on issues and pull requests, PR reviews, or the number of members in your community space (Slack, Discord, etc.).
 - **Retention Rate**: The percentage of new contributors who continue to contribute over time, indicating how well the project retains its community members.
 
-
 #### Code Quality Goals
 
 - **Documentation Coverage**: Having documentation coverage ensures your project is accessible to newcomers and reduces the entry barrier for contributors.
-- **Commit Frequency**: Knowing the commit frequency can help you understand the project's development activity over time, and can help you to identify trends in contribution, potential stagnation, or support needs. 
+- **Commit Frequency**: Knowing the commit frequency can help you understand the project's development activity over time, and can help you to identify trends in contribution, potential stagnation, or support needs.
 
 #### Project Health Goals
 
 - **Issue Velocity**: How quickly issues are closed. This can reflect how quickly the concerns are acknowledged, an important aspect of project responsiveness.
-- **Pull Request Velocity**: How fast Pull Requests are closed. This can help you see how efficienctly  problems are solved.
-
+- **Pull Request Velocity**: How fast Pull Requests are closed. This can help you see how efficienctly problems are solved.
 - **Benchmarking**: Use OpenSauced to establish current metrics as benchmarks, setting realistic targets for improvement.
 - **Timeline**: Set a clear timeline for achieving these goals, creating a sense of urgency and momentum.
 
@@ -46,7 +43,7 @@ Understanding and interpreting data helps us to understand and share the story b
 
 ### Making Data-Driven Decisions
 
-Making data-driven decisions involves using the insights you've gathered to guide your project's direction. 
+Making data-driven decisions involves using the insights you've gathered to guide your project's direction.
 For example, if you see that your project has a high number of new contributors, but a low retention rate, you might decide to focus on improving the onboarding process for new contributors.
 
 A great way to make data-drive decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
@@ -85,9 +82,7 @@ There are three tabs that provide you with more information on these repositorie
 
 This tab allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
-
 > To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
-
 
 ![repositories tab](../../assets/img/repos-insights.png)
 
@@ -105,7 +100,7 @@ You can use the information in this tab to help you learn about their engagement
 
 ![activity graph](../../assets/img/activity-repos-insights.png)
 
-To keep track of your own contributors to make sure you're growing a healthy open source community, you can create a Contributor Insight Page. 
+To keep track of your own contributors to make sure you're growing a healthy open source community, you can create a Contributor Insight Page.
 
 ## Contributor Insights: Connecting with Contributors
 
@@ -152,7 +147,6 @@ The "Activity" tab gives you a graph view with more detailed information on each
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
 ![list graph](../../assets/img/list-graph.png)
-
 
 ### Leveraging OpenSauced for Project Success
 
