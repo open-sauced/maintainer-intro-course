@@ -42,13 +42,55 @@ Now that you have the repository, you can either edit it directly in GitHub or c
 
 ## Set Up Contributing Guidelines
 
-Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines, and we'll share the OpenSauced Contributing Guidelines below as an example. Feel free to use those guidelines and update them as you see fit for your project.
+Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines and provide a template, but if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
 - Create a new file named `CONTRIBUTING.md` in the root of your repository.
 - Outline the process for submitting issues and pull requests.
 - Include coding standards, style guides, or any specific requirements.
 - Mention how contributors can ask for help or clarification.
-- If you need help getting started, check out the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/).
+
+### Contributing Guideline Template
+
+```
+# Contributing to [Project Name]
+
+Welcome to [Project Name]! We're thrilled you're considering contributing to our project. Every contribution, whether it's code, bug reports, feature requests, documentation, or community engagement, plays a significant role in its success.
+
+## How to Contribute
+
+We value all forms of contributions, not just code. Here's how you can contribute:
+
+- **Code Contributions**: Check our issues labeled 'good first issue' or 'help wanted.'
+- **Documentation**: Improvements to documentation, tutorials, or guides.
+- **Community**: Participating in discussions, helping others, and sharing your experiences with the project.
+
+## Getting Started
+
+1. **Setting Up**: Here's how you can set up [Project Name] for development...
+2. **Making Changes**: A guide to making changes and testing them.
+3. **Submitting Contributions**: Steps to submit your contributions via Pull Requests.
+
+## Community and Communication
+
+- **Code of Conduct**: We have a Code of Conduct that all contributors are expected to adhere to.
+- **Where to Ask Questions**: Join our Slack/Discord, or post questions in our forums.
+
+## Review Process
+
+After you submit your contribution, here's what happens next...
+
+## Recognition
+
+We believe in recognizing all contributions, not just code. Here's how we do it...
+
+## Additional Resources
+
+- **FAQs**
+- **Learning Resources**
+
+Thank you for contributing to [Project Name]!
+```
+
 
 ## Set Up a Code of Conduct
 
