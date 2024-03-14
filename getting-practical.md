@@ -38,7 +38,7 @@ If you're using our starter idea, you could use the following:
 
 ## Adding Repository Documentation
 
-Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](how-to-setup-your-project.md/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
+Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
 
 ## Set Up Contributing Guidelines
 
@@ -96,14 +96,11 @@ Thank you for contributing to [Project Name]!
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
 
-  - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
-  - [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
-  - [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
+- [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+- [ ] Copy and paste the code of conduct you'd like to use. We recommend using the [Contributor Covenant](https://www.contributor-covenant.org/).
+- [ ] Add a link to the code of conduct in your README and CONTRIBUTING files.
 
-
- > :bulb: Make sure you attribute the code of conduct to the original author.
-
-
+!> Make sure you attribute the code of conduct to the original author.
 
 ## Issue Forms, Pull Request Templates, and Labels
 
@@ -291,12 +288,13 @@ body:
 
 ## Promote Your Project
 
-Now that you have your project set up, it's time to promote it! Here are some ideas to get you started: 
-- Share your project on social media, forums, and relevant communities. 
-- Write blog posts or tutorials about your project. 
-- Present your project at meetups, conferences, or online webinars. 
-- Create a [Highlight](https://docs.opensauced.pizza/features/highlights/) to share on OpenSauced to showcase your project's Issues, Pull Requests, and any blog posts you've written about it. 
-- Share your project with friends, family, and colleagues. 
+Now that you have your project set up, it's time to promote it! Here are some ideas to get you started:
+
+- Share your project on social media, forums, and relevant communities.
+- Write blog posts or tutorials about your project.
+- Present your project at meetups, conferences, or online webinars.
+- Create a Highlight on OpenSauced to showcase your project.
+- Share your project with friends, family, and colleagues.
 - Ask for feedback from your network.
 
 ## Recognize All Contributions
