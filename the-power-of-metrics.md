@@ -128,7 +128,7 @@ In terms of tracking metrics to understand your contributors, here are some thin
 3. Give your page a name.
 4. Add contributors to your page by searching for their GitHub username, syncing your GitHub Team, or importing your GitHub Following.
 
-   ![team sync gif](../../static/gif/team-sync.gif)
+   ![team sync gif](../../assets/gif/team-sync.gif)
 
 ## Using Your Contributor Insight Page
 
