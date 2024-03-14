@@ -278,11 +278,13 @@ body:
   ![create issue](./assets/images/create-issue.png)
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
-  > **Type of feature:** 🍕 Feature
-  > **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
-  > **Suggested solution:** Add a new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
-  > **Code of Conduct:** I agree to follow this project's Code of Conduct.
-  > **Contributing Docs:** I agree to follow this project's Contribution Docs.
+```
+    **Type of feature:** 🍕 Feature
+    **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
+    **Suggested solution:** Add a new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
+    **Code of Conduct:** I agree to follow this project's Code of Conduct.
+    **Contributing Docs:** I agree to follow this project's Contribution Docs.
+```
 - Once you've completed the issues, click "Submit new issue."
 
 ![feature-form.png](./assets/images/feature-form.png)
