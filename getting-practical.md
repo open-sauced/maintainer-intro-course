@@ -120,7 +120,7 @@ Below are the steps to create the template. After the steps, we'll share with yo
 - [ ] In the `.github/ISSUE_TEMPLATE` directory, create a new file named `bug_report.yml`.
 - [ ] Add a name (🐛 Bug report), description (Create a bug report to help us improve Open Sauced 🍕) to the template, and title ("Bug: ").
 - [ ] If there are specific labels you want automatically generated when this issue is created, add them to the template. (`labels: [👀 needs triage, 🐛 bug]`)
-- [ ] Next, you'll add the body, which includes the type and attributes for each section. This gnerally contains a checklist of steps to reproduce the bug. As part of that section, you should:
+- [ ] Next, you'll add the body, which includes the type and attributes for each section. This generally contains a checklist of steps to reproduce the bug. As part of that section, you should:
   - [ ] Add a section for the expected behavior and actual behavior.
   - [ ] Add a checklist of steps to reproduce the bug.
   - [ ] Add a section for screenshots, if applicable.
