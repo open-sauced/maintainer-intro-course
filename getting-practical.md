@@ -25,16 +25,16 @@ We will walk through the steps to set up your project in GitHub. Although it's n
 
 - Go to [GitHub](https://github.com) and sign in.
 - Click on the "+" icon in the upper right corner and select "New repository."
-- Enter a repository name, description, and choose whether the repository should be public or private.
+- Enter a repository name and description, and choose whether the repository should be public or private.
 - Initialize the repository with a README file and add a license.
-- Click "Create repository" button.
+- Click the "Create repository" button.
 
 ![setting up a repo](./assets/gifs/set-up-repo.gif)
 
 If you're using our starter idea, you could use the following:
 
     - Name: favorite-open-source-resources
-    - Description: A markdown file of resources I've found to be most helpful.
+    - Description: A markdown file of resources I've found most helpful.
 
 ## Adding Repository Documentation
 
@@ -73,7 +73,7 @@ Guide on how to use the project, including any configuration steps or basic exam
 
 ## Contributing to the Project
 
-General instructions on how to submit contributions to the project with a link to your CONTRIBUTING.md file. Also include information on how to engage with the community and maintainers.
+General instructions on how to submit contributions to the project with a link to your CONTRIBUTING.md file. Also, include information on how to engage with the community and maintainers.
 
 ## Acknowledgments
 
@@ -81,7 +81,7 @@ Show appreciation for the community's contributions, including developers, write
 
 ## License
 
-State the license under which the project is released, and provide a link to the full license text.
+State the license under which the project is released and provide a link to the full license text.
 ```
 
 ### Adding a License
@@ -90,7 +90,7 @@ You should have initialized your project with a license, but if you did not, you
 
 ### Set Up Contributing Guidelines
 
-Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines and provide a template, but if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
+Your project will likely have similar contribution guidelines to other projects. You can follow these steps to create guidelines and provide a template. But if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
 - Create a new file named `CONTRIBUTING.md` in the root of your repository.
 - Outline the process for submitting issues and pull requests.
@@ -121,7 +121,7 @@ We value all forms of contributions, not just code. Here's how you can contribut
 ## Community and Communication
 
 - **Code of Conduct**: We have a Code of Conduct that all contributors are expected to adhere to.
-- **Where to Ask Questions**: Join our Slack/Discord, or post questions in our forums.
+- **Where to Ask Questions**: Join our Slack/Discord or post questions in our forums.
 
 ## Review Process
 
@@ -139,7 +139,6 @@ We believe in recognizing all contributions, not just code. Here's how we do it.
 Thank you for contributing to [Project Name]!
 ```
 
-
 ### Set Up a Code of Conduct
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
@@ -156,7 +155,7 @@ Creating good issues and using labels will help to create a strong project. Befo
 
 #### Creating Issue Forms
 
-In this section, we will create an issue template for a bug report. You can create templates for other types of issues as well, such as feature requests, questions, or documentation requests.
+In this section, we will create an issue template for a bug report. You can also create templates for other types of issues, such as feature requests, questions, or documentation requests.
 
 Below are the steps to create the template. After the steps, we'll share with you what we use at OpenSauced. Feel free to copy and paste that information into your repository and update it as needed.
 
@@ -323,6 +322,7 @@ body:
   ![create issue](./assets/images/create-issue.png)
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
+
 ```
     **Type of feature:** 🍕 Feature
     **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
@@ -330,6 +330,7 @@ body:
     **Code of Conduct:** I agree to follow this project's Code of Conduct.
     **Contributing Docs:** I agree to follow this project's Contribution Docs.
 ```
+
 - Once you've completed the issues, click "Submit new issue."
 
 ![feature-form.png](./assets/images/feature-form.png)
@@ -347,10 +348,10 @@ Now that you have your project set up, it's time to promote it! Here are some id
 
 ### Recognize All Contributions
 
-In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that: 
+In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that:
 
-- Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions. 
-- Highlight contributors in your README or on your project's website. 
+- Use tools like the [All Contributors](https://allcontributors.org) bot to acknowledge different types of contributions.
+- Highlight contributors in your README or on your project's website.
 - Create a Highlight on OpenSauced to showcase contributors.
 - Thank contributors publicly for their work.
 
@@ -358,11 +359,11 @@ In order to maintain a healthy project where contributors feel valued, it's impo
 
 Once your project is up and running, monitoring its health and activity is important. Here are some ways to do that:
 
-  - Create an OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) to track your project's activity.
-  - Set up notifications for new issues and pull requests.
-  - Solicit feedback from users and contributors using discussions or surveys.
-  - Reflect on the project's direction and make adjustments as necessary.
+- Create an OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) to track your project's activity.
+- Set up notifications for new issues and pull requests.
+- Solicit feedback from users and contributors using discussions or surveys.
+- Reflect on the project's direction and make adjustments as necessary.
 
-  You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/)
+You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/)
 
 Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
