@@ -88,7 +88,7 @@ State the license under which the project is released, and provide a link to the
 
 You should have initialized your project with a license, but if you did not, you can add a license to your project by creating a new file named `LICENSE` in the root of your repository. You can use the [Choose a License](https://choosealicense.com/) website to help you select the right license for your project.
 
-## Set Up Contributing Guidelines
+### Set Up Contributing Guidelines
 
 Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines and provide a template, but if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
@@ -97,7 +97,7 @@ Your project will likely have similar contribution guidelines to other projects.
 - Include coding standards, style guides, or any specific requirements.
 - Mention how contributors can ask for help or clarification.
 
-### Contributing Guideline Template
+#### Contributing Guideline Template
 
 ```
 # Contributing to [Project Name]
@@ -140,7 +140,7 @@ Thank you for contributing to [Project Name]!
 ```
 
 
-## Set Up a Code of Conduct
+### Set Up a Code of Conduct
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
 
@@ -150,17 +150,17 @@ It's essential to have a code of conduct to ensure that everyone feels welcome a
 
 !> Make sure you attribute the code of conduct to the original author.
 
-## Issue Forms, Pull Request Templates, and Labels
+### Issue Forms, Pull Request Templates, and Labels
 
 Creating good issues and using labels will help to create a strong project. Before creating your first issue, start by creating issue templates to make the process of submitting an issue clear to your contributors.
 
-### Creating Issue Forms
+#### Creating Issue Forms
 
 In this section, we will create an issue template for a bug report. You can create templates for other types of issues as well, such as feature requests, questions, or documentation requests.
 
 Below are the steps to create the template. After the steps, we'll share with you what we use at OpenSauced. Feel free to copy and paste that information into your repository and update it as needed.
 
-#### Bug Report
+##### Bug Report
 
 - [ ] Create a new folder named `.github` in the root of your repository.
 - [ ] Within that folder, create a new folder named `ISSUE_TEMPLATE`.
@@ -238,7 +238,7 @@ body:
           required: false
 ```
 
-#### Feature Request
+##### Feature Request
 
 Now, let's follow the same process and make a feature request template.
 
@@ -317,7 +317,7 @@ body:
           required: false
 ```
 
-### Writing Your First Issue
+#### Writing Your First Issue
 
 - In your repository, click on the "Issues" tab and then the "New issue" button
   ![create issue](./assets/images/create-issue.png)
@@ -334,7 +334,7 @@ body:
 
 ![feature-form.png](./assets/images/feature-form.png)
 
-## Promote Your Project
+### Promote Your Project
 
 Now that you have your project set up, it's time to promote it! Here are some ideas to get you started:
 
@@ -345,7 +345,7 @@ Now that you have your project set up, it's time to promote it! Here are some id
 - Share your project with friends, family, and colleagues.
 - Ask for feedback from your network.
 
-## Recognize All Contributions
+### Recognize All Contributions
 
 In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that: 
 
@@ -354,7 +354,7 @@ In order to maintain a healthy project where contributors feel valued, it's impo
 - Create a Highlight on OpenSauced to showcase contributors.
 - Thank contributors publicly for their work.
 
-## Monitor
+### Monitoring Your Project
 
 Once your project is up and running, monitoring its health and activity is important. Here are some ways to do that:
 
@@ -362,5 +362,7 @@ Once your project is up and running, monitoring its health and activity is impor
   - Set up notifications for new issues and pull requests.
   - Solicit feedback from users and contributors using discussions or surveys.
   - Reflect on the project's direction and make adjustments as necessary.
+
+  You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/)
 
 Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
