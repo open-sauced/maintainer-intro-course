@@ -40,7 +40,7 @@ If you're using our starter idea, you could use the following:
 
 Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
 
-### Creating Your Readme
+### Creating Your README
 
 Your project already has a README file, but it's a good idea to update it with information about your project. Here's a template you can use:
 
