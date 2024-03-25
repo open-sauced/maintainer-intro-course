@@ -99,7 +99,7 @@ Your project will likely have similar contribution guidelines to other projects.
 
 #### Contributing Guideline Template
 
-```
+```markdown
 # Contributing to [Project Name]
 
 Welcome to [Project Name]! We're thrilled you're considering contributing to our project. Every contribution, whether it's code, bug reports, feature requests, documentation, or community engagement, plays a significant role in its success.
@@ -108,7 +108,7 @@ Welcome to [Project Name]! We're thrilled you're considering contributing to our
 
 We value all forms of contributions, not just code. Here's how you can contribute:
 
-- **Code Contributions**: Check our issues labeled 'good first issue' or 'help wanted.'
+- **Code Contributions**: Check our issues labeled `good first issue` or `help wanted`.
 - **Documentation**: Improvements to documentation, tutorials, or guides.
 - **Community**: Participating in discussions, helping others, and sharing your experiences with the project.
 
@@ -318,22 +318,24 @@ body:
 
 #### Writing Your First Issue
 
-- In your repository, click on the "Issues" tab and then the "New issue" button
+- In your repository, click on the "Issues" tab and then the "New issue" button.
+
   ![create issue](./assets/images/create-issue.png)
+
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
 
-```
-    **Type of feature:** 🍕 Feature
-    **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
-    **Suggested solution:** Add a new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
-    **Code of Conduct:** I agree to follow this project's Code of Conduct.
-    **Contributing Docs:** I agree to follow this project's Contribution Docs.
-```
+  ```markdown
+  **Type of feature:** 🍕 Feature
+  **Current behavior:** I'd like to see a new resource for #100DaysOfOSS.
+  **Suggested solution:** Add a new resource that introduces people to open source through [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/).
+  **Code of Conduct:** I agree to follow this project's Code of Conduct.
+  **Contributing Docs:** I agree to follow this project's Contribution Docs.
+  ```
 
 - Once you've completed the issues, click "Submit new issue."
 
-![feature-form.png](./assets/images/feature-form.png)
+  ![feature-form.png](./assets/images/feature-form.png)
 
 ### Promote Your Project
 
