@@ -40,6 +40,50 @@ If you're using our starter idea, you could use the following:
 
 Now that you have the repository, you can either edit it directly in GitHub or clone the project and work on it locally. We previously learned about how to create detailed READMEs, contributing guides, and codes of conduct in "[How to Setup Your Open Source Project](/how-to-setup-your-project.md)". If you need a reminder, take a look back at that chapter.
 
+### Creating Your Readme
+
+Your Project already has a README file, but it's a good idea to update it with information about your project. Here's a template you can use:
+
+```markdown
+# Project Name
+
+## Overview
+
+Provide a brief, high-level overview of your project. Include the goals and core values of the project. Explain how it contributes to the open source community and any specific problems it aims to solve.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Contributing to the Project](#contributing-to-the-project)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+
+## Getting Started
+
+### Installation
+
+Instructions on how to install the project. Include any prerequisites or dependencies.
+
+### Usage
+
+Guide on how to use the project, including any configuration steps or basic examples.
+
+## Contributing to the Project
+
+General instructions on how to submit contributions to the project with a link to your CONTRIBUTING.md file. Also include information on how to engage with the community and maintainers.
+
+## Acknowledgments
+
+Show appreciation for the community's contributions, including developers, writers, and any other contributors.
+
+## License
+
+State the license under which the project is released, and provide a link to the full license text.
+```
+
 ## Set Up Contributing Guidelines
 
 Your project will likely have similar contribution guidelines to other projects. You can use the following steps to create your own guidelines and provide a template, but if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
