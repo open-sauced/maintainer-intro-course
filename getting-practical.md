@@ -42,7 +42,7 @@ Now that you have the repository, you can either edit it directly in GitHub or c
 
 ### Creating Your Readme
 
-Your Project already has a README file, but it's a good idea to update it with information about your project. Here's a template you can use:
+Your project already has a README file, but it's a good idea to update it with information about your project. Here's a template you can use:
 
 ```markdown
 # Project Name
@@ -83,6 +83,10 @@ Show appreciation for the community's contributions, including developers, write
 
 State the license under which the project is released, and provide a link to the full license text.
 ```
+
+### Adding a License
+
+You should have initialized your project with a license, but if you did not, you can add a license to your project by creating a new file named `LICENSE` in the root of your repository. You can use the [Choose a License](https://choosealicense.com/) website to help you select the right license for your project.
 
 ## Set Up Contributing Guidelines
 
