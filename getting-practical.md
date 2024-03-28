@@ -91,10 +91,10 @@ You should have initialized your project with a license, but if you did not, you
 
 Your project will likely have similar contribution guidelines to other projects. You can follow these steps to create guidelines and provide a template. But if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
-- Create a new file named `CONTRIBUTING.md` in the root of your repository.
-- Outline the process for submitting issues and pull requests.
-- Include coding standards, style guides, or any specific requirements.
-- Mention how contributors can ask for help or clarification.
+- [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
+- [ ] Outline the process for submitting issues and pull requests.
+- [ ] Include coding standards, style guides, or any specific requirements.
+- [ ] Mention how contributors can ask for help or clarification.
 
 #### Contributing Guidelines Template
 
