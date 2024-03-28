@@ -6,7 +6,6 @@ Now that you've gone through the course and understand what it takes to be a suc
 
 You'll need to have the following:
 
-- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
 - A [GitHub Account](https://github.com)
 
 ## Choosing Your Project
@@ -19,7 +18,7 @@ Sometimes, the hardest part is deciding what you will work on. Here are some gen
 
 Don't think too hard about it now. You can always go back and update things later. For now, if you need a place to get started, let's create a repository about your favorite open source resources.
 
-## Create Your Repository
+## Creating Your Repository
 
 We will walk through the steps to set up your project in GitHub. Although it's not the only way to get started with a project, it's the one we'll use in this demonstration.
 
@@ -88,7 +87,7 @@ State the license under which the project is released and provide a link to the 
 
 You should have initialized your project with a license, but if you did not, you can add a license to your project by creating a new file named `LICENSE` in the root of your repository. You can use the [Choose a License](https://choosealicense.com/) website to help you select the right license for your project.
 
-### Set Up Contributing Guidelines
+### Setting Up Contributing Guidelines
 
 Your project will likely have similar contribution guidelines to other projects. You can follow these steps to create guidelines and provide a template. But if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
@@ -97,7 +96,7 @@ Your project will likely have similar contribution guidelines to other projects.
 - Include coding standards, style guides, or any specific requirements.
 - Mention how contributors can ask for help or clarification.
 
-#### Contributing Guideline Template
+#### Contributing Guidelines Template
 
 ```markdown
 # Contributing to [Project Name]
@@ -139,7 +138,7 @@ We believe in recognizing all contributions, not just code. Here's how we do it.
 Thank you for contributing to [Project Name]!
 ```
 
-### Set Up a Code of Conduct
+### Setting Up a Code of Conduct
 
 It's essential to have a code of conduct to ensure that everyone feels welcome and safe in your project. Here's how to set up a code of conduct:
 
@@ -149,7 +148,7 @@ It's essential to have a code of conduct to ensure that everyone feels welcome a
 
 !> Make sure you attribute the code of conduct to the original author.
 
-### Issue Forms, Pull Request Templates, and Labels
+### Using Issue Forms, Pull Request Templates, and Labels
 
 Creating good issues and using labels will help to create a strong project. Before creating your first issue, start by creating issue templates to make the process of submitting an issue clear to your contributors.
 
@@ -337,7 +336,7 @@ body:
 
   ![feature-form.png](./assets/images/feature-form.png)
 
-### Promote Your Project
+### Promoting Your Project
 
 Now that you have your project set up, it's time to promote it! Here are some ideas to get you started:
 
@@ -348,7 +347,7 @@ Now that you have your project set up, it's time to promote it! Here are some id
 - Share your project with friends, family, and colleagues.
 - Ask for feedback from your network.
 
-### Recognize All Contributions
+### Recognizing Contributions
 
 In order to maintain a healthy project where contributors feel valued, it's important to recognize contributions. Here are some ways to do that:
 
