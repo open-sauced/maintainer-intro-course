@@ -12,23 +12,23 @@ Welcome to the Becoming a Maintainer Course with OpenSauced! This course is desi
 
 The course is divided into chapters, with each covering a different aspect of being an open source maintainer:
 
-### [Intro: Understanding the role of an open source maintainer](/intro.md)
+### [Intro: Understanding the Role of an Open Source Maintainer](/intro.md)
 
-### [Setting Up Your Project](/how-to-setup-your-project.md)
+### [How to Setup Your Open Source Project](/how-to-setup-your-project.md)
 
-### [Issues and Pull Requests](/issues-and-pull-requests.md)
+### [How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
 
 ### [Maintainer Power Ups](/maintainer-powerups.md)
 
-### [Setting Up & Maintaining Your Team](/your-team.md)
+### [Building Your Open Source Dream Team](/your-team.md)
 
-### [Building and Nurturing Community](/building-community.md)
+### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
 
 ### [How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
 
 ### [How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
 
-### [Let's Get Practical](/getting-practical.md)
+### [Let's Get Practical: Starting Your Project](/getting-practical.md)
 
 ### Additional Information
 
