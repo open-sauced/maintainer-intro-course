@@ -16,6 +16,10 @@ Diverse metrics offer a more complete picture of a project's health and potentia
 
 Setting clear, achievable goals can help you with project management. You might find that your goals will vary and may include things like improving code quality, expanding the community, or streamling issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
 
+Remember, goals for your open source project are final. They will evolve as the project grows. Metrics can inform these changes, providing insights that reveal new opportunities or challenges. For instance, if a project sets an initial goal to increase contributor numbers but later finds that engagement or quality is suffering, it might shift focus towards improving onboarding processes or documentation. 
+
+Maintainers should regularly review their goals in the context of the project's current metrics and broader trajectory. This adaptability ensures that the project remains aligned with its community's needs and your vision.
+
 Choose metrics that align with your project's priorities. For example, if community growth is the goal, focus on new contributor rates and engagement levels. Below you'll find some examples of metrics you may want to track.
 
 #### Community Growth Goals
