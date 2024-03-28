@@ -29,7 +29,7 @@ Choose metrics that align with your project's priorities. For example, if commun
 #### Project Health Goals
 
 - **Issue Velocity**: How quickly issues are closed. This can reflect how quickly the concerns are acknowledged, an important aspect of project responsiveness.
-- **Pull Request Velocity**: How fast Pull Requests are closed. This can help you see how efficienctly problems are solved.
+- **Pull Request Velocity**: How fast pull requests are closed. This can help you see how efficienctly problems are solved.
 - **Benchmarking**: Use OpenSauced to establish current metrics as benchmarks, setting realistic targets for improvement.
 - **Timeline**: Set a clear timeline for achieving these goals, creating a sense of urgency and momentum.
 
@@ -46,11 +46,11 @@ Understanding and interpreting data helps us to understand and share the story b
 Making data-driven decisions involves using the insights you've gathered to guide your project's direction.
 For example, if you see that your project has a high number of new contributors, but a low retention rate, you might decide to focus on improving the onboarding process for new contributors.
 
-A great way to make data-drive decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
+A great way to make data-driven decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
 
 #### Creating a Workspace for Your Project with OpenSauced
 
-A Workspace in OpenSauced serves as your project's command center, where you can learn more about your project and share with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
+An OpenSauced Workspace serves as your project's command center, where you can learn more about your project and share with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
 
 To create a Workspace, login to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, you should see your personal workspace. Click on the "Edit" button. You'll be prompted to name your workspace and add repositories. Go ahead and add your project's repository.
 
@@ -62,11 +62,9 @@ Within the repositories dashboard, you can view the following metrics, which are
 - **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
 - **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
-You can monitor these metrics to understand the health of your project and make data-driven decisions about your project over a period of 7, 30, or 90 days.
+?> **Tip**: You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
 
 If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a Repository Insight in your Workspace.
-
-#### Repository Insights
 
 ### Creating a New Repository Insight Page
 
@@ -108,13 +106,13 @@ OpenSauced Contributor Insights feature allows you to categorize, monitor, and a
 
 The Contributor Insights features allow you to:
 
-- track the commits and PRs of the contributors on your list,
-- filter your contributors by their activity level, including most active, new, and alumni,
-- view the repositories your contributors have contributed to, the top programming languages they've used, and their time zones.
+- track the commits and PRs of the contributors on your list
+- filter your contributors by their activity level, including most active, new, and alumni
+- view the repositories your contributors have contributed to, the top programming languages they've used, and their time zones
 
 In terms of tracking metrics to understand your contributors, here are some things you could look at:
 
-- **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
+- **Engaged contributors**: Keep tabs on contributors actively interacting with your repository.
 - **VIP contributors**: Highlight and track contributors you've identified as key maintainers or significant contributors.
 - **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
