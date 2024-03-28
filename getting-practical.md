@@ -89,7 +89,7 @@ You should have initialized your project with a license, but if you did not, you
 
 ### Setting Up Contributing Guidelines
 
-Your project will likely have similar contribution guidelines to other projects. You can follow these steps to create guidelines and provide a template. But if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
+Your project will likely have similar contribution guidelines to other projects. You can follow these steps to create guidelines and provide a template. However, if you need a specific example, you can always refer to the [OpenSauced Contributing Guidelines](https://docs.opensauced.pizza/contributing/introduction-to-contributing/). Feel free to use those guidelines and update them as you see fit for your project.
 
 - [ ] Create a new file named `CONTRIBUTING.md` in the root of your repository.
 - [ ] Outline the process for submitting issues and pull requests.
@@ -317,7 +317,7 @@ body:
 
 #### Writing Your First Issue
 
-- In your repository, click on the "Issues" tab and then the "New issue" button.
+- In your repository, click the "Issues" tab and then the "New issue" button.
 
   ![create issue](./assets/images/create-issue.png)
 
@@ -365,6 +365,6 @@ Once your project is up and running, monitoring its health and activity is impor
 - Solicit feedback from users and contributors using discussions or surveys.
 - Reflect on the project's direction and make adjustments as necessary.
 
-You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/)
+You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
 
 Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
