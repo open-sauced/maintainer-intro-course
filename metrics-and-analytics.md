@@ -72,7 +72,7 @@ Within the repositories dashboard, you can view the following metrics, which are
 
 ?> **Tip**: You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
 
-If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a Repository Insight in your Workspace.
+If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://docs.opensauced.pizza/features/repo-insights/) in your Workspace.
 
 ### Creating a New Repository Insight Page
 
