@@ -106,7 +106,7 @@ You can use the information in this tab to help you learn about their engagement
 
 ![activity graph](../../assets/img/activity-repos-insights.png)
 
-To keep track of your own contributors to make sure you're growing a healthy open source community, you can create a Contributor Insight Page.
+You can create a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to track your contributors and ensure you're growing a healthy open source community.
 
 ## Contributor Insights: Connecting with Contributors
 
