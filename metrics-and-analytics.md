@@ -5,7 +5,7 @@ For new maintainers, understanding what's happening with your project and contri
 ### Understanding Types of Metrics
 
 - **Code Metrics:** Code metrics provide a quantitative measure of the codebase's state, focusing on aspects that impact its quality, maintainability, and scalability.
-- **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the community surrounding it.
+- **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the surrounding community.
 - **Project Health Metrics:** Project health metrics provide insights into the project's responsiveness, efficiency, and overall well-being.
 
 Considering a holistic approach to metrics can ensure you're not overly focused on one type to the detriment of others. For example, while high code quality is important, it should be balanced with strong community engagement to ensure a sustainable project future.
