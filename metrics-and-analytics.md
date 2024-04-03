@@ -93,7 +93,7 @@ There are three tabs that provide you with more information on these repositorie
 
 This dashboard allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
-?> To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
+?> To learn and understand more about the data provided, see [Understanding Repository Insights Data](https://docs.opensauced.pizza/maintainers/understanding-repo-insights/).
 
 ![repositories tab](../../assets/img/repos-insights.png)
 
