@@ -101,7 +101,7 @@ This dashboard allows you to view more detailed information on each repository, 
 
 The "Contributors" dashboard allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
-You can select and add your contributors to a [Contributor Insight Page](#contributor-insights-connecting-with-contributors) to learn more about them.
+You can select and add your contributors to a [Contributor Insight Page](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#contributor-insights-connecting-with-contributors) to learn more about them.
 
 ##### Activity Dashboard
 
