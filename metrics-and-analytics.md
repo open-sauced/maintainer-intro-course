@@ -14,7 +14,7 @@ Diverse metrics offer a more complete picture of a project's health and potentia
 
 ## Setting Project Goals
 
-Setting clear, achievable goals can help you with project management. Your goals might vary and include improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).  
+Setting clear, achievable goals can help you with project management. Your goals might vary and include improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
 
 Remember, goals for your open source project are final. They will evolve as the project grows. Metrics can inform these changes, providing insights that reveal new opportunities or challenges. For instance, if a project sets an initial goal to increase contributor numbers but later finds that engagement or quality is suffering, it might shift focus towards improving onboarding processes or documentation.
 
@@ -114,6 +114,7 @@ You can use the information in this tab to help you learn about their engagement
 You can create a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to track your contributors and ensure you're growing a healthy open source community.
 
 ### Creating a Contributor Insight Page
+
 OpenSauced Contributor Insights feature allows you to categorize, monitor, and analyze various groups of contributors. This feature offers insights into each contributor's activities and contributions, helping you to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
 
 The Contributor Insights features allow you to:
