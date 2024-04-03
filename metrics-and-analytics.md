@@ -1,8 +1,8 @@
-### The Power of Metrics and Analytics for New Maintainers
+# The Power of Metrics and Analytics for New Maintainers
 
 For new maintainers, understanding what's happening with your project and contributors as it grows can be challenging. Think of metrics and analytics like a compass and map in your maintainer journey. Understanding metrics for open source projects and your own project can help you to set goals, identify project needs, and understand your community. This chapter will guide you through understanding, leveraging, and making decisions based on these insights to create a thriving open source project.
 
-### Understanding Types of Metrics
+## Understanding Types of Metrics
 
 - **Code Metrics:** Code metrics provide a quantitative measure of the codebase's state, focusing on aspects that impact its quality, maintainability, and scalability.
 - **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the surrounding community.
@@ -12,7 +12,7 @@ Considering a holistic approach to metrics can ensure you're not overly focused 
 
 Diverse metrics offer a more complete picture of a project's health and potential areas for growth or improvement. This could include balancing code metrics with community and project health metrics to ensure the project is not only technically sound but also welcoming and engaging for new contributors. It's about finding the right mix that supports your project's goals and values, fostering an environment where the codebase and the community thrive together.
 
-### Setting Project Goals
+## Setting Project Goals
 
 Setting clear, achievable goals can help you with project management. Your goals might vary and include improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).  
 
@@ -22,26 +22,26 @@ Maintainers should regularly review their goals in the context of the project's 
 
 Choose metrics that align with your project's priorities. For example, if community growth is the goal, focus on new contributor rates and engagement levels. Below are some examples of metrics you may want to track.
 
-#### Community Growth Goals
+### Community Growth Goals
 
 - **New Contributor Rates**: Tracking new contributors can be a key indicator of your project's appeal and growth potential.
 - **Active Contributors**: The count of contributors who have made at least one commit, pull request, or comment in the last month.
 - **Community Engagement**: Engagement metrics might include the number of comments on issues and pull requests, PR reviews, or the number of members in your community space (Slack, Discord, etc.).
 - **Retention Rate**: The percentage of new contributors who continue contributing over time, indicating how well the project retains its community members.
 
-#### Code Quality Goals
+### Code Quality Goals
 
 - **Documentation Coverage**: Having documentation coverage ensures your project is accessible to newcomers and reduces the entry barrier for contributors.
 - **Commit Frequency**: Knowing the commit frequency can help you understand the project's development activity over time and can help you identify trends in contribution, potential stagnation, or support needs.
 
-#### Project Health Goals
+### Project Health Goals
 
 - **Issue Velocity**: How quickly issues are closed. This can reflect how quickly the concerns are acknowledged, an important aspect of project responsiveness.
 - **Pull Request Velocity**: How fast pull requests are closed. This can help you see how efficiently problems are solved.
 - **Benchmarking**: Use OpenSauced to establish current metrics as benchmarks, setting realistic targets for improvement.
 - **Timeline**: Set a clear timeline for achieving these goals, creating a sense of urgency and momentum.
 
-### Understanding and Interpreting Open Source Project Data
+## Understanding and Interpreting Open Source Project Data
 
 Understanding and interpreting data helps us to understand and share the story behind the numbers. Some ways to do this include:
 
@@ -49,14 +49,14 @@ Understanding and interpreting data helps us to understand and share the story b
 - **Anomaly Detection**: Identify unexpected spikes or drops in metrics and investigate potential causes, such as new feature releases or community events.
 - **Comparative Analysis**: Compare metrics against similar projects to gauge your project's performance in the broader open source ecosystem.
 
-### Making Data-Driven Decisions
+## Making Data-Driven Decisions
 
 Making data-driven decisions involves using the insights you've gathered to guide your project's direction.
 For example, if you see that your project has a high number of new contributors but a low retention rate, you might decide to focus on improving the onboarding process for new contributors.
 
 A great way to make data-driven decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
 
-#### Creating a Workspace for Your Project with OpenSauced
+## Creating a Workspace for Your Project with OpenSauced
 
 An OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) serves as your project's command center, where you can learn more about your project and share it with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
 
@@ -78,29 +78,29 @@ If you want to benchmark your project against other similar projects or if you'd
 
 To connect and track repositories, click the "+" next to "Insights" in the sidebar, then select "New Repository Insight." You will be redirected to a page where you can create your new Repository Insight Page.
 
-### Using Your Repository Insights Page
+#### Using Your Repository Insights Page
 
 Once you have connected your repositories, you will be redirected to your Repository Insight Page. Here, you will see a dashboard with an overview of the repositories and the contributors who have contributed to them.
 
 There are three tabs that provide you with more information on these repositories:
 
-#### Repositories Dashboard
+##### Repositories Dashboard
 
-This tab allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
+This dashboard allows you to view more detailed information on each repository, including activity levels, PR overview, PR velocity, spam PRs, contributors, and activity stats over the last 30 days.
 
 ?> To learn and understand more about the data provided, see [Understanding Repository Insights Data](understanding-repo-insights.md).
 
 ![repositories tab](../../assets/img/repos-insights.png)
 
-#### Contributors
+##### Contributors Dashboard
 
-The "Contributors" tab allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
+The "Contributors" dashboard allows you to view more detailed information on each contributor, including their activity levels, the number of repositories they contributed to, the date of their last contribution, their most used language, their time zone, the number of contributions, and their activity stats over the last 30 days.
 
 You can select and add your contributors to a [Contributor Insight Page](#contributor-insights-connecting-with-contributors) to learn more about them.
 
-#### Activity
+##### Activity Dashboard
 
-The "Activity" tab shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
+The "Activity" dashboard shows a graph of the last time each contributor created their PR and how many lines of code they've touched. It also provides more detailed information on each contributor when you hover over their image, including their latest PRs and repositories they've contributed to. Clicking their image will bring you to their profile on OpenSauced.
 
 You can use the information in this tab to help you learn about their engagement and general interests. It will be helpful if you want to collaborate with them or consider recruiting a maintainer for your project.
 
@@ -108,8 +108,7 @@ You can use the information in this tab to help you learn about their engagement
 
 You can create a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to track your contributors and ensure you're growing a healthy open source community.
 
-## Contributor Insights: Connecting with Contributors
-
+### Creating a Contributor Insight Page
 OpenSauced Contributor Insights feature allows you to categorize, monitor, and analyze various groups of contributors. This feature offers insights into each contributor's activities and contributions, helping you to track individual contribution histories, identify active engagement, recognize new or alumni contributors, and compare the performance of different contributors.
 
 The Contributor Insights features allow you to:
@@ -124,7 +123,7 @@ In terms of tracking metrics to understand your contributors, here are some thin
 - **VIP contributors**: Highlight and track contributors you've identified as key maintainers or significant contributors.
 - **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
-### Creating a New Contributor Insight Page
+To create a new Contributor Insight Page:
 
 1. Click the "+" next to "Insights" in the sidebar.
 2. Click "New Contributor Insight." You will be redirected to a page where you can create your new Contributor Insight Page.
@@ -136,27 +135,27 @@ In terms of tracking metrics to understand your contributors, here are some thin
 
    ![team sync gif](../../assets/gif/team-sync.gif)
 
-## Using Your Contributor Insight Page
+#### Using Your Contributor Insight Page
 
 Once you have created your page, you will be redirected to your Contributor Insight Page. Here, you will see a dashboard with an overview of the contributors.
 
 There are three tabs that provide you with more information on these repositories:
 
-### Overview
+##### Overview Dashboard
 
-The "Overview" tab gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
+The "Overview" dashboard gives you a high-level view of the contributors in your Contributor Insight Page, including the total number of commits in the last 30 days and the types of contributors: Active, New, and Alumni.
 
-### Activity
+##### Activity Dashboard
 
-The "Activity" tab gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
+The "Activity" dashboard gives you a graph view with more detailed information on each contributor, including the type of activity, repositories they've contributed to, and how they compare to each other.
 
 You can filter your Contributor Insight Page by All Contributors, Active Contributors, New Contributors, and Alumni Contributors.
 
 ![list graph](../../assets/img/list-graph.png)
 
-### Highlights
+##### Highlights Dashboard
 
-The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
+The "Highlights" dashboard gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
 
 ?> To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
 
