@@ -14,7 +14,7 @@ Diverse metrics offer a more complete picture of a project's health and potentia
 
 ### Setting Project Goals
 
-Setting clear, achievable goals can help you with project management. You might find that your goals will vary and may include things like improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
+Setting clear, achievable goals can help you with project management. Your goals might vary and include improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).  
 
 Remember, goals for your open source project are final. They will evolve as the project grows. Metrics can inform these changes, providing insights that reveal new opportunities or challenges. For instance, if a project sets an initial goal to increase contributor numbers but later finds that engagement or quality is suffering, it might shift focus towards improving onboarding processes or documentation.
 
