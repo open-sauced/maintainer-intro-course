@@ -7,5 +7,7 @@
   - [Building and Nurturing Community](/building-community.md)
   - [Effective Communication and Collaboration](/communication-and-collaboration.md)
   - [Maintaining Code Quality and Documentation](/maintaining-code-quality.md)
+  - [The Power of Metrics and Analytics](/metrics-and-analytics.md)
+
 - **Resources**
   - [Resources](/resources.md)

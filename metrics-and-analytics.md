@@ -5,31 +5,39 @@ For new maintainers, understanding what's happening with your project and contri
 ### Understanding Types of Metrics
 
 - **Code Metrics:** Code metrics provide a quantitative measure of the codebase's state, focusing on aspects that impact its quality, maintainability, and scalability.
-- **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the community surrounding it.
+- **Community Metrics:** Community metrics shed light on the human element of the project, highlighting the growth, engagement, and overall health of the surrounding community.
 - **Project Health Metrics:** Project health metrics provide insights into the project's responsiveness, efficiency, and overall well-being.
+
+Considering a holistic approach to metrics can ensure you're not overly focused on one type to the detriment of others. For example, while high code quality is important, it should be balanced with strong community engagement to ensure a sustainable project future.
+
+Diverse metrics offer a more complete picture of a project's health and potential areas for growth or improvement. This could include balancing code metrics with community and project health metrics to ensure the project is not only technically sound but also welcoming and engaging for new contributors. It's about finding the right mix that supports your project's goals and values, fostering an environment where the codebase and the community thrive together.
 
 ### Setting Project Goals
 
-Setting clear, achievable goals can help you with project management. You might find that your goals will vary and may include things like improving code quality, expanding the community, or streamling issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
+Setting clear, achievable goals can help you with project management. You might find that your goals will vary and may include things like improving code quality, expanding the community, or streamlining issue resolution. When you set specific goals, you're better able to make decisions about prioritization and using resources (don't forget, time is a resource!).
 
-Choose metrics that align with your project's priorities. For example, if community growth is the goal, focus on new contributor rates and engagement levels. Below you'll find some examples of metrics you may want to track.
+Remember, goals for your open source project are final. They will evolve as the project grows. Metrics can inform these changes, providing insights that reveal new opportunities or challenges. For instance, if a project sets an initial goal to increase contributor numbers but later finds that engagement or quality is suffering, it might shift focus towards improving onboarding processes or documentation.
+
+Maintainers should regularly review their goals in the context of the project's current metrics and broader trajectory. This adaptability ensures the project remains aligned with its community's needs and your vision as a maintainer.
+
+Choose metrics that align with your project's priorities. For example, if community growth is the goal, focus on new contributor rates and engagement levels. Below are some examples of metrics you may want to track.
 
 #### Community Growth Goals
 
 - **New Contributor Rates**: Tracking new contributors can be a key indicator of your project's appeal and growth potential.
 - **Active Contributors**: The count of contributors who have made at least one commit, pull request, or comment in the last month.
 - **Community Engagement**: Engagement metrics might include the number of comments on issues and pull requests, PR reviews, or the number of members in your community space (Slack, Discord, etc.).
-- **Retention Rate**: The percentage of new contributors who continue to contribute over time, indicating how well the project retains its community members.
+- **Retention Rate**: The percentage of new contributors who continue contributing over time, indicating how well the project retains its community members.
 
 #### Code Quality Goals
 
 - **Documentation Coverage**: Having documentation coverage ensures your project is accessible to newcomers and reduces the entry barrier for contributors.
-- **Commit Frequency**: Knowing the commit frequency can help you understand the project's development activity over time, and can help you to identify trends in contribution, potential stagnation, or support needs.
+- **Commit Frequency**: Knowing the commit frequency can help you understand the project's development activity over time and can help you identify trends in contribution, potential stagnation, or support needs.
 
 #### Project Health Goals
 
 - **Issue Velocity**: How quickly issues are closed. This can reflect how quickly the concerns are acknowledged, an important aspect of project responsiveness.
-- **Pull Request Velocity**: How fast Pull Requests are closed. This can help you see how efficienctly problems are solved.
+- **Pull Request Velocity**: How fast pull requests are closed. This can help you see how efficiently problems are solved.
 - **Benchmarking**: Use OpenSauced to establish current metrics as benchmarks, setting realistic targets for improvement.
 - **Timeline**: Set a clear timeline for achieving these goals, creating a sense of urgency and momentum.
 
@@ -38,21 +46,21 @@ Choose metrics that align with your project's priorities. For example, if commun
 Understanding and interpreting data helps us to understand and share the story behind the numbers. Some ways to do this include:
 
 - **Trend Analysis**: Look for patterns over time, such as cyclical increases in contribution activity, to plan for future resource allocation.
-- **Anomaly Detection**: Identify unexpected spikes or drops in metrics, investigating potential causes such as new feature releases or community events.
+- **Anomaly Detection**: Identify unexpected spikes or drops in metrics and investigate potential causes, such as new feature releases or community events.
 - **Comparative Analysis**: Compare metrics against similar projects to gauge your project's performance in the broader open source ecosystem.
 
 ### Making Data-Driven Decisions
 
 Making data-driven decisions involves using the insights you've gathered to guide your project's direction.
-For example, if you see that your project has a high number of new contributors, but a low retention rate, you might decide to focus on improving the onboarding process for new contributors.
+For example, if you see that your project has a high number of new contributors but a low retention rate, you might decide to focus on improving the onboarding process for new contributors.
 
-A great way to make data-drive decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
+A great way to make data-driven decisions about your project is to create a Workspace in OpenSauced. This will allow you to bring together repositories, insights, and collaboration tools in one place.
 
 #### Creating a Workspace for Your Project with OpenSauced
 
-A Workspace in OpenSauced serves as your project's command center, where you can learn more about your project and share with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
+An OpenSauced Workspace serves as your project's command center, where you can learn more about your project and share it with others. This section guides you through creating and optimizing a Workspace to manage your project efficiently.
 
-To create a Workspace, login to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, you should see your personal workspace. Click on the "Edit" button. You'll be prompted to name your workspace and add repositories. Go ahead and add your project's repository.
+To create a Workspace, log in to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, you should see your personal workspace. Click on the "Edit" button. You'll be prompted to name your workspace and add repositories. Go ahead and add your project's repository.
 
 ![Workspaces](../../assets/img/workspace.png)
 
@@ -62,11 +70,9 @@ Within the repositories dashboard, you can view the following metrics, which are
 - **Issues**: This includes the total opened and closed issues for the repositories included in your workspace, as well as the velocity of issues being closed.
 - **Engagement**: This includes the total stars, forks, and activity ratio for the repositories included in your workspace.
 
-You can monitor these metrics to understand the health of your project and make data-driven decisions about your project over a period of 7, 30, or 90 days.
+?> **Tip**: You can customize the time period for these metrics by selecting 7 days, 30 days, or 90 days from the dropdown menu.
 
-If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a Repository Insight in your Workspace.
-
-#### Repository Insights
+If you want to benchmark your project against other similar projects or if you'd like to create a list of repositories for inspiration, you can create a [Repository Insight](https://docs.opensauced.pizza/features/repo-insights/) in your Workspace.
 
 ### Creating a New Repository Insight Page
 
@@ -100,7 +106,7 @@ You can use the information in this tab to help you learn about their engagement
 
 ![activity graph](../../assets/img/activity-repos-insights.png)
 
-To keep track of your own contributors to make sure you're growing a healthy open source community, you can create a Contributor Insight Page.
+You can create a [Contributor Insight Page](https://docs.opensauced.pizza/features/contributor-insights/) to track your contributors and ensure you're growing a healthy open source community.
 
 ## Contributor Insights: Connecting with Contributors
 
@@ -108,13 +114,13 @@ OpenSauced Contributor Insights feature allows you to categorize, monitor, and a
 
 The Contributor Insights features allow you to:
 
-- track the commits and PRs of the contributors on your list,
-- filter your contributors by their activity level, including most active, new, and alumni,
-- view the repositories your contributors have contributed to, the top programming languages they've used, and their time zones.
+- track the commits and PRs of the contributors on your list
+- filter your contributors by their activity level, including most active, new, and alumni
+- view the repositories your contributors have contributed to, the top programming languages they've used, and their time zones
 
 In terms of tracking metrics to understand your contributors, here are some things you could look at:
 
-- **Interacting contributors**: Keep tabs on contributors actively interacting with your repository.
+- **Engaged contributors**: Keep tabs on contributors actively interacting with your repository.
 - **VIP contributors**: Highlight and track contributors you've identified as key maintainers or significant contributors.
 - **Alumni contributors**: Keep an eye on contributors who have decreased their engagement or left the project.
 
@@ -148,6 +154,12 @@ You can filter your Contributor Insight Page by All Contributors, Active Contrib
 
 ![list graph](../../assets/img/list-graph.png)
 
+### Highlights
+
+The "Highlights" tab gives you a list of the highlights that the contributors listed on your page have created. This is a great way to see what other contributors are up to and to show them support.
+
+?> To learn and understand more about the data provided, see [Understanding Contributor Insights Data](https://docs.opensauced.pizza/maintainers/understanding-contribs-insights/).
+
 ### Leveraging OpenSauced for Project Success
 
-Embracing metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and to foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the journey of open source is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.
+Embracing metrics and analytics through OpenSauced gives you the knowledge to make informed decisions and foster a culture of transparency and continuous improvement. By setting clear goals, analyzing project data, and engaging with your community, you create a foundation for sustained growth and success. Remember, the open source journey is a marathon, not a sprint. With OpenSauced, you have a partner every step of the way, guiding your project toward achieving its full potential.

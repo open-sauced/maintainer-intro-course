@@ -28,6 +28,8 @@ The course is divided into X chapters, each covering a different aspect of being
 
 ### [Chapter X: How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
 
+### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
+
 ### Additional Information
 
 As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:
