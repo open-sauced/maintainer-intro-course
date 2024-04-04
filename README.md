@@ -30,6 +30,8 @@ The course is divided into chapters, with each covering a different aspect of be
 
 ### [Let's Get Practical: Starting Your Project](/getting-practical.md)
 
+### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
+
 ### Additional Information
 
 As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:

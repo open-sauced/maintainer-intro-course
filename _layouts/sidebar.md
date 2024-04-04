@@ -1,4 +1,5 @@
-- Pages
+- **Chapters**
+
   - [Open Source Maintainer](/intro.md)
   - [Setting Up Your Project](/how-to-setup-your-project.md)
   - [Issues and Pull Requests](/issues-and-pull-requests.md)
@@ -7,5 +8,8 @@
   - [Building and Nurturing Community](/building-community.md)
   - [Effective Communication and Collaboration](/communication-and-collaboration.md)
   - [Maintaining Code Quality and Documentation](/maintaining-code-quality.md)
+  - [The Power of Metrics and Analytics](/metrics-and-analytics.md)
   - [Let's Get Practical](/getting-practical.md)
 
+- **Resources**
+  - [Resources](/resources.md)
