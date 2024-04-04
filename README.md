@@ -10,23 +10,27 @@ Welcome to the Becoming a Maintainer Course with OpenSauced! This course is desi
 
 ## Course Overview
 
-The course is divided into X chapters, each covering a different aspect of being an open source maintainer:
+The course is divided into chapters, with each covering a different aspect of being an open source maintainer:
 
 ### [Intro: Understanding the Role of an Open Source Maintainer](/intro.md)
 
-### [Chapter X: How to Setup Your Open Source Project](/how-to-setup-your-project.md)
+### [How to Setup Your Open Source Project](/how-to-setup-your-project.md)
 
-### [Chapter X: How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
+### [How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
 
-### [Chapter X: Maintainer Power Ups](/maintainer-powerups.md)
+### [Maintainer Power Ups](/maintainer-powerups.md)
 
-### [Chapter x: Building Your Open Source Dream Team](/your-team.md)
+### [Building Your Open Source Dream Team](/your-team.md)
 
-### [Chapter X: Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
+### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
 
-### [Chapter X: How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
+### [How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
 
-### [Chapter X: How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
+### [How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
+
+### [Let's Get Practical: Starting Your Project](/getting-practical.md)
+
+### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
 
 ### Additional Information
 
