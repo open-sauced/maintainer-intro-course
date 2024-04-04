@@ -18,19 +18,19 @@ The course is divided into chapters, with each covering a different aspect of be
 
 ### [How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
 
-### [Maintainer Power Ups](/maintainer-powerups.md)
-
-### [Building Your Open Source Dream Team](/your-team.md)
-
-### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
-
 ### [How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
 
 ### [How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
 
-### [Let's Get Practical: Starting Your Project](/getting-practical.md)
+### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
+
+### [Maintainer Power Ups](/maintainer-powerups.md)
+
+### [Building Your Open Source Dream Team](/your-team.md)
 
 ### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
+
+### [Let's Get Practical: Starting Your Project](/getting-practical.md)
 
 ### Additional Information
 
