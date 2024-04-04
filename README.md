@@ -14,23 +14,43 @@ The course is divided into chapters, with each covering a different aspect of be
 
 ### [Intro: Understanding the Role of an Open Source Maintainer](/intro.md)
 
+This chapter introduces the role of maintainers in open source, the benefits and the responsibilities of becoming a maintainer, and the challenges they face.
+
 ### [How to Setup Your Open Source Project](/how-to-setup-your-project.md)
+
+This chapter walks you through the crucial elements necessary for every project to succeed during its initial setup.
 
 ### [How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
 
+In this chapter, you'll learn how to manage open issues and pull requests in your project, from triaging issues to reviewing pull requests.
+
 ### [How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
+
+This chapter will discuss onboarding new contributors, utilizing different communication channels for your open source project's community, and maintaining healthy communication.
 
 ### [How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
 
+This chapter covers ways of maintaining code quality and documentation in your open source project.
+
 ### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
+
+In this chapter, you will learn how to build and nurture a welcoming and supportive community in open source, particularly around your project.
 
 ### [Maintainer Power Ups](/maintainer-powerups.md)
 
+This chapter introduces tools on GitHub that you can utilize to help you save some time, make your work lighter, and boost your productivity as a maintainer.
+
 ### [Building Your Open Source Dream Team](/your-team.md)
+
+In this chapter, you'll learn how to create and assemble your team by examining effective collaboration and offering guidance on identifying, onboarding, and empowering your open source squad.
 
 ### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
 
+This chapter will help you understand your project's metrics and guide you through understanding, leveraging, and making decisions based on these metrics to create a thriving open source project.
+
 ### [Let's Get Practical: Starting Your Project](/getting-practical.md)
+
+This chapter contains tutorials based on the previous chapters to help you prepare and launch your first open source project as a maintainer.
 
 ### Additional Information
 
