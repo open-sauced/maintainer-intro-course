@@ -10,6 +10,3 @@
   - [Maintaining Code Quality and Documentation](/maintaining-code-quality.md)
   - [The Power of Metrics and Analytics](/metrics-and-analytics.md)
   - [Let's Get Practical](/getting-practical.md)
-
-- **Resources**
-  - [Resources](/resources.md)
