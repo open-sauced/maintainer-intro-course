@@ -1,14 +1,14 @@
 # Maintainer Power Ups
 
-Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. And it would help if you were efficient in what you do.
+Maintainers have a variety of daily tasks. You often juggle triaging new issues, reviewing pull requests, testing changes, and managing and moderating the community, such as welcoming new contributors and thanking contributors for their contributions. Most of the time, you are expected to respond to these tasks promptly. Sometimes, these never-ending tasks take too much time and are overwhelming. It would help if you were efficient in what you do.
 
-The good news is that some tools and features on GitHub allow you to automate tasks that help you save some time and make your work lighter. In this chapter, we will talk about these maintainer power ups from GitHub.
+The good news is that some tools and features on GitHub allow you to automate tasks, which can help you save time and make your work lighter. In this chapter, we will talk about these maintainer power ups from GitHub.
 
 ## GitHub Actions
 
 Let's say your project receives more new issues and pull requests daily. You want to welcome each new contributor, thank them for their contributions, and tell them you will triage their issues and review their pull requests. You want to do more but don't have time to respond to them because you're still busy with something else.
 
-Setting up an action to automate these tasks will save you time in responding to contributions individually. You can decide which actions you want to have in each repository.
+Setting up actions to automate these tasks will save you time responding to contributions individually. You can decide which actions to include in each repository.
 
 ![Create GitHub Action](./assets/img/gh-actions.png)
 
@@ -18,7 +18,7 @@ There are many types of actions that you can set up for your project, depending 
 
 #### Linter
 
-Most open source repositories have linters that run on each pull request. Linter is a tool for detecting potential errors and maintaining a consistent code style in a project. This action can help you keep the code quality and achieve a more readable and consistent style. [Super-Linter](https://github.com/marketplace/actions/super-linter) is one of the most used actions for linter.
+Most open source repositories have linters that run on each pull request. Linter is a tool for detecting potential errors and maintaining a consistent code style in a project. [Super-Linter](https://github.com/marketplace/actions/super-linter) is one of the most used actions. This action can help you maintain code quality and achieve a more readable and consistent style.
 
 #### Deployed Previews
 
@@ -30,7 +30,7 @@ Having scripts to welcome new issues and pull requests and let contributors know
 
 #### Code Scanning Tools
 
-Code scanning is a tool that looks for security vulnerabilities, possible bugs, and errors in the code. You can use GitHub's [code scanning](https://docs.github.com/en/code-security/code-scanning) feature and configure tools like [CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql), which GitHub maintains, or third-party scanning tools such as [SonarQube](https://github.com/marketplace/actions/official-sonarqube-scan).
+Code scanning is a tool for detecting security vulnerabilities, possible bugs, and errors in code. You can use GitHub's [code scanning](https://docs.github.com/en/code-security/code-scanning) feature and configure tools like [CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql), which GitHub maintains, or third-party scanning tools such as [SonarQube](https://github.com/marketplace/actions/official-sonarqube-scan).
 
 #### Testing
 
@@ -40,9 +40,9 @@ Setting up actions to run tests is helpful to ensure your app functions and perf
 
 You can search for available GitHub Actions on the [GitHub Marketplace](https://github.com/marketplace?type=actions). But if you can't find the one you need, you can create or customize your own actions from existing GitHub Actions.
 
-The founder of OpenSauced, Brian Douglas, created the [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment so maintainers can focus on more important tasks than assigning issues.
+Brian Douglas, the founder of OpenSauced, created [Take Action](https://github.com/marketplace/actions/contributor-takes-action). This action allows contributors to assign themselves to an issue by typing the `.take` command in the issue's comment, allowing maintainers to focus on more important tasks than assigning issues.
 
-But we want contributors only to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage Action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
+However, we want contributors only able to take issues that have passed our triage or are not meant to be worked on by the core team. So, we create the [Triage Action](https://github.com/open-sauced/app/blob/beta/.github/workflows/triage.yml) that will block the Take Action whenever a `needs triage` or `core team work` label exists.
 
 You can read more about GitHub Actions and how to create one in [the official documentation](https://github.com/features/actions).
 
@@ -76,16 +76,16 @@ Below are some helpful resources to help you build a CI/CD pipeline with GitHub 
 
 ## GitHub CLI
 
-[GitHub CLI](https://cli.github.com/) is an open source tool for using GitHub from your computer's command line. It allows you to:
+[GitHub CLI](https://cli.github.com/) is an open source tool that enables you to use GitHub from your computer's command line. It allows you to:
 
 - forking and cloning repositories,
 - checking out a pull request and reviewing it locally,
 - creating issues and pull requests,
 - viewing a pull request, issue, or repository right from your terminal.
 
-Using the GitHub CLI will save you time and boost your productivity as a maintainer because you don't need to switch between the GitHub website and your terminal.
+Using the GitHub CLI will save you time and boost your productivity as a maintainer. You don't need to switch between the GitHub website and your terminal.
 
-Head over to the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read [this blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get you started.
+Visit the [GitHub CLI repository](https://github.com/cli/cli#installation) for information on installing GitHub CLI on your machine, and read [this blog post](https://dev.to/opensauced/boost-productivity-with-the-github-cli-2mne) to get started.
 
 ## Issues and Pull Request Templates
 
@@ -97,7 +97,7 @@ You can learn more about [configuring issue templates](https://docs.github.com/e
 
 ## Saved Replies
 
-Sometimes, you repeatedly write the same reply to issues or pull requests. It's crucial to keep clear communication between maintainers and contributors. So, when you write all comments manually, your message will no longer be consistent, and they may be unclear. You can create saved replies when you frequently respond to issues and pull requests with the same comments.
+Sometimes, you repeatedly write the same reply to issues or pull requests. Clear communication between maintainers and contributors is crucial. So, when you write all comments manually, your messages will no longer be consistent and may be unclear. You can create saved replies when you frequently respond to issues and pull requests with the same comments.
 
 [Saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/about-saved-replies) allow you to create a reusable response to issues, pull requests, and discussions and use it across repositories. It will save you time responding to contributors while keeping the consistency of your message. You can always modify your replies if necessary.
 
@@ -135,4 +135,4 @@ There are some benefits to having this file in your repository:
 
 - **Branch protection**
 
-  If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break the production.
+  If you opt-in to "Require approval" and "Require review from Code Owners" to protect a branch, a certain number of code owners must approve any pull request before it can be merged into the protected branch. This can reduce the chance of merging pull requests that can break production.
