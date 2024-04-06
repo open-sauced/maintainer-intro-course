@@ -1,10 +1,10 @@
 # How to Setup Your Open Source Project
 
-There are many things to consider when setting up your open source project. In this portion of the guide, we will walk through the key components every project needs to succeed.
+There are many things to consider when setting up your open source project. In this portion of the course, we will walk through the key components every project needs to succeed.
 
 ## Detailed README
 
-A README file contains an introduction to what your open source project is all about. A good README should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
+A README file contains an introduction to your open source project. A good README should be clear, concise, up-to-date, and detailed. This file is located in your root directory and serves as the first impression for your contributors.
 
 Here are some things to consider inside your README:
 
@@ -123,7 +123,7 @@ The Contributor Covenant is a code of conduct you can use and adapt for your ope
 
 ## Contributing Guidelines
 
-A CONTRIBUTING file contains guidelines on how contributors can help with your project. This file is usually located in the root directory of a project so everyone can easily access it.
+A CONTRIBUTING file contains guidelines on how contributors can help with your project. It is usually located in the project's root directory so everyone can easily access it.
 
 Your guide should include the following sections:
 
@@ -140,7 +140,7 @@ For an in-depth look into creating a robust CONTRIBUTING file, please read [this
 
 Issue templates help guide contributors in providing the specific and structured information needed when opening project issues. Having these templates in your repository will ensure you receive the desired information to triage the issue correctly.
 
-You can create various issue templates, like bug reports, feature requests, documentation updates, etc. Inside these templates, you can have required fields like steps on reproducing the bug or a details section for a feature request. You can also attach specific labels like `feature`, `needs triage`, or `bug` to certain types of issue templates.
+You can create various issue templates, such as bug reports, feature requests, documentation updates, etc. Inside these templates, you can have required fields like steps for reproducing the bug or a details section for a feature request. You can also attach specific labels like `feature`, `needs triage`, or `bug` to inform the types of issue templates.
 
 ### Creating Issue Templates
 
@@ -167,13 +167,13 @@ You can also create custom issue templates using YAML frontmatter:
 
   !> The name of this folder should be in all caps, or else it will not work on GitHub.
 
-- Create different YAML files like a `bug.yml` or `feature.yml` file inside the `ISSUE_TEMPLATE` folder.
+- Create a YAML file like a `bug.yml` or `feature.yml` file inside the `ISSUE_TEMPLATE` folder.
 
 Here is the [bug report template](https://raw.githubusercontent.com/open-sauced/.github/main/.github/ISSUE_TEMPLATE/bug_report.yml) that we use at OpenSauced. To learn more about configuring issue templates, please visit the [official documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) on GitHub.
 
 ## Pull Request Templates
 
-Like issue templates, pull request templates allow you to guide your contributors on providing specific and structured information when opening pull requests in your project. This template will be in a file called `PULL_REQUEST_TEMPLATE.md`, and it is usually located either in the root directory or the `.github` directory.
+Like issue templates, pull request templates allow you to guide your contributors in providing specific and structured information when opening pull requests in your project. This template will be in a file called `PULL_REQUEST_TEMPLATE.md`, which is usually located either in the root directory or the `.github` directory.
 
 Here are a few things to consider inside your pull request template:
 
@@ -190,7 +190,7 @@ Here is an example of a [pull request template](https://raw.githubusercontent.co
 
 Keeping track of your issues is getting more challenging as your project progresses. A great tool that can help you organize and track your issues is [projects (classic)](https://docs.github.com/en/issues/organizing-your-work-with-project-boards) on GitHub. With projects (classic), you can efficiently manage your project's features, roadmaps, or releases as they're integrated with issues and pull requests.
 
-There are some [projects (classic) templates](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards#templates-for-projects-classic) that you can use, and one of them is the "basic kanban" template. Here, you can create notes and place the existing issues and pull requests in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of your project.
+There are some [projects (classic) templates](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards#templates-for-projects-classic) you can use, including the "basic kanban" template. Here, you can create notes and place the existing issues and pull requests in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of your project.
 
 To create a new project (classic) for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also make this board private to core maintainers or publicly visible to everyone.
 
