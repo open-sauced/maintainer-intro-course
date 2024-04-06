@@ -12,7 +12,7 @@ There are many types of people when talking about engagements in a community. So
 
 ### Open Communication
 
-You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community, helps build trust, and increases healthy collaboration. Everyone should feel comfortable expressing their thoughts and ideas, but at the same time, they should be able to listen and respectfully respond to others. For tips about communication and collaboration, read the chapter "[How to Communicate and Collaborate Effectively](./communication-and-collaboration.md)."
+You want to encourage open communication in the community. Open communication allows everyone to understand what's happening around the project and community, helps build trust, and increases healthy collaboration. Everyone should feel comfortable expressing thoughts and ideas, but at the same time, they should be able to listen and respectfully respond to others. For tips about communication and collaboration, read the chapter "[How to Communicate and Collaborate Effectively](./communication-and-collaboration.md)."
 
 ### Diversity and Inclusivity
 
@@ -20,11 +20,11 @@ Creating a safe and welcoming community environment involves prioritizing inclus
 
 ### Code of Conduct
 
-Every open source project should have a code of conduct as a clear set of guidelines for how members within the community should behave and treat each other. You can, for example, emphasize the importance of using positive and inclusive language, treating others with respect, and avoiding discrimination or harassment. Inform them of the consequences they may face if they do not follow the guidelines. A code of conduct helps to prevent conflicts, promotes respect, and ensures that everyone in the community feels safe and comfortable. To create one, you can read the "[Code of Conduct](./how-to-setup-your-project.md#code-of-conduct)" section in the "How to Setup Your Open Source Project" chapter.
+Every open source project should have a code of conduct as a clear set of guidelines for how members within the community should behave and treat each other. You can, for example, emphasize the importance of using positive and inclusive language, treating others with respect, and avoiding discrimination or harassment. Inform them of the consequences they may face if they do not follow the guidelines. A code of conduct helps to prevent conflicts, promotes respect, and ensures that everyone in the community feels safe and comfortable. You can read the "[Code of Conduct](./how-to-setup-your-project.md#code-of-conduct)" section in the "How to Setup Your Open Source Project" chapter to create one.
 
 ### Addressing Conflicts
 
-Imagine you're seeing a member behave disrespectfully towards another member on GitHub or Discord, or you receive an incident report from a member saying someone harassed them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose trust in you. You can learn more about managing conflicts in the "[Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations)" section.
+Imagine seeing a member behave disrespectfully towards another member on GitHub or Discord, or receiving an incident report from a member saying someone harassed them. Addressing conflicts is crucial to fostering a positive culture. If you don't promptly resolve them, your community will no longer feel safe and will lose trust in you. You can learn more about managing conflicts in the "[Handling Difficult Situations](./communication-and-collaboration.md#handling-difficult-situations)" section.
 
 ### Leading by Examples
 
@@ -104,11 +104,11 @@ To foster the growth of these new talents, you can provide them with mentorship,
 
 ### Identify New Talents with OpenSauced
 
-You can utilize OpenSauced's features, [Repository Insights](https://docs.opensauced.pizza/features/repo-insights/) and [Contributor Insights](https://docs.opensauced.pizza/features/contributor-insights/), to identify new talents by tracking active project contributors.
+You can utilize OpenSauced [Repository Insights](https://docs.opensauced.pizza/features/repo-insights/) and [Contributor Insights](https://docs.opensauced.pizza/features/contributor-insights/) features to identify new talents by tracking active project contributors.
 
 #### 1. Using Repository Insights
 
-You can list the projects that you maintain on a Repository Insights Page. This feature allows you to monitor your projects' activity and identify contributors who actively contribute to and impact them.
+You can list the projects you maintain on a Repository Insights Page. This feature allows you to monitor your projects' activity and identify contributors who actively contribute to and impact them.
 
 You can find more information about your contributors in the "Contributors" tab. It allows you to view their activity level, the date of their last contribution, and the number of contributions. It also gives you information on their time zone and the languages they use most. Learn more about Repository Insights for maintainers and how to create one on [OpenSauced Docs](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/#repository-insights-connecting-your-repositories).
 
