@@ -1,8 +1,8 @@
 # How to Maintain Code Quality and Documentation
 
-It is important to maintain a project with high code quality and up-to-date documentation. This will help contributors understand the project and make it easier for them to contribute.
+Maintaining a project with high code quality and up-to-date documentation is important. This will help contributors understand the project and make it easier for them to contribute.
 
-This chapter will cover how to maintain code quality and documentation in your open source project.
+This chapter will cover ways of maintaining code quality and documentation in your open source project.
 
 ## Code Reviews and High-Quality Contributions
 
@@ -32,7 +32,7 @@ When you review a pull request, the first thing to check is that the proposed ch
 
 The contributor should link the proposed changes to an existing issue, and they should fill out all necessary information in the pull request template. If the pull request still needs to be completed, reach out to the contributor and ask them to provide the missing information.
 
-Remember that you will be dealing with all levels of contributors. Some might be new to open source and not realize they are missing information. Giving constructive feedback with patience is important to help them improve their contributions.
+Remember that you will be dealing with contributors at all levels. Some might be new to open source and not realize they have failed to provide the necessary information. Giving constructive feedback with patience is important to help them improve their contributions.
 
 ### Large and Unfocused Pull Requests
 
@@ -42,7 +42,7 @@ Sometimes, you might get pull requests that are too large and unfocused. Example
 - Pull requests that refactor large parts of the codebase
 - Pull requests that add a lot of new functionality
 
-Large pull requests can be challenging to review effectively and sometimes introduce bugs. In this situation, asking the contributor to break down the pull request into smaller, more focused pull requests is important.
+Large pull requests can be challenging to review effectively and sometimes introduce bugs. In this situation, it is important to ask the contributor to break down the pull request into smaller, more focused pull requests.
 
 ### Automated Tests
 
@@ -54,7 +54,7 @@ To learn more about testing, please refer to [this section](/maintainer-powerups
 
 ### Code Quality Check
 
-When conducting code reviews, it is important to check for code quality and good software engineering practices. This includes checking for proper variable naming, adherence to coding standards, and easy-to-read and understand code. A coding style guide is encouraged to help contributors understand your project's coding standards.
+It is important to check for code quality and good software engineering practices when conducting code reviews. This includes checking for proper variable naming, adherence to coding standards, and easy-to-read and understand code. A coding style guide is encouraged to help contributors understand your project's coding standards.
 
 Many tools can help you check for code quality. You can set up linting for your project to ensure no syntax errors or style issues. You can also set up code scanning tools to check for security vulnerabilities and other issues in the codebase.
 
@@ -68,7 +68,7 @@ You can learn more about branch protection rules in the [official GitHub documen
 
 ## Project Documentation Maintainance
 
-Documentation is an essential part of maintaining an open source project. It helps contributors understand the project and makes it easier for them to contribute. It is important to keep the documentation up to date and ensure that it reflects the project's current state.
+Documentation is an essential part of maintaining an open source project. It helps contributors understand the project and makes it easier for them to contribute. So, it is important to keep the documentation up to date and ensure it reflects the project's current state.
 
 Regularly reviewing your project's documentation is recommended to ensure it is up-to-date and accurate. You can set a schedule for once a month to review your project's documentation manually. As you review the documentation, look for ways to improve it and make it easier for contributors to understand the project. Think about times when a new contributor struggled to understand the project and update the documentation to make it easier for them to understand.
 
