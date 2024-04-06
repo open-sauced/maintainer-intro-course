@@ -1,10 +1,10 @@
 # How to Handle Open Issues and Pull Requests
 
-One of the core responsibilities of an open source maintainer is going through the open issues and pull requests. In this section, we will talk about how to best handle open issues, pull requests, and security vulnerabilities.
+One of the core responsibilities of an open source maintainer is triaging open issues and reviewing pull requests. In this chapter, we will talk about how to handle best open issues, pull requests, and security vulnerabilities.
 
 ## Issues Triage and Management
 
-Issue triage involves reviewing an existing list of open issues and prioritizing them in order of importance. This next section will break down the most common types of issues and how to best triage and respond to contributors.
+Issue triage involves reviewing an existing list of open issues and prioritizing them in order of importance. The following sections will break down the most common types of issues and how to best triage and respond to contributors.
 
 ### Bug Labeled Issues
 
@@ -16,13 +16,13 @@ Then, you need to define whether the bug is considered critical, medium, or smal
 
 When an open issue contains a bug that is a major blocker and has affected the functionality of the whole application or website, you can consider it as high priority or critical. This kind of bug has to be fixed immediately.
 
-Labeling these issues with a `critical` or `high-priority` is best so the team knows they must address them first. Consider using the types of colors for the labels. Using bright red or orange label colors is a good choice because it indicates the level of seriousness and is easier to spot in a list of issues.
+Labeling these issues as `critical` or `high-priority` is best so the team knows they must address them first. Consider using labels in different colors. Bright red or orange label colors are a good choice because they indicate the level of seriousness and are easier to spot in a list of issues.
 
 For critical bug fixes, it is best to have core team members or regular contributors work on these issues to ensure that it is done well and promptly. You can use a label like `core team work` to indicate that this issue is only open for select members.
 
 #### Small to Medium Bugs
 
-A bug that is not affecting the functionality of your application is not considered critical. You can categorize bugs as medium-level when you can fix them after deploying an upcoming release. And those you may or may not include in the development are considered small bugs.
+A bug that is not affecting the functionality of your application is not considered critical. You can categorize bugs as medium-level when you can fix them after deploying an upcoming release. Those you may or may not include in the development are considered small bugs.
 
 You can open these issues up for anyone to work on. Some of these issues might be small enough that it would be a good opportunity for a new contributor. Label the issue with a `good first issue` or `first timers only` in this situation.
 
@@ -62,7 +62,7 @@ Some users will quickly respond to replies, while others might take longer. If y
 
 Issues that haven't been worked on for months are considered stale. Sometimes, you might be interested in resurrecting this issue and making it a higher-priority item. If that is the case, then go through the normal triage process and add the appropriate labels.
 
-But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using an action like [Close Stale Issues and PRs](https://github.com/actions/stale).
+But other times, you might realize this is an issue that you prefer not to work on. If that is the case, go ahead and close it for good. Some maintainers automate this process using actions like [Close Stale Issues and PRs](https://github.com/actions/stale).
 
 ## Pull Requests Reviews
 
@@ -78,11 +78,11 @@ While it is important to provide detailed reviews, you want to specify which cha
 
 > "This is a breaking change, and we should change it to be this instead."
 
-If your suggested changes are minor suggestions/nitpicks, then make sure to indicate that in your review. That lets the author decide if they want to incorporate those changes in their pull request or not.
+If your suggested changes are minor suggestions or nitpicks, make sure to indicate that in your review. That lets the author decide whether to incorporate those changes in their pull request.
 
 ### Manual Testing
 
-If a pull request involves a small change to documentation or code, then manually testing the changes is unnecessary. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that everything is working properly.
+If a pull request involves a small change to documentation or code, manually testing the changes is unnecessary. But if the pull request involves significant changes to the project, it is best to test the changes yourself to ensure that everything is working properly.
 
 If you have deployed previews set up through a service like [Netlify](https://docs.netlify.com/site-deploys/deploy-previews/) or [Vercel](https://vercel.com/docs/deployments/preview-deployments), that is a good first step to manually testing the changes. If you don't have previews set up, you should pull down the project locally to manually test the changes. It is essential to take your time to manually test everything because you are the last line of defense before a pull request is merged in. A new set of changes can break the application without proper testing.
 
@@ -90,7 +90,7 @@ When the pull request has broken a part of the application, respond to the autho
 
 ### Missing Tests
 
-Not all pull requests will need tests because they are small code changes or updates to documentation. But for larger features or refactors, tests should be added to help ensure that everything is working as expected. If the pull request author has not set up tests, reach out to them on the pull request to let them know what parts need to be tested. It also helps to outline adding tests in your documentation as an expectation.
+Not all pull requests will need tests because they are small code changes or updates to documentation. However, for larger features or refactors, tests should be added to help ensure that everything is working as expected. If the pull request author has not set up tests, reach out to them on the pull request to let them know what parts need to be tested. It also helps to outline adding tests in your documentation as an expectation.
 
 ### Failing Automated Tests
 
@@ -156,7 +156,7 @@ If contributors have concerns about the project, you will want to create a safe 
 
 ## Task Prioritization and Realistic Timelines
 
-Sometimes, juggling all the tasks to maintain an open source project can be difficult. Set aside time each week to triage issues and look through the project backlog to prioritize work to be done. Choose when to label issues and pull requests as a high priority wisely. Realistically, there will always be issues that should be considered a top priority, while you can address the rest later.
+Juggling all the tasks to maintain an open source project can be difficult sometimes. Set aside time each week to triage issues and look through the project backlog to prioritize work to be done. Choose when to label issues and pull requests as a high priority. Realistically, there will always be issues that should be considered a top priority, while you can address the rest later.
 
 When setting realistic timelines, add an extra few days to your work estimate. If you think a new set of features will take a couple of weeks, tack on each week. Issues come up all of the time in projects. So you want to avoid timeboxing yourself to a very strict deadline when it wasn't realistic in the first place.
 
@@ -164,7 +164,7 @@ When working with other volunteer contributors, allow extra time to complete the
 
 ## Security Vulnerabilities Handling
 
-In case security issues arise within your project, your contributors must be aware of the optimal methods for reporting them. It would be best to have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually added in the project's root or `.github` directory. It would also be good to link to the security file in your README file for easier community access.
+In case security issues arise within your project, your contributors must be aware of the optimal methods for reporting them. It would be best to have a policy for reporting security vulnerabilities stored in the `SECURITY.md` file. This file is usually added to the project's root or `.github` directory. It would also be good to link to the security file in your README file for easier community access.
 
 A lot of maintainers will choose to go with this security policy template:
 
@@ -176,4 +176,4 @@ A lot of maintainers will choose to go with this security policy template:
 
 ### Dependabot
 
-Dependabot is a GitHub feature that will monitor your project's dependencies and report any possible security vulnerabilities found. You can configure dependabot to report issues or create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
+Dependabot is a GitHub feature that monitors your project's dependencies and reports any possible security vulnerabilities. You can configure Dependabot to report issues or create pull requests to update dependencies with security vulnerabilities. To learn more about this feature, please read through the [GitHub documentation](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide).
