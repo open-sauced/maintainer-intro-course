@@ -190,7 +190,7 @@ Here is an example of a [pull request template](https://raw.githubusercontent.co
 
 Keeping track of your issues is getting more challenging as your project progresses. A great tool that can help you organize and track your issues is [projects (classic)](https://docs.github.com/en/issues/organizing-your-work-with-project-boards) on GitHub. With projects (classic), you can efficiently manage your project's features, roadmaps, or releases as they're integrated with issues and pull requests.
 
-There are some [projects (classic) templates](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards#templates-for-projects-classic) you can use, including the "basic kanban" template. Here, you can create notes and place the existing issues and pull requests in the "Todo", "In Progress", and "Done" columns. This will make it easy for you and your team to track the progress of your project.
+There are some [projects (classic) templates](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards#templates-for-projects-classic) you can use, including the "basic kanban" template. Here, you can create notes and place the existing issues and pull requests in the "Backlog", "Ready", "In progress", "In review", and "Done" columns. This will make it easy for you and your team to track the progress of your project.
 
 To create a new project (classic) for an individual repository, navigate to your GitHub profile and click the "Projects" tab. From there, you will see a green "New project" button where you can create a new board and link it to a repository. You can also make this board private to core maintainers or publicly visible to everyone.
 
