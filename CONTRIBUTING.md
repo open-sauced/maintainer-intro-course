@@ -144,13 +144,13 @@ Follow these steps to add a new chapter to our course:
 
    Create a new Markdown (`.md`) file in the root and name the file to reflect the chapter's content—for example, `how-to-contribute-to-open-source.md` for a chapter about how to contribute to open source.
 
-   > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
+   !> Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
 2. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
-   > **Note**: There should only be **one** `heading 1` in each file.
+   !> There should only be **one** `heading 1` in each file.
 
 3. **Test your changes**.
 
