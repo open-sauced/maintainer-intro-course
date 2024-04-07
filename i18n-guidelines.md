@@ -4,7 +4,7 @@ Welcome to our i18n Guidelines! We appreciate your interest in translating our B
 
 At the moment, we have the course in the following languages:
 
-- English
+- [English](./README.md)
 
 ## How Can I Contribute?
 
@@ -35,7 +35,7 @@ If you are familiar with the translated language(s), you can help us review the 
 
 ## Adding Translations
 
-First, please read our [Contributing Guide](CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
+First, please read our [Contributing Guide](./CONTRIBUTING.md) to setting up the project locally and for the technical instruction. Then, follow these steps to add the translations:
 
 1. **Identify target languages**.
 
