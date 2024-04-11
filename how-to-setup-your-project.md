@@ -188,4 +188,4 @@ To create a new project:
 
 Please read the [GitHub documentation](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-items-in-your-project/adding-items-to-your-project) to learn more about adding items to your project.
 
-![GitHub Project Boards GIF](./assets/gif/gh-project-boards.gif)
+![GitHub Project Boards GIF](./assets/gif/create-github-project.gif)
