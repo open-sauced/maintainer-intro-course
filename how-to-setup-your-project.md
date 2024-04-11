@@ -182,7 +182,7 @@ To create a new project:
 1. Navigate to your GitHub profile and click the "Projects" tab.
 2. Click the green "New project" button.
 3. Choose a template.
-4. Click the "Create project" button at the bottom.
+4. Name your project and click the "Create project" button at the bottom.
 
 ?> Projects are private by default. You can make them private to core maintainers or publicly visible to everyone.
 
