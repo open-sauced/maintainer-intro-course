@@ -367,4 +367,8 @@ Once your project is up and running, monitoring its health and activity is impor
 
 You can learn more about how to create a successful project with OpenSauced with our [Maintainers Guide to OpenSauced](https://docs.opensauced.pizza/maintainers/maintainers-guide-to-open-sauced/).
 
-Congratulations on creating your first project! Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
+---
+
+Congratulations on creating your first project! Now, you can share it on our [Maintainers Guestbook](./maintainers-guestbook.md) page.
+
+?> Remember, these steps are guidelines; the key to a healthy open source project is to foster an open, inclusive, and collaborative environment.
