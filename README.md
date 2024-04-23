@@ -12,35 +12,36 @@ Welcome to the Becoming a Maintainer Course with OpenSauced! This course is desi
 
 The course is divided into chapters, with each covering a different aspect of being an open source maintainer:
 
-### [Intro: Understanding the Role of an Open Source Maintainer](/intro.md)
+### [Intro: Understanding the Role of an Open Source Maintainer](intro.md)
 
-### [How to Setup Your Open Source Project](/how-to-setup-your-project.md)
+### [How to Setup Your Open Source Project](how-to-setup-your-project.md)
 
-### [How to Handle Open Issues and Pull Requests](/issues-and-pull-requests.md)
+### [How to Handle Open Issues and Pull Requests](issues-and-pull-requests.md)
 
-### [Maintainer Power Ups](/maintainer-powerups.md)
+### [Maintainer Power Ups](maintainer-powerups.md)
 
-### [Building Your Open Source Dream Team](/your-team.md)
+### [Building Your Open Source Dream Team](your-team.md)
 
-### [Building and Nurturing a Welcoming and Supportive Community](/building-community.md)
+### [Building and Nurturing a Welcoming and Supportive Community](building-community.md)
 
-### [How to Communicate and Collaborate Effectively](/communication-and-collaboration.md)
+### [How to Communicate and Collaborate Effectively](communication-and-collaboration.md)
 
-### [How to Maintain Code Quality and Documentation](/maintaining-code-quality.md)
+### [How to Maintain Code Quality and Documentation](maintaining-code-quality.md)
 
-### [Let's Get Practical: Starting Your Project](/getting-practical.md)
+### [Let's Get Practical: Starting Your Project](getting-practical.md)
 
-### [The Power of Metrics and Analytics](/metrics-and-analytics.md)
+### [The Power of Metrics and Analytics](metrics-and-analytics.md)
 
 ### Additional Information
 
 As this is the beginning of your open source maintainer journey, we've also provided additional information in these chapters:
 
-- [Glossary](/glossary.md): A glossary of common terms and definitions used by open source maintainers.
+- [Glossary](glossary.md): A glossary of common terms and definitions used by open source maintainers.
+- [Additional Resources](additional-resources.md): A list of resources for further learning about open source maintainers.
 
 ## Getting Started
 
-To start the course, navigate to the [`intro` file](/intro.md) in the repository or visit the [Becoming a Maintainer Course with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
+To start the course, navigate to the [`intro` file](intro.md) in the repository or visit the [Becoming a Maintainer Course with OpenSauced website](https://maintainer.opensauced.pizza/) and start reading! Each chapter builds on the previous one, so we recommend reading them in order.
 
 As you work through the course, we encourage you to experiment with the tools and concepts covered in the chapters.
 
@@ -60,9 +61,9 @@ Happy learning and contributing!
 
 ## 🤝 Contributing to this Repository
 
-We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](/CONTRIBUTING.md) for information on how to contribute.
+We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
 
-If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](/i18n-guidelines.md).
+If you want to translate our Becoming a Maintainer Course with OpenSauced course, check out our [🌐 i18n Guidelines](i18n-guidelines.md).
 
 ## ⚖️ LICENSE
 
