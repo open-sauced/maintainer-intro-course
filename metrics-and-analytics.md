@@ -62,7 +62,7 @@ An OpenSauced [Workspace](https://docs.opensauced.pizza/features/workspaces/) se
 
 To create a Workspace:
 
-1. Log in to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, click the "Workspace" tab, and you should see your personal workspace.
+1. Log in to your [OpenSauced account](https://app.opensauced.pizza/). Once you're there, click the "Workspace" dashboard, and you should see your personal workspace.
 2. Click on the "Edit" button. You'll be prompted to name your workspace and add repositories.
 3. Add your project's repository.
 4. Click "Create Workspace" to create your Workspace.
