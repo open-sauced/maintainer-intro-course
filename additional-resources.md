@@ -13,6 +13,7 @@ On this page, you will find additional resources to help you learn more about al
 - [New Maintainer Resources Series](https://dev.to/bekahhw/series/25520)
 - [Maintainer Toolkit Series](https://dev.to/bekahhw/series/24725) by BekahHW
 - [Maintainer Toolkit Series](https://dev.to/nickytonline/series/24726) by Nick Taylor
+- [The Missing Piece: Why Your Project Needs a Maintainer Onboarding Process](https://dev.to/opensauced/the-missing-piece-why-your-project-needs-a-maintainer-onboarding-process-np0)
 - [Scaling Open Source Projects: Navigating Challenges](https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2)
 - [Collaborate, Conquer, & Grow: Mastering the Art of Issue Management for Open Source Projects](https://dev.to/opensauced/collaborate-conquer-grow-mastering-the-art-of-issue-management-for-open-source-projects-49gi)
 - [The Lonely Journey of Open-Source Maintainers: A Call for Connection and Recognition](https://dev.to/opensauced/the-lonely-journey-of-open-source-maintainers-a-call-for-connection-and-recognition-2ghe)

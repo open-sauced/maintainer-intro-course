@@ -1,4 +1,4 @@
-# Contributing to OpenSauced Intro
+# Contributing to OpenSauced Becoming a Maintainer Course
 
 Contributions are always welcome, no matter how large or small. Before contributing, please read the [Code of Conduct](https://docs.opensauced.pizza/contributing/code-of-conduct/) and follow the directions in this guide.
 
@@ -36,7 +36,15 @@ You can always ask for help in the `🍕opensauced-contributors-chat` channel on
    cd maintainer-intro-course
    ```
 
-4. Run the project.
+4. Create a new branch to work on your changes.
+
+   ```bash
+   git checkout -b YOUR-BRANCH-NAME
+   ```
+
+   Replace "YOUR-BRANCH-NAME" with a descriptive name for your branch — for example, `feat/add-submit-button`.
+
+5. Run the project.
 
 ### Running the Project Locally
 
@@ -136,13 +144,13 @@ Follow these steps to add a new chapter to our course:
 
    Create a new Markdown (`.md`) file in the root and name the file to reflect the chapter's content—for example, `how-to-contribute-to-open-source.md` for a chapter about how to contribute to open source.
 
-   > **NOTE**: Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
+   !> Be sure to follow naming conventions. Notice that file names are not capitalized, and there are hyphens in place of spaces between words.
 
 2. **Write content**.
 
    Open the newly created Markdown file in a text editor and write the content for your chapter using the Markdown syntax. You can include headings, text, images, links, lists, and other elements to present your information effectively.
 
-   > **Note**: There should only be **one** `heading 1` in each file.
+   !> There should only be **one** `heading 1` in each file.
 
 3. **Test your changes**.
 

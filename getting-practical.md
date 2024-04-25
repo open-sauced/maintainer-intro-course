@@ -16,7 +16,7 @@ Sometimes, the hardest part is deciding what you will work on. Here are some gen
 - Think about a topic you're passionate about that others might be interested in.
 - Think about a problem you've had to solve that others can benefit from.
 
-Don't think too hard about it now. You can always go back and update things later. For now, if you need a place to get started, let's create a repository about your favorite open source resources.
+Don't think too hard about it now. You can always go back and update things later. For now, if you need a place to start, let's create a repository about your favorite open source resources.
 
 ## Creating Your Repository
 
@@ -28,7 +28,7 @@ We will walk through the steps to set up your project in GitHub. Although it's n
 - Initialize the repository with a README file and add a license.
 - Click the "Create repository" button.
 
-![setting up a repo](./assets/gifs/set-up-repo.gif)
+![setting up a repo](./assets/gif/set-up-repo.gif)
 
 If you're using our starter idea, you could use the following:
 
@@ -319,7 +319,7 @@ body:
 
 - In your repository, click the "Issues" tab and then the "New issue" button.
 
-  ![create issue](./assets/images/create-issue.png)
+  ![create issue](./assets/img/create-issue.png)
 
 - Select the type of issue you want to create. In this example, we'll select Feature Request.
 - Write your issue. If you're following along the example, we'll write a feature request for a new resource:
@@ -334,7 +334,7 @@ body:
 
 - Once you've completed the issues, click "Submit new issue."
 
-  ![feature-form.png](./assets/images/feature-form.png)
+  ![feature-form.png](./assets/img/feature-form.png)
 
 ### Promoting Your Project
 

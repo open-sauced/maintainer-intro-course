@@ -81,7 +81,7 @@ Happy learning and contributing!
 
 ---
 
-## 🤝 Contributing to this Repository
+## 🤝 Contributing to OpenSauced Becoming a Maintainer Repository
 
 We encourage you to contribute to OpenSauced! All contributors are required to abide by our [Code of Conduct](https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md). Please check out the [Contributing Guidelines](CONTRIBUTING.md) for information on how to contribute.
 
